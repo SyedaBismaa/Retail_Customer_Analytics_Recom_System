@@ -1,0 +1,209 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Price,Cost,Discount,Stock_Quantity,Product_Rating
+PROD0001,Noise Fit Watch 400,Electronics,Smartwatches,Noise,24590.0,17540.65,0.0,31.0,4.0
+PROD0002,Samsung Pulse Smartwatch Plus,Electronics,Smartwatches,Samsung,12360.0,10261.51,8.9,65.0,3.5
+PROD0003,Dell Note 100,Electronics,Smartphones,Dell,63870.0,36084.07,0.0,79.0,3.8
+PROD0004,boAt Galaxy 200,Electronics,Smartphones,boAt,54470.0,42952.06,3.7,31.0,2.5
+PROD0005,Noise Over-Ear Headphone 100,Electronics,Headphones,Noise,12290.0,9288.8,10.5,19.0,4.5
+PROD0006,"Mi 4K UHD TV 200""",Electronics,Televisions,Mi,47380.0,26254.82,0.0,27.0,3.1
+PROD0007,"LG Smart LED TV Pro""",Electronics,Televisions,LG,63590.0,49107.97,7.5,163.0,4.1
+PROD0008,Mi Pulse Smartwatch 400,Electronics,Smartwatches,Mi,18130.0,12378.73,11.1,119.0,3.2
+PROD0009,HP Over-Ear Headphone Lite,Electronics,Headphones,HP,2890.0,1763.86,7.9,160.0,3.8
+PROD0010,Noise Pavilion S2,Electronics,Laptops,Noise,82510.0,48645.33,9.3,49.0,3.5
+PROD0011,Mi Over-Ear Headphone Max,Electronics,Headphones,Mi,5690.0,4432.05,0.0,25.0,3.2
+PROD0012,Noise Pulse Smartwatch Max,Electronics,Smartwatches,Noise,14410.0,10198.38,7.5,29.0,4.4
+PROD0013,HP Pulse Smartwatch S2,Electronics,Smartwatches,HP,3820.0,2626.51,15.9,126.0,2.8
+PROD0014,Dell Inspiron X1,Electronics,Laptops,Dell,292677.21,217994.55,19.5,49.0,3.9
+PROD0015,"Sony 4K UHD TV 100""",Electronics,Televisions,Sony,84070.0,55736.14,13.2,102.0,3.5
+PROD0016,Dell Pulse Smartwatch 200,Electronics,Smartwatches,Dell,8580.65,6391.12,5.5,85.0,2.9
+PROD0017,Samsung Fit Watch X1,Electronics,Smartwatches,Samsung,11120.0,9122.49,9.2,24.0,3.4
+PROD0018,Mi Inspiron Plus,Electronics,Laptops,Mi,110010.0,73389.38,5.4,85.0,3.8
+PROD0019,"HP 4K UHD TV S2""",Electronics,Televisions,HP,64610.0,53535.72,0.0,32.0,5.0
+PROD0020,"Samsung 4K UHD TV S2""",Electronics,Televisions,Samsung,58070.0,35943.27,13.9,158.0,2.9
+PROD0021,Mi Fit Watch Plus,Electronics,Smartwatches,Mi,21690.0,16891.5,0.0,73.0,3.2
+PROD0022,JBL Pulse Smartwatch 300,Electronics,Smartwatches,JBL,18610.0,11843.13,8.6,70.0,4.1
+PROD0023,HP Pulse Smartwatch Max,Electronics,Smartwatches,HP,30193.87,22489.28,2.7,39.0,3.0
+PROD0024,Mi Wireless Earbuds Plus,Electronics,Headphones,Mi,10580.0,8224.82,18.2,179.0,3.5
+PROD0025,Sony Inspiron 500,Electronics,Laptops,Sony,34730.0,23592.62,10.4,40.0,2.3
+PROD0026,Sony Over-Ear Headphone 200,Electronics,Headphones,Sony,4700.0,3584.53,13.0,108.0,4.1
+PROD0027,Dell Wireless Earbuds 500,Electronics,Headphones,Dell,9980.0,6602.6,11.7,34.0,3.6
+PROD0028,JBL Pulse Smartwatch X1,Electronics,Smartwatches,JBL,11120.0,6486.33,6.5,81.0,3.3
+PROD0029,"OnePlus Smart LED TV Max""",Electronics,Televisions,OnePlus,46410.0,37220.35,8.5,94.0,3.3
+PROD0030,Samsung Over-Ear Headphone 400,Electronics,Headphones,Samsung,11130.0,7065.56,14.6,82.0,3.6
+PROD0031,Levi's Slim Jeans Plus,Clothing,Jeans,Levi's,3170.0,1752.38,12.1,34.0,4.1
+PROD0032,H&M Slim Fit Shirt S2,Clothing,Men's Shirts,H&M,2820.0,2197.25,11.9,71.0,4.0
+PROD0033,Van Heusen Graphic Tee Lite,Clothing,T-Shirts,Van Heusen,1340.0,789.64,15.6,84.0,3.8
+PROD0034,Puma Floral Dress S2,Clothing,Women's Dresses,Puma,2530.0,1953.49,19.0,15.0,2.9
+PROD0035,Levi's Cotton T-Shirt 500,Clothing,T-Shirts,Levi's,1400.0,969.79,0.1,49.0,5.0
+PROD0036,Puma Floral Dress Max,Clothing,Women's Dresses,Puma,4230.0,3398.27,16.5,59.0,3.5
+PROD0037,Levi's Slim Fit Shirt Plus,Clothing,Men's Shirts,Levi's,2580.0,1624.31,6.5,100.0,4.2
+PROD0038,Peter England Saree X1,Clothing,Ethnic Wear,Peter England,2550.0,1987.14,0.0,41.0,3.9
+PROD0039,H&M Graphic Tee Lite,Clothing,T-Shirts,H&M,310.0,219.63,0.0,52.0,3.2
+PROD0040,Peter England Straight Fit Jeans Plus,Clothing,Jeans,Peter England,2000.0,1272.59,7.1,85.0,4.6
+PROD0041,Peter England A-Line Dress Pro,Clothing,Women's Dresses,Peter England,2050.0,1172.27,8.4,21.0,2.2
+PROD0042,Van Heusen Kurta Set 500,Clothing,Ethnic Wear,Van Heusen,1700.0,991.6,3.4,58.0,2.6
+PROD0043,Allen Solly Slim Fit Shirt Plus,Clothing,Men's Shirts,Allen Solly,2900.0,1602.13,2.4,37.0,5.0
+PROD0044,Van Heusen Slim Jeans 500,Clothing,Jeans,Van Heusen,3150.0,1744.54,8.1,101.0,3.8
+PROD0045,Zara Floral Dress Max,Clothing,Women's Dresses,Zara,2230.0,1588.69,13.6,72.0,3.7
+PROD0046,Van Heusen Kurta Set 500 (2),Clothing,Ethnic Wear,Van Heusen,1420.0,854.26,0.0,57.0,3.5
+PROD0047,Peter England Graphic Tee Lite,Clothing,T-Shirts,Peter England,980.0,553.82,11.8,84.0,3.8
+PROD0048,Levi's Formal Shirt 400,Clothing,Men's Shirts,Levi's,1620.0,1139.73,9.5,63.0,3.1
+PROD0049,Van Heusen Formal Shirt S2,Clothing,Men's Shirts,Van Heusen,1660.0,1253.98,11.2,58.0,3.5
+PROD0050,Van Heusen Saree 300,Clothing,Ethnic Wear,Van Heusen,4680.0,3892.85,11.7,101.0,3.5
+PROD0051,Nike Graphic Tee 500,Clothing,T-Shirts,Nike,1350.0,891.3,11.7,86.0,4.1
+PROD0052,Levi's Graphic Tee X1,Clothing,T-Shirts,Levi's,1470.0,1088.26,1.6,57.0,4.2
+PROD0053,Zara A-Line Dress 200,Clothing,Women's Dresses,Zara,3220.0,2134.51,11.7,40.0,3.9
+PROD0054,Levi's Formal Shirt 200,Clothing,Men's Shirts,Levi's,2830.0,1909.39,5.0,85.0,5.0
+PROD0055,H&M Slim Jeans X1,Clothing,Jeans,H&M,2310.0,1559.57,12.4,100.0,2.7
+PROD0056,Peter England Straight Fit Jeans S2,Clothing,Jeans,Peter England,2070.0,1293.78,7.8,99.0,3.8
+PROD0057,Allen Solly Cotton T-Shirt 100,Clothing,T-Shirts,Allen Solly,870.0,497.34,11.0,80.0,3.6
+PROD0058,Nike Floral Dress 500,Clothing,Women's Dresses,Nike,2870.0,2204.5,12.1,101.0,3.5
+PROD0059,Cello Table Lamp Plus,Home & Kitchen,Home Decor,Cello,2590.0,1583.78,0.0,44.0,4.1
+PROD0060,Pigeon Wall Clock 100,Home & Kitchen,Home Decor,Pigeon,820.0,558.26,11.6,63.0,2.8
+PROD0061,Borosil Electric Kettle 500,Home & Kitchen,Small Appliances,Borosil,5210.0,4404.8,12.7,14.0,3.8
+PROD0062,Philips Wall Clock Max,Home & Kitchen,Home Decor,Philips,3060.0,1760.04,7.1,110.0,3.8
+PROD0063,Philips Storage Container Set 300,Home & Kitchen,Storage & Containers,Philips,490.0,354.5,1.1,48.0,4.1
+PROD0064,Milton Pressure Cooker MaxL,Home & Kitchen,Cookware,Milton,3370.0,2765.88,16.2,20.0,4.1
+PROD0065,Borosil Electric Kettle X1,Home & Kitchen,Small Appliances,Borosil,5430.0,4197.79,6.0,48.0,2.3
+PROD0066,Cello Table Lamp 300,Home & Kitchen,Home Decor,Cello,2910.0,1807.02,2.9,52.0,4.1
+PROD0067,Bajaj Wall Clock 300,Home & Kitchen,Home Decor,Bajaj,3200.0,2458.38,1.2,34.0,4.8
+PROD0068,Cello Storage Container Set Lite,Home & Kitchen,Storage & Containers,Cello,330.0,210.35,0.0,39.0,2.4
+PROD0069,Borosil Pressure Cooker 100L,Home & Kitchen,Cookware,Borosil,410.0,226.44,15.3,101.0,2.6
+PROD0070,Pigeon Storage Container Set 400,Home & Kitchen,Storage & Containers,Pigeon,1330.0,1031.87,15.5,82.0,3.0
+PROD0071,Cello Non-Stick Pan 300,Home & Kitchen,Cookware,Cello,4550.0,3708.68,0.0,80.0,3.4
+PROD0072,Milton Lunch Box Pro,Home & Kitchen,Storage & Containers,Milton,1660.0,1360.86,12.2,52.0,4.3
+PROD0073,Bajaj Mixer Grinder Max,Home & Kitchen,Small Appliances,Bajaj,6500.0,4754.92,13.0,95.0,3.8
+PROD0074,Philips Table Lamp X1,Home & Kitchen,Home Decor,Philips,1620.0,1348.23,34.4,91.0,2.6
+PROD0075,Cello Storage Container Set 200,Home & Kitchen,Storage & Containers,Cello,1010.0,656.17,6.7,54.0,3.7
+PROD0076,Borosil Lunch Box Lite,Home & Kitchen,Storage & Containers,Borosil,900.0,511.97,4.4,105.0,4.5
+PROD0077,Bajaj Table Lamp 500,Home & Kitchen,Home Decor,Bajaj,2180.0,1404.47,22.2,86.0,3.7
+PROD0078,Cello Wall Clock Lite,Home & Kitchen,Home Decor,Cello,2760.0,1565.98,4.2,112.0,5.0
+PROD0079,Cello Mixer Grinder S2,Home & Kitchen,Small Appliances,Cello,7860.0,5454.89,18.8,154.0,3.5
+PROD0080,Borosil Mixer Grinder S2,Home & Kitchen,Small Appliances,Borosil,4250.0,3527.4,3.0,89.0,3.8
+PROD0081,Pigeon Non-Stick Pan S2,Home & Kitchen,Cookware,Pigeon,2430.0,1644.9,7.9,50.0,4.0
+PROD0082,Borosil Pressure Cooker 400L,Home & Kitchen,Cookware,Borosil,2130.0,1344.18,17.1,64.0,3.3
+PROD0083,The Body Shop Eau de Parfum 400ml,Beauty,Fragrances,The Body Shop,4320.0,3108.74,0.1,30.0,4.1
+PROD0084,Maybelline Matte Lipstick 100,Beauty,Makeup,Maybelline,1570.0,1004.73,13.6,59.0,
+PROD0085,Nivea Shampoo X1ml,Beauty,Haircare,Nivea,1430.0,1020.08,8.6,74.0,3.9
+PROD0086,Nivea Face Wash 400ml,Beauty,Skincare,Nivea,1520.0,1209.95,16.0,32.0,3.1
+PROD0087,Nivea Matte Lipstick 200,Beauty,Makeup,Nivea,2630.0,2061.39,7.8,101.0,4.7
+PROD0088,Lakme Body Mist S2ml,Beauty,Fragrances,Lakme,4340.0,3153.84,13.2,109.0,3.3
+PROD0089,Himalaya Face Wash 100ml,Beauty,Skincare,Himalaya,860.0,607.36,35.3,2.0,3.1
+PROD0090,The Body Shop Shampoo 200ml,Beauty,Haircare,The Body Shop,1070.0,888.45,15.6,157.0,3.4
+PROD0091,Himalaya Matte Lipstick 500,Beauty,Makeup,Himalaya,1900.0,1436.53,20.7,44.0,3.7
+PROD0092,Lakme Matte Lipstick S2,Beauty,Makeup,Lakme,2170.0,1219.48,0.0,42.0,4.0
+PROD0093,The Body Shop Eau de Parfum 400ml (2),Beauty,Fragrances,The Body Shop,4680.0,3097.86,0.0,33.0,4.4
+PROD0094,Lakme Shampoo S2ml,Beauty,Haircare,Lakme,840.0,590.49,14.1,65.0,3.1
+PROD0095,Lakme Foundation Max,Beauty,Makeup,Lakme,1420.0,956.98,13.0,106.0,3.7
+PROD0096,L'Oreal Hair Oil Proml,Beauty,Haircare,L'Oreal,840.0,557.25,17.0,51.0,3.1
+PROD0097,The Body Shop Body Mist Plusml,Beauty,Fragrances,The Body Shop,1600.0,1222.85,19.8,61.0,3.2
+PROD0098,The Body Shop Hair Oil Liteml,Beauty,Haircare,The Body Shop,1230.0,957.08,2.4,70.0,4.0
+PROD0099,Lakme Face Wash 100ml,Beauty,Skincare,Lakme,1300.0,1042.23,3.8,149.0,2.5
+PROD0100,Nivea Face Wash Proml,Beauty,Skincare,Nivea,1340.0,828.35,1.0,113.0,3.1
+PROD0101,Lakme Eau de Parfum S2ml,Beauty,Fragrances,Lakme,1510.0,1145.89,0.0,65.0,2.6
+PROD0102,Lakme Eau de Parfum Maxml,Beauty,Fragrances,Lakme,4250.0,2959.56,10.5,36.0,3.4
+PROD0103,Mamaearth Matte Lipstick 200,Beauty,Makeup,Mamaearth,2400.0,1736.43,18.8,147.0,3.5
+PROD0104,Maybelline Moisturizer 300ml,Beauty,Skincare,Maybelline,1970.0,1202.46,13.7,82.0,3.4
+PROD0105,Tata Atta X1kg,Grocery,Staples,Tata,500.0,341.58,13.8,330.0,4.2
+PROD0106,Nestle Atta X1kg,Grocery,Staples,Nestle,480.0,400.15,27.9,248.0,2.5
+PROD0107,Tata Biscuits Liteg,Grocery,Snacks,Tata,150.0,122.1,18.7,285.0,3.6
+PROD0108,Amul Ghee 200ml,Grocery,Dairy,Amul,87.0,53.52,12.4,85.0,3.0
+PROD0109,Tata Namkeen 300g,Grocery,Snacks,Tata,290.0,197.49,5.0,212.0,
+PROD0110,Tata Coffee Plusg,Grocery,Beverages,Tata,140.0,80.58,6.8,65.0,3.0
+PROD0111,Aashirvaad Milk ProL,Grocery,Dairy,Aashirvaad,210.0,136.42,28.6,167.0,3.0
+PROD0112,Britannia Milk 100L,Grocery,Dairy,Britannia,77.0,55.44,5.9,347.0,2.1
+PROD0113,Nestle Juice Proml,Grocery,Beverages,Nestle,350.0,196.28,25.5,298.0,
+PROD0114,Tata Tea 200g,Grocery,Beverages,Tata,150.0,93.18,11.1,131.0,3.5
+PROD0115,Haldiram's Rice Prokg,Grocery,Staples,Haldiram's,560.0,404.77,24.6,194.0,3.8
+PROD0116,Tata Biscuits 300g,Grocery,Snacks,Tata,280.0,224.79,0.2,186.0,4.2
+PROD0117,Britannia Namkeen 100g,Grocery,Snacks,Britannia,230.0,152.9,27.8,395.0,4.0
+PROD0118,Nestle Paneer 300g,Grocery,Dairy,Nestle,160.0,118.72,32.6,1.0,3.1
+PROD0119,Amul Tea Plusg,Grocery,Beverages,Amul,380.0,272.78,9.4,161.0,4.6
+PROD0120,Tata Coffee S2g,Grocery,Beverages,Tata,390.0,260.2,40.0,466.0,3.8
+PROD0121,Aashirvaad Juice 400ml,Grocery,Beverages,Aashirvaad,56.0,41.22,29.4,325.0,3.7
+PROD0122,Amul Tea 200g,Grocery,Beverages,Amul,370.0,219.71,20.4,149.0,
+PROD0123,Nestle Milk 100L,Grocery,Dairy,Nestle,340.0,238.57,21.5,315.0,3.4
+PROD0124,Aashirvaad Tea Maxg,Grocery,Beverages,Aashirvaad,250.0,139.94,27.8,163.0,3.4
+PROD0125,Britannia Tea Maxg,Grocery,Beverages,Britannia,390.0,323.92,10.2,142.0,3.9
+PROD0126,Nestle Namkeen 300g,Grocery,Snacks,Nestle,19.0,12.62,26.6,314.0,3.7
+PROD0127,Amul Milk S2L,Grocery,Dairy,Amul,170.0,133.92,27.2,529.0,3.2
+PROD0128,Tata Rice Maxkg,Grocery,Staples,Tata,450.0,278.88,21.3,276.0,3.4
+PROD0129,Amul Biscuits 500g,Grocery,Snacks,Amul,200.0,134.48,15.8,76.0,3.3
+PROD0130,Fortune Biscuits 500g,Grocery,Snacks,Fortune,280.0,164.83,0.0,117.0,4.8
+PROD0131,Adidas Dumbbell Set 200kg,Sports,Fitness Equipment,Adidas,770.0,525.15,5.1,96.0,2.7
+PROD0132,Adidas Running Shoes Plus,Sports,Sportswear,Adidas,3150.0,2015.09,11.1,117.0,4.0
+PROD0133,Cosco Cricket Bat Max,Sports,Outdoor Sports,Cosco,3400.0,1922.38,3.9,28.0,
+PROD0134,Yonex Football Max,Sports,Outdoor Sports,Yonex,1020.0,768.58,12.2,49.0,3.4
+PROD0135,Decathlon Track Suit Plus,Sports,Sportswear,Decathlon,1030.0,859.57,9.9,36.0,2.8
+PROD0136,Nivia Track Suit X1,Sports,Sportswear,Nivia,1760.0,1105.41,9.8,38.0,2.9
+PROD0137,Yonex Track Suit 200,Sports,Sportswear,Yonex,3640.0,2813.3,24.2,62.0,4.3
+PROD0138,Nike Cricket Bat 300,Sports,Outdoor Sports,Nike,5440.0,3145.27,7.0,85.0,4.9
+PROD0139,Yonex Dumbbell Set Maxkg,Sports,Fitness Equipment,Yonex,5950.0,4020.0,11.7,95.0,4.3
+PROD0140,Yonex Dumbbell Set 500kg,Sports,Fitness Equipment,Yonex,6330.0,4927.86,5.6,56.0,3.5
+PROD0141,Cosco Dumbbell Set X1kg,Sports,Fitness Equipment,Cosco,2430.0,1716.07,14.8,69.0,2.4
+PROD0142,Nivia Tennis Racquet 100,Sports,Racquet Sports,Nivia,6940.0,5563.02,13.3,34.0,2.9
+PROD0143,Cosco Cricket Bat X1,Sports,Outdoor Sports,Cosco,3570.0,2805.97,15.7,112.0,3.2
+PROD0144,Nivia Track Suit 400,Sports,Sportswear,Nivia,3080.0,1786.11,10.9,85.0,3.7
+PROD0145,Nike Tennis Racquet 200,Sports,Racquet Sports,Nike,6500.0,3665.02,5.8,38.0,3.7
+PROD0146,Cosco Badminton Racquet Lite,Sports,Racquet Sports,Cosco,4830.0,3371.01,6.5,75.0,3.1
+PROD0147,Cosco Cricket Bat Pro,Sports,Outdoor Sports,Cosco,4700.0,3134.54,4.2,13.0,3.7
+PROD0148,Cosco Cricket Bat 200,Sports,Outdoor Sports,Cosco,4640.0,3604.69,17.9,165.0,3.8
+PROD0149,Yonex Running Shoes 100,Sports,Sportswear,Yonex,3680.0,3037.92,14.7,116.0,3.6
+PROD0150,Nike Dumbbell Set 200kg,Sports,Fitness Equipment,Nike,5720.0,3340.7,32.1,1.0,3.4
+PROD0151,Nivia Yoga Mat S2,Sports,Fitness Equipment,Nivia,6530.0,5454.54,0.0,19.0,4.0
+PROD0152,Decathlon Track Suit 400,Sports,Sportswear,Decathlon,3700.0,2285.51,27.9,81.0,4.3
+PROD0153,Rupa Reference Guide S2,Books,Academic,Rupa,280.0,161.63,22.3,85.0,
+PROD0154,Bloomsbury Textbook 500,Books,Academic,Bloomsbury,1490.0,1122.72,11.7,214.0,4.6
+PROD0155,Penguin Bestseller Fiction 400,Books,Fiction,Penguin,290.0,185.34,11.9,126.0,3.3
+PROD0156,Westland Storybook 200,Books,Children's Books,Westland,470.0,314.12,17.6,130.0,4.4
+PROD0157,Bloomsbury Reference Guide 500,Books,Academic,Bloomsbury,560.0,365.06,11.7,85.0,3.0
+PROD0158,Rupa Reference Guide S2 (2),Books,Academic,Rupa,1190.0,654.88,31.3,284.0,4.3
+PROD0159,HarperCollins Bestseller Fiction Pro,Books,Fiction,HarperCollins,280.0,218.31,17.1,210.0,4.1
+PROD0160,Rupa Picture Book 100,Books,Children's Books,Rupa,400.0,330.17,30.6,85.0,3.2
+PROD0161,Rupa Novel Vol 500,Books,Fiction,Rupa,590.0,445.55,38.9,0.0,3.1
+PROD0162,Rupa Bestseller Fiction S2,Books,Fiction,Rupa,390.0,255.26,11.4,143.0,3.2
+PROD0163,Scholastic Storybook 200,Books,Children's Books,Scholastic,350.0,195.27,31.1,427.0,2.7
+PROD0164,Penguin Biography Max,Books,Non-Fiction,Penguin,520.0,321.74,36.3,1.0,3.5
+PROD0165,Bloomsbury Self-Help Guide 500,Books,Non-Fiction,Bloomsbury,610.0,461.89,21.3,207.0,3.5
+PROD0166,HarperCollins Bestseller Fiction Lite,Books,Fiction,HarperCollins,400.0,238.15,23.2,355.0,2.6
+PROD0167,Penguin Storybook Pro,Books,Children's Books,Penguin,470.0,390.15,28.1,224.0,3.7
+PROD0168,Westland Biography Max,Books,Non-Fiction,Westland,980.0,806.85,26.6,149.0,3.6
+PROD0169,Penguin Textbook 300,Books,Academic,Penguin,1280.0,963.22,14.9,106.0,4.3
+PROD0170,Westland Novel Vol Max,Books,Fiction,Westland,440.0,362.64,9.7,239.0,4.2
+PROD0171,Scholastic Picture Book S2,Books,Children's Books,Scholastic,330.0,278.86,29.4,321.0,2.4
+PROD0172,Scholastic Textbook Lite,Books,Academic,Scholastic,700.0,457.3,11.7,374.0,3.5
+PROD0173,Hasbro Superhero Toy 200,Toys,Action Figures,Hasbro,1550.0,867.05,13.5,265.0,3.2
+PROD0174,Fisher-Price Construction Kit S2,Toys,Building Blocks,Fisher-Price,3230.0,2155.65,25.0,421.0,3.9
+PROD0175,Mattel Construction Kit Max,Toys,Building Blocks,Mattel,5460.0,3726.22,20.7,130.0,3.3
+PROD0176,LEGO RC Helicopter 100,Toys,Remote Control Toys,LEGO,3930.0,2219.32,22.1,319.0,4.1
+PROD0177,Hot Wheels Block Set 100,Toys,Building Blocks,Hot Wheels,4120.0,3106.24,12.1,262.0,4.4
+PROD0178,Mattel RC Car X1,Toys,Remote Control Toys,Mattel,880.0,747.73,5.7,65.0,3.3
+PROD0179,Hasbro Board Game 500,Toys,Board Games,Hasbro,2060.0,1172.22,20.1,251.0,4.1
+PROD0180,Hot Wheels Board Game 200,Toys,Board Games,Hot Wheels,1030.0,774.59,12.2,243.0,2.7
+PROD0181,LEGO Construction Kit Lite,Toys,Building Blocks,LEGO,4510.0,2991.94,29.7,157.0,3.5
+PROD0182,LEGO RC Helicopter Plus,Toys,Remote Control Toys,LEGO,2770.0,1902.2,18.8,126.0,3.2
+PROD0183,Hot Wheels Block Set S2,Toys,Building Blocks,Hot Wheels,5660.0,4503.24,2.2,108.0,4.1
+PROD0184,Mattel Block Set Pro,Toys,Building Blocks,Mattel,2770.0,1773.82,6.1,146.0,2.9
+PROD0185,Hot Wheels Puzzle Set 400,Toys,Board Games,Hot Wheels,2020.0,1602.33,21.6,245.0,3.0
+PROD0186,LEGO Superhero Toy 400,Toys,Action Figures,LEGO,1000.0,844.32,12.8,114.0,1.8
+PROD0187,Mattel Puzzle Set S2,Toys,Board Games,Mattel,2450.0,1906.57,30.5,525.0,3.7
+PROD0188,LEGO Board Game 400,Toys,Board Games,LEGO,400.0,294.03,12.2,149.0,
+PROD0189,Wildcraft Leather Wallet S2,Accessories,Wallets & Belts,Wildcraft,1460.0,811.93,15.9,100.0,2.9
+PROD0190,Ray-Ban Wayfarer Sunglasses Max,Accessories,Sunglasses,Ray-Ban,3730.0,2531.63,11.0,85.0,3.7
+PROD0191,American Tourister Chronograph Watch 400,Accessories,Watches,American Tourister,4890.0,3792.82,10.8,15.0,2.8
+PROD0192,Titan Analog Watch S2,Accessories,Watches,Titan,11160.0,6815.88,19.9,78.0,3.4
+PROD0193,Titan Aviator Sunglasses Pro,Accessories,Sunglasses,Titan,1370.0,1121.36,11.7,121.0,2.9
+PROD0194,Titan Aviator Sunglasses 200,Accessories,Sunglasses,Titan,5240.0,3047.88,16.7,86.0,3.9
+PROD0195,American Tourister Analog Watch 200,Accessories,Watches,American Tourister,6730.0,4562.04,8.7,127.0,3.2
+PROD0196,Wildcraft Aviator Sunglasses 400,Accessories,Sunglasses,Wildcraft,2120.0,1780.7,4.4,80.0,4.5
+PROD0197,Wildcraft Laptop Backpack Lite,Accessories,Bags & Backpacks,Wildcraft,6770.0,4122.42,4.6,60.0,4.8
+PROD0198,Fastrack Laptop Backpack 100,Accessories,Bags & Backpacks,Fastrack,5580.0,4058.39,3.7,17.0,5.0
+PROD0199,Fastrack Laptop Backpack 400,Accessories,Bags & Backpacks,Fastrack,3100.0,1785.25,11.0,137.0,4.1
+PROD0200,Casio Wayfarer Sunglasses Max,Accessories,Sunglasses,Casio,3590.0,2473.88,1.4,41.0,3.8
+PROD0201,Fastrack Leather Wallet Max,Accessories,Wallets & Belts,Fastrack,5115.53,3810.19,31.3,2.0,3.9
+PROD0202,Casio Wayfarer Sunglasses S2,Accessories,Sunglasses,Casio,4940.0,3006.31,15.2,192.0,3.9
+PROD0203,American Tourister Travel Duffel Plus,Accessories,Bags & Backpacks,American Tourister,2550.0,1905.35,11.5,195.0,3.6
+PROD0204,Wildcraft Formal Belt 400,Accessories,Wallets & Belts,Wildcraft,1980.0,1653.02,33.5,76.0,3.8
+PROD0205,Ray-Ban Wayfarer Sunglasses Plus,Accessories,Sunglasses,Ray-Ban,3230.0,2608.32,2.5,13.0,3.5
+PROD0206,Casio Laptop Backpack 300,Accessories,Bags & Backpacks,Casio,5200.0,3171.62,7.6,44.0,3.3
+PROD0207,Ray-Ban Leather Wallet 300,Accessories,Wallets & Belts,Ray-Ban,1800.0,1352.5,2.3,74.0,3.4
+PROD0208,Fastrack Formal Belt X1,Accessories,Wallets & Belts,Fastrack,1170.0,895.83,7.5,104.0,3.9
