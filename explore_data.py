@@ -32,6 +32,9 @@ df["Month"] = df["Customer_Since"].dt.month
 df["Day"] = df["Customer_Since"].dt.day
 
 print(df["Occupation"].unique()) #-Onehot plus nullvalTreat (hist) ONEHOT(DONE)
+df["Occupation"] = df["Occupation"].fillna(
+    df["Occupation"].mode()[0]
+)
 print(df['Marital_Status'].unique()) #['Married' 'Single' 'Widowed' 'Divorced' nan] DONE
 df["Marital_Status"]=df["Marital_Status"].fillna(df["Marital_Status"].mode()[0])
 print(df['Preferred_Channel'].unique()) #['Online' 'Store' 'Mobile App' nan] hist  DONE
@@ -42,8 +45,7 @@ df["Age"]=df["Age"].fillna(df["Age"].median())
 print(df["Income"].describe())
 print(df['Income'].skew())
 df['Income'] = df['Income'].fillna(df['Income'].median())
-df=pd.get_dummies(df,columns=['Loyalty_Tier','Gender','Marital_Status','Preferred_Channel','Loyalty_Tier',
-                              'State','Occupation'], dtype=int , drop_first=True )
+
 #outliers   - age and income
 df['Age'].hist(bins=50, edgecolor='black')
 plt.xlabel('AGE')
@@ -52,14 +54,41 @@ plt.title('AGe Distribution')
 plt.show()
 df["Age_group"] = pd.cut(df['Age'],bins=[18,35,50,65,100],labels=['Young','Adult','Middle_Age','Old_Age'])
 df['Income_bin'] = pd.qcut(df['Income'], q=4, labels=['Low','Medium','High','Very High'])
+
+sql_customers = df.drop(
+    columns=["Year", "Month", "Day"],
+    errors="ignore"
+).copy()
+
 df=pd.get_dummies(df,columns=['Age_group','Income_bin'],dtype=int ,drop_first=True)
 
+df=pd.get_dummies(df,columns=['Loyalty_Tier','Gender','Marital_Status','Preferred_Channel','Loyalty_Tier',
+                              'State','Occupation'], dtype=int , drop_first=True )
 
 
 
+sql_path = r"C:\Users\syeda\OneDrive\Desktop\Retail\sql_ready_datasets"
+os.makedirs(sql_path, exist_ok=True)
 
+sql_customers.to_csv(
+    os.path.join(sql_path, "customers.csv"),
+    index=False
+)
+customers_sql = pd.read_csv(
+    r"C:\Users\syeda\OneDrive\Desktop\Retail\sql_ready_datasets\customers.csv"
+)
 
+customers_sql = customers_sql.drop(
+    columns=["Age_group", "Income_bin"]
+)
 
+customers_sql.to_csv(
+    r"C:\Users\syeda\OneDrive\Desktop\Retail\sql_ready_datasets\customers.csv",
+    index=False
+)
+
+print(customers_sql.columns)
+print(customers_sql.shape)
 
 
 #Product CSV
@@ -68,17 +97,35 @@ df2=pd.read_csv(r"C:\Users\syeda\OneDrive\Desktop\Retail\raw_datasets\products (
 print(df2.shape)
 print(df2.dtypes)
 print(df2.isna().sum())
+print(df2.columns)
 
 print(df2['Category'].unique())  #One
 print(df2['Product_Name'].unique())  #leave
 print(df2['Brand'].unique()) #One
 print(df2['Subcategory'].unique())
-
-df2=pd.get_dummies(df2,columns=['Category','Brand','Subcategory'],dtype=int, drop_first=True)
-
 print(df2['Product_Rating'].describe())
 df2['Discount'].fillna(df2['Discount'].median(), inplace=True)
 df2['Stock_Quantity'].fillna(df2['Stock_Quantity'].median(), inplace=True)
+
+sql_products = df2.copy()
+sql_products["Stock_Quantity"] = (
+    sql_products["Stock_Quantity"].round().astype(int)
+)
+
+sql_products.to_csv(
+    os.path.join(sql_path, "products.csv"),
+    index=False
+)
+
+df2=pd.get_dummies(df2,columns=['Category','Brand','Subcategory'],dtype=int, drop_first=True)
+
+
+
+
+
+
+
+
 
 
 #Order CSV
@@ -103,7 +150,21 @@ print(df3["Shipping_City"].unique()) #33 including nan ignore will better
 print(df3["Shipping_State"].unique()) #16 includeing nan
 df3["Shipping_State"]=df3["Shipping_State"].fillna(df3["Shipping_State"].mode()[0])
 
+sql_orders = df3.drop(
+    columns=["Order_day", "Order_Month", "Order_Year"],
+    errors="ignore"
+).copy()
+sql_orders.to_csv(
+    os.path.join(sql_path, "orders.csv"),
+    index=False
+)
+
 df3=pd.get_dummies(df3,columns=["Order_Status","Sales_Channel","Payment_Method","Shipping_State"],dtype=int, drop_first=True)
+
+
+
+
+
 
 
 
@@ -121,7 +182,12 @@ print((df4["Item_Total"] -
 
 
 
+sql_order_items = df4.copy()
 
+sql_order_items.to_csv(
+    os.path.join(sql_path, "order_items.csv"),
+    index=False
+)
 
 
 # Create folder
@@ -132,4 +198,5 @@ df.to_csv(os.path.join(cleaned_path, "customers_clean.csv"), index=False)
 df2.to_csv(os.path.join(cleaned_path, "products_clean.csv"), index=False)
 df3.to_csv(os.path.join(cleaned_path, "orders_clean.csv"), index=False)
 df4.to_csv(os.path.join(cleaned_path, "order_items_clean.csv"), index=False)
+
 
