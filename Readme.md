@@ -212,3 +212,32 @@ PCA → reduce dimensions while retaining 96.6% variance
 K-Means → discover meaningful customer segments
 FP-Growth → discover products frequently purchased together
 Recommendation Engine → turn those patterns into actionable recommendations
+
+
+
+
+“K=4 was selected using the Elbow Method and Silhouette Score, balancing cluster compactness with meaningful customer segmentation.”
+
+
+
+| Cluster | Segment | Business Meaning |
+|---|---|---|
+| **0** | Recent / Low-Value | Recently purchased but low engagement |
+| **1** | At-Risk / Dormant | Inactive and low spending |
+| **2** | Regular / Mid-Value | Reasonably engaged customers |
+| **3** | High-Value Loyal | Most valuable and engaged |
+
+
+🧠 What are we doing with RFM?
+Think about the problem from a retail company's perspective.
+You have 5,000 customers.
+The company doesn't want to treat all 5,000 customers the same.
+For example:
+Customer A bought something 20 days ago, has made 15 orders, and spent ₹20,000.
+
+versus
+Customer B bought something 400 days ago, made only 1 order, and spent ₹800.
+
+Clearly, these are very different customers.
+So we need a way to describe customer purchasing behavior.
+That's where RFM comes in.
