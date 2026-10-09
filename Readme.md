@@ -1,243 +1,238 @@
-**Retail Customer Analytics & Recommendation System
-An end-to-end retail analytics and recommendation system built using Python, PostgreSQL, SQL, and Machine Learning.
-The project focuses on understanding customer purchasing behavior, segmenting customers based on their behavior, and eventually generating product recommendations using purchase patterns.
-*Project Objective
-The project aims to build a complete retail analytics pipeline:
-Raw Retail Data
-      ↓
-Data Cleaning
-      ↓
-PostgreSQL + SQL
-      ↓
-Customer Analytics
-      ↓
-EDA + Feature Engineering
-      ↓
-RFM Analysis
-      ↓
-Customer Segmentation
-      ↓
-Product Association Rules
-      ↓
-Recommendation System
-      ↓
-Streamlit Dashboard
+# Retail Customer Analytics & Recommendation System
 
-**Dataset
-The project uses four relational datasets:
-- Customers — customer demographics and loyalty information
-- Products — product, category, brand, price and inventory information
-- Orders — customer orders and transaction details
-- Order Items — products purchased within each order
-The datasets are stored in PostgreSQL and connected using:
-Customer_ID
-Order_ID
-Product_ID
+An end-to-end retail analytics and product recommendation project built using Python, PostgreSQL, SQL, and Machine Learning.
 
-** SQL & PostgreSQL
-The raw datasets were cleaned and prepared as SQL-ready datasets before loading them into PostgreSQL.
-Main SQL work included:
-- Joining customer, order, order-item and product tables
-- Customer-level aggregations
-- Revenue and spending analysis
-- Customer order frequency
-- Product/category analysis
-- CASE WHEN for business segmentation
-- CTEs for multi-step analysis
-- Window functions such as ROW_NUMBER(), RANK() and LAG()
-The main output of the SQL stage is:
-customer_analytics
-A single customer-level dataset containing metrics such as:
-- Customer information
-- Total orders
-- Total spending
-- Average order value
-- First/last order dates
-- Unique products purchased
-- Total items purchased
-- Favorite category
-- Customer value segment
-This table is then loaded directly from PostgreSQL into Python using SQLAlchemy + Pandas.
-**Exploratory Data Analysis
-EDA was performed on the customer-level dataset to understand:
-- Distributions
-- Missing values
-- Numerical variables
-- Categorical variables
-- Spending and purchasing behavior
-- Feature cardinality
-- Potential skewness and outliers
-Some missing dates were found for customers with zero orders and zero spending.
-These were treated as meaningful missing values rather than randomly filling them.
-A has_purchase feature was created:
-1 → customer has purchased
-0 → customer has never purchased
+The project analyzes customer purchasing behavior, identifies customer segments, discovers relationships between products, and generates personalized product recommendations based on purchase history.
 
-⚙️ Feature Engineering
-Different encoding strategies were used depending on the feature.
-One-Hot Encoding
-Used for low/moderate-cardinality categorical features such as:
-- Gender
-- State
-- Occupation
-- Marital Status
-- Preferred Channel
-- Favorite Category
-Frequency Encoding
-City contained 33 categories, so instead of creating 33 dummy variables, frequency encoding was used.
-city_frequency = df["city"].value_counts(normalize=True)df["city_frequency"] = df["city"].map(city_frequency)
+## 1. Project Objectives
 
+The main objectives are to:
 
-Ordinal Encoding
-Loyalty tiers have a natural order:
-Bronze → Silver → Gold → Platinum
+- Analyze customer purchasing behavior and spending patterns.
+- Perform customer segmentation using RFM analysis and K-Means clustering.
+- Discover products frequently purchased together using the FP-Growth algorithm.
+- Generate product recommendations using association rules.
+- Store and analyze relational retail data using PostgreSQL and SQL.
 
-So they were mapped to:
-1 → Bronze
-2 → Silver
-3 → Gold
-4 → Platinum
+## 2. Technology Stack
 
-Age was kept as a numerical feature rather than creating age groups.
-💰 RFM Analysis
-RFM was used to capture customer purchasing behavior.
-R — Recency
-How recently a customer purchased.
-recency = reference_date - last_order_date
+- **Programming:** Python
+- **Database:** PostgreSQL
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn
+- **Recommendation System:** MLxtend, FP-Growth
+- **Database Connectivity:** SQLAlchemy
+- **Development Environment:** Jupyter Notebook
 
+## 3. Dataset Description
 
-The reference date was the latest order date in the dataset.
-Lower Recency = more recently active customer.
-F — Frequency
-How frequently the customer purchased.
-Frequency = Total Orders
+The project uses four related datasets containing synthetic retail data.
 
-M — Monetary
-How much the customer spent.
-Monetary = Total Spending
+| Dataset | Description |
+|---|---|
+| Customers | Customer demographics, location, occupation, income, and loyalty tier |
+| Products | Product names, categories, brands, prices, costs, and inventory |
+| Orders | Customer orders, dates, order status, payment methods, and sales channels |
+| Order Items | Products purchased in each order, quantities, discounts, and item totals |
 
-Only customers with purchase history were used for RFM clustering.
-5,000 total customers
-        ↓
-4,400 purchasing customers
-        ↓
-RFM segmentation
+The datasets are connected through customer IDs, order IDs, and product IDs.
 
-The ~600 customers with no purchases were kept separately because they don't have a meaningful Recency value.
-📈 RFM Skewness
-Initial skewness:
-Recency      1.33
-Frequency    2.12
-Monetary     3.96
+**Note:** The data is synthetic and intended for learning and demonstration. The discovered purchasing patterns should not be interpreted as verified real-world customer behavior.
 
-Monetary was particularly highly skewed because a small number of customers had very high spending.
-Since K-Means is distance-based, extreme values can have a strong influence on clustering.
+## 4. Data Cleaning and PostgreSQL Integration
 
-***Yeo-Johnson Transformation
-log1p() was initially tested, but it over-corrected the distributions, especially Monetary.
-Therefore, Yeo-Johnson transformation was used.
-What is Yeo-Johnson?
-Yeo-Johnson is a power transformation technique used to make highly skewed data more symmetric and suitable for statistical/ML models.
-One advantage is that it can handle zero values, which makes it convenient for features such as Frequency and Monetary.
-from sklearn.preprocessing import PowerTransformerpt = PowerTransformer(method="yeo-johnson")rfm_transformed = pt.fit_transform(    rfm[["recency", "frequency", "monetary"]])
+The raw datasets were cleaned and prepared before being loaded into PostgreSQL.
 
+SQL was used to combine the tables, validate relationships, and perform customer-level and product-level analysis.
 
-After transformation:
-Recency      -0.094
-Frequency    -0.010
-Monetary     -0.171
+Key SQL concepts used include:
 
-These values are close to zero, indicating that the extreme skewness was substantially reduced.
-📏 Feature Scaling
-After transformation, StandardScaler was applied.
-from sklearn.preprocessing import StandardScalerscaler = StandardScaler()rfm_scaled = scaler.fit_transform(rfm_transformed)
+- INNER JOINs and other table joins
+- Aggregate functions such as SUM, COUNT, and AVG
+- Common Table Expressions (CTEs)
+- CASE WHEN statements
+- Window functions such as ROW_NUMBER(), RANK(), and LAG()
 
+A customer-level analytical table named `customer_analytics` was created. It contains information such as total orders, total spending, average order value, first and last order dates, unique products purchased, favorite category, and customer value segment.
 
-The resulting features have approximately:
-Mean ≈ 0
-Standard Deviation ≈ 1
+The table was loaded into Python using Pandas and SQLAlchemy.
 
-This is important because K-Means uses distance calculations.
-📉 PCA
-PCA (Principal Component Analysis) was used for dimensionality reduction.
-Initially, all three RFM features were used.
-Explained variance:
-PC1 → 71.97%
-PC2 → 24.63%
-PC3 →  3.40%
+## 5. Exploratory Data Analysis and Feature Engineering
 
-The first two components retain:
-71.97% + 24.63%
-= 96.60%
+Exploratory Data Analysis (EDA) was performed to understand customer demographics, spending patterns, missing values, feature distributions, skewness, and potential outliers.
 
-of the total variance.
-Therefore, two components were selected:
-pca = PCA(n_components=2)rfm_pca = pca.fit_transform(rfm_scaled)
+Feature engineering included:
 
+- One-hot encoding for categorical features such as gender, occupation, state, and preferred channel.
+- Frequency encoding for city.
+- Ordinal encoding for loyalty tiers.
+- Creating a `has_purchase` feature to distinguish customers who have purchased from those who have not.
 
-Final representation:
-RFM (3 dimensions)
-       ↓
-      PCA
-       ↓
-PC1 + PC2
-       ↓
-96.6% variance retained
+Customers with no purchase history were retained separately because meaningful RFM values could not be calculated for them.
 
-🚀 Current Status
-Completed
-- ✅ Data generation
-- ✅ Data cleaning
-- ✅ PostgreSQL database
-- ✅ SQL joins and analytics
-- ✅ customer_analytics table
-- ✅ Python–PostgreSQL connection
-- ✅ EDA
-- ✅ Feature engineering
-- ✅ Categorical encoding
-- ✅ RFM analysis
-- ✅ Skewness analysis
-- ✅ Yeo-Johnson transformation
-- ✅ Standardization
-- ✅ PCA
-- ✅ 96.6% variance retained with 2 components
+## 6. Customer Segmentation
 
-**Key Learning
-The important part of this project isn't just applying algorithms. The pipeline demonstrates why each technique was used:
-SQL → create customer-level analytical data
-RFM → represent customer purchasing behavior
-Yeo-Johnson → reduce severe skewness
-Scaling → make features comparable for distance-based algorithms
-PCA → reduce dimensions while retaining 96.6% variance
-K-Means → discover meaningful customer segments
-FP-Growth → discover products frequently purchased together
-Recommendation Engine → turn those patterns into actionable recommendations
+Customer segmentation was performed using **RFM analysis and K-Means clustering**.
 
+### RFM Analysis
 
+RFM represents three aspects of customer purchasing behavior:
 
+- **Recency:** Number of days since the customer's last purchase.
+- **Frequency:** Total number of orders placed.
+- **Monetary:** Total amount spent by the customer.
 
-“K=4 was selected using the Elbow Method and Silhouette Score, balancing cluster compactness with meaningful customer segmentation.”
+Out of 5,000 customers, 4,400 customers with purchase history were used for RFM clustering. The remaining 600 customers were assigned a separate `No Purchase` segment.
 
+### Data Transformation and Scaling
 
+The RFM features were highly skewed, particularly monetary value. The Yeo-Johnson transformation was applied to reduce skewness, followed by StandardScaler to bring the features to comparable scales.
 
-| Cluster | Segment | Business Meaning |
-|---|---|---|
-| **0** | Recent / Low-Value | Recently purchased but low engagement |
-| **1** | At-Risk / Dormant | Inactive and low spending |
-| **2** | Regular / Mid-Value | Reasonably engaged customers |
-| **3** | High-Value Loyal | Most valuable and engaged |
+### Dimensionality Reduction
 
+Principal Component Analysis (PCA) was used to reduce the three RFM features to two principal components while retaining approximately **96.60% of the total variance**.
 
-🧠 What are we doing with RFM?
-Think about the problem from a retail company's perspective.
-You have 5,000 customers.
-The company doesn't want to treat all 5,000 customers the same.
+### K-Means Clustering
+
+K-Means was used to group customers based on their purchasing behavior. Four clusters were selected to provide useful and interpretable customer segments.
+
+| Segment | Business Interpretation |
+|---|---|
+| Recent / Low-Value | Recently active customers with relatively low spending |
+| At-Risk / Dormant | Customers who have not purchased recently and generally spend less |
+| Regular / Mid-Value | Customers with regular purchasing activity and moderate spending |
+| High-Value Loyal | Customers with frequent purchases and high spending |
+| No Purchase | Customers without purchase history |
+
+The cluster labels were interpreted using the original RFM values rather than the transformed PCA components.
+
+## 7. Product Recommendation System
+
+The recommendation system identifies product relationships using historical order transactions.
+
+### Transaction Preparation
+
+The orders, order items, and products tables were joined to create transaction-level data.
+
+Each order was treated as one transaction. A Boolean basket matrix was then created using `TransactionEncoder`.
+
+- `True` indicates that a product appeared in an order.
+- `False` indicates that it did not.
+
+The complete basket matrix contained **30,033 transactions and 208 products**.
+
+### FP-Growth Algorithm
+
+FP-Growth was used to identify frequently occurring product combinations without generating candidate itemsets in the same way as the Apriori algorithm.
+
+The minimum support threshold was adjusted to identify more product combinations.
+
+### Association Rules
+
+Association rules were generated from frequent itemsets to identify relationships between products.
+
 For example:
-Customer A bought something 20 days ago, has made 15 orders, and spent ₹20,000.
 
-versus
-Customer B bought something 400 days ago, made only 1 order, and spent ₹800.
+`Product A → Product B`
 
-Clearly, these are very different customers.
-So we need a way to describe customer purchasing behavior.
-That's where RFM comes in.
+This represents a pattern in which orders containing Product A are also associated with Product B.
+
+Three metrics were used to understand these relationships:
+
+- **Support:** The proportion of transactions containing the itemset.
+- **Confidence:** How often the consequent appears when the antecedent appears.
+- **Lift:** How much more frequently the products occur together compared with what would be expected if they were independent.
+
+The candidate rules were filtered using these thresholds:
+
+- Confidence ≥ 0.20
+- Lift > 2
+- Support ≥ 0.002
+
+These thresholds were selected for experimentation and are not universal standards.
+
+### Recommendation Logic
+
+The recommendation function follows these steps:
+
+1. Takes a customer's previously purchased products as input.
+2. Finds association rules whose antecedents match the customer's purchase history.
+3. Excludes products the customer has already purchased.
+4. Ranks matching products using rule metrics.
+5. Returns up to five recommendations.
+6. Uses a popularity-based fallback when there are not enough rule-based recommendations.
+
+The engine supports two recommendation sources:
+
+- **Association Rule:** Recommendations based on discovered product relationships.
+- **Popularity Fallback:** Frequently purchased products used when personalized recommendations are insufficient.
+
+Customer purchase history is retrieved from PostgreSQL.
+
+## 8. Recommendation Evaluation
+
+A time-based evaluation was performed using delivered orders to test recommendations against later purchases.
+
+The data was divided into training and testing periods to prevent future transactions from being used to generate the training rules.
+
+| Metric | Result |
+|---|---:|
+| Training orders | 18,886 |
+| Testing orders | 4,743 |
+| Customers evaluated | 2,148 |
+| Mean Precision@5 | 3.63% |
+| Mean Recall@5 | 3.87% |
+| Customers with at least one hit | 331 |
+| Hit rate | 15.4% |
+
+Precision@5 measures the proportion of the five recommended products that appeared in the customer's later purchases. Recall@5 measures the proportion of distinct products purchased later that were included in the recommendations.
+
+These results provide a baseline for a learning project using synthetic data. They should not be treated as evidence of real-world recommendation performance.
+
+## 9. Project Workflow
+
+The overall pipeline is:
+
+Raw Retail Data → Data Cleaning → PostgreSQL → SQL Analytics → EDA → Feature Engineering → RFM Analysis → PCA → K-Means Segmentation
+
+For product recommendations:
+
+Orders + Order Items + Products → Transaction Preparation → Basket Matrix → FP-Growth → Association Rules → Recommendation Engine → Evaluation
+
+## 10. Current Project Status
+
+Completed:
+
+- Data generation and cleaning
+- PostgreSQL database setup
+- SQL joins and customer analytics
+- Python–PostgreSQL integration
+- Exploratory Data Analysis
+- Feature engineering and categorical encoding
+- RFM analysis and customer segmentation
+- Yeo-Johnson transformation and feature scaling
+- PCA dimensionality reduction
+- K-Means clustering
+- FP-Growth frequent itemset mining
+- Association rule generation and filtering
+- Product recommendation function
+- Popularity-based fallback
+- Time-based recommendation evaluation
+
+**Next Step:** Integrate the completed analytics and recommendation logic into a web application using Next.js, FastAPI, SQLAlchemy, and PostgreSQL.
+
+## 11. Key Learnings
+
+This project demonstrates how SQL, data analysis, and machine learning can work together in a retail use case.
+
+- SQL transforms relational data into useful analytical datasets.
+- RFM analysis represents customer purchasing behavior.
+- Yeo-Johnson transformation reduces skewness in numerical features.
+- Standardization makes features comparable for distance-based algorithms.
+- PCA reduces dimensionality while retaining important information.
+- K-Means identifies groups of customers with similar purchasing behavior.
+- FP-Growth discovers frequently occurring product combinations.
+- Association rules and popularity fallback convert purchasing patterns into product recommendations.
+
+The project provided practical experience in building a data pipeline, analyzing customer behavior, developing a recommendation engine, and evaluating its initial performance.
