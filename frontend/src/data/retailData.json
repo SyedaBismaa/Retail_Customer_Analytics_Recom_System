@@ -1,0 +1,2852 @@
+{
+  "products": [
+    {
+      "id": "PROD0001",
+      "name": "Noise Fit Watch 400",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "Noise",
+      "price": 24590.0,
+      "discount": 0.0,
+      "stock": 31,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0002",
+      "name": "Samsung Pulse Smartwatch Plus",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "Samsung",
+      "price": 12360.0,
+      "discount": 8.9,
+      "stock": 65,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0003",
+      "name": "Dell Note 100",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "brand": "Dell",
+      "price": 63870.0,
+      "discount": 0.0,
+      "stock": 79,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0004",
+      "name": "boAt Galaxy 200",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "brand": "boAt",
+      "price": 54470.0,
+      "discount": 3.7,
+      "stock": 31,
+      "rating": 2.5
+    },
+    {
+      "id": "PROD0005",
+      "name": "Noise Over-Ear Headphone 100",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "brand": "Noise",
+      "price": 12290.0,
+      "discount": 10.5,
+      "stock": 19,
+      "rating": 4.5
+    },
+    {
+      "id": "PROD0006",
+      "name": "Mi 4K UHD TV 200",
+      "category": "Electronics",
+      "subcategory": "Televisions",
+      "brand": "Mi",
+      "price": 47380.0,
+      "discount": 0.0,
+      "stock": 27,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0007",
+      "name": "LG Smart LED TV Pro",
+      "category": "Electronics",
+      "subcategory": "Televisions",
+      "brand": "LG",
+      "price": 63590.0,
+      "discount": 7.5,
+      "stock": 163,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0008",
+      "name": "Mi Pulse Smartwatch 400",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "Mi",
+      "price": 18130.0,
+      "discount": 11.1,
+      "stock": 119,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0009",
+      "name": "HP Over-Ear Headphone Lite",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "brand": "HP",
+      "price": 2890.0,
+      "discount": 7.9,
+      "stock": 160,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0010",
+      "name": "Noise Pavilion S2",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "Noise",
+      "price": 82510.0,
+      "discount": 9.3,
+      "stock": 49,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0011",
+      "name": "Mi Over-Ear Headphone Max",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "brand": "Mi",
+      "price": 5690.0,
+      "discount": 0.0,
+      "stock": 25,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0012",
+      "name": "Noise Pulse Smartwatch Max",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "Noise",
+      "price": 14410.0,
+      "discount": 7.5,
+      "stock": 29,
+      "rating": 4.4
+    },
+    {
+      "id": "PROD0013",
+      "name": "HP Pulse Smartwatch S2",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "HP",
+      "price": 3820.0,
+      "discount": 15.9,
+      "stock": 126,
+      "rating": 2.8
+    },
+    {
+      "id": "PROD0014",
+      "name": "Dell Inspiron X1",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "Dell",
+      "price": 292677.21,
+      "discount": 19.5,
+      "stock": 49,
+      "rating": 3.9
+    },
+    {
+      "id": "PROD0015",
+      "name": "Sony 4K UHD TV 100",
+      "category": "Electronics",
+      "subcategory": "Televisions",
+      "brand": "Sony",
+      "price": 84070.0,
+      "discount": 13.2,
+      "stock": 102,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0016",
+      "name": "Dell Pulse Smartwatch 200",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "Dell",
+      "price": 8580.65,
+      "discount": 5.5,
+      "stock": 85,
+      "rating": 2.9
+    },
+    {
+      "id": "PROD0017",
+      "name": "Samsung Fit Watch X1",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "Samsung",
+      "price": 11120.0,
+      "discount": 9.2,
+      "stock": 24,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0018",
+      "name": "Mi Inspiron Plus",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "Mi",
+      "price": 110010.0,
+      "discount": 5.4,
+      "stock": 85,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0019",
+      "name": "HP 4K UHD TV S2",
+      "category": "Electronics",
+      "subcategory": "Televisions",
+      "brand": "HP",
+      "price": 64610.0,
+      "discount": 0.0,
+      "stock": 32,
+      "rating": 5.0
+    },
+    {
+      "id": "PROD0020",
+      "name": "Samsung 4K UHD TV S2",
+      "category": "Electronics",
+      "subcategory": "Televisions",
+      "brand": "Samsung",
+      "price": 58070.0,
+      "discount": 13.9,
+      "stock": 158,
+      "rating": 2.9
+    },
+    {
+      "id": "PROD0021",
+      "name": "Mi Fit Watch Plus",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "Mi",
+      "price": 21690.0,
+      "discount": 0.0,
+      "stock": 73,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0022",
+      "name": "JBL Pulse Smartwatch 300",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "JBL",
+      "price": 18610.0,
+      "discount": 8.6,
+      "stock": 70,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0023",
+      "name": "HP Pulse Smartwatch Max",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "HP",
+      "price": 30193.87,
+      "discount": 2.7,
+      "stock": 39,
+      "rating": 3.0
+    },
+    {
+      "id": "PROD0024",
+      "name": "Mi Wireless Earbuds Plus",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "brand": "Mi",
+      "price": 10580.0,
+      "discount": 18.2,
+      "stock": 179,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0025",
+      "name": "Sony Inspiron 500",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "Sony",
+      "price": 34730.0,
+      "discount": 10.4,
+      "stock": 40,
+      "rating": 2.3
+    },
+    {
+      "id": "PROD0026",
+      "name": "Sony Over-Ear Headphone 200",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "brand": "Sony",
+      "price": 4700.0,
+      "discount": 13.0,
+      "stock": 108,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0027",
+      "name": "Dell Wireless Earbuds 500",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "brand": "Dell",
+      "price": 9980.0,
+      "discount": 11.7,
+      "stock": 34,
+      "rating": 3.6
+    },
+    {
+      "id": "PROD0028",
+      "name": "JBL Pulse Smartwatch X1",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "brand": "JBL",
+      "price": 11120.0,
+      "discount": 6.5,
+      "stock": 81,
+      "rating": 3.3
+    },
+    {
+      "id": "PROD0029",
+      "name": "OnePlus Smart LED TV Max",
+      "category": "Electronics",
+      "subcategory": "Televisions",
+      "brand": "OnePlus",
+      "price": 46410.0,
+      "discount": 8.5,
+      "stock": 94,
+      "rating": 3.3
+    },
+    {
+      "id": "PROD0030",
+      "name": "Samsung Over-Ear Headphone 400",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "brand": "Samsung",
+      "price": 11130.0,
+      "discount": 14.6,
+      "stock": 82,
+      "rating": 3.6
+    },
+    {
+      "id": "PROD0031",
+      "name": "Levi's Slim Jeans Plus",
+      "category": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Levi's",
+      "price": 3170.0,
+      "discount": 12.1,
+      "stock": 34,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0032",
+      "name": "H&M Slim Fit Shirt S2",
+      "category": "Clothing",
+      "subcategory": "Men's Shirts",
+      "brand": "H&M",
+      "price": 2820.0,
+      "discount": 11.9,
+      "stock": 71,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0033",
+      "name": "Van Heusen Graphic Tee Lite",
+      "category": "Clothing",
+      "subcategory": "T-Shirts",
+      "brand": "Van Heusen",
+      "price": 1340.0,
+      "discount": 15.6,
+      "stock": 84,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0034",
+      "name": "Puma Floral Dress S2",
+      "category": "Clothing",
+      "subcategory": "Women's Dresses",
+      "brand": "Puma",
+      "price": 2530.0,
+      "discount": 19.0,
+      "stock": 15,
+      "rating": 2.9
+    },
+    {
+      "id": "PROD0035",
+      "name": "Levi's Cotton T-Shirt 500",
+      "category": "Clothing",
+      "subcategory": "T-Shirts",
+      "brand": "Levi's",
+      "price": 1400.0,
+      "discount": 0.1,
+      "stock": 49,
+      "rating": 5.0
+    },
+    {
+      "id": "PROD0036",
+      "name": "Puma Floral Dress Max",
+      "category": "Clothing",
+      "subcategory": "Women's Dresses",
+      "brand": "Puma",
+      "price": 4230.0,
+      "discount": 16.5,
+      "stock": 59,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0037",
+      "name": "Levi's Slim Fit Shirt Plus",
+      "category": "Clothing",
+      "subcategory": "Men's Shirts",
+      "brand": "Levi's",
+      "price": 2580.0,
+      "discount": 6.5,
+      "stock": 100,
+      "rating": 4.2
+    },
+    {
+      "id": "PROD0038",
+      "name": "Peter England Saree X1",
+      "category": "Clothing",
+      "subcategory": "Ethnic Wear",
+      "brand": "Peter England",
+      "price": 2550.0,
+      "discount": 0.0,
+      "stock": 41,
+      "rating": 3.9
+    },
+    {
+      "id": "PROD0039",
+      "name": "H&M Graphic Tee Lite",
+      "category": "Clothing",
+      "subcategory": "T-Shirts",
+      "brand": "H&M",
+      "price": 310.0,
+      "discount": 0.0,
+      "stock": 52,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0040",
+      "name": "Peter England Straight Fit Jeans Plus",
+      "category": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Peter England",
+      "price": 2000.0,
+      "discount": 7.1,
+      "stock": 85,
+      "rating": 4.6
+    },
+    {
+      "id": "PROD0041",
+      "name": "Peter England A-Line Dress Pro",
+      "category": "Clothing",
+      "subcategory": "Women's Dresses",
+      "brand": "Peter England",
+      "price": 2050.0,
+      "discount": 8.4,
+      "stock": 21,
+      "rating": 2.2
+    },
+    {
+      "id": "PROD0042",
+      "name": "Van Heusen Kurta Set 500",
+      "category": "Clothing",
+      "subcategory": "Ethnic Wear",
+      "brand": "Van Heusen",
+      "price": 1700.0,
+      "discount": 3.4,
+      "stock": 58,
+      "rating": 2.6
+    },
+    {
+      "id": "PROD0043",
+      "name": "Allen Solly Slim Fit Shirt Plus",
+      "category": "Clothing",
+      "subcategory": "Men's Shirts",
+      "brand": "Allen Solly",
+      "price": 2900.0,
+      "discount": 2.4,
+      "stock": 37,
+      "rating": 5.0
+    },
+    {
+      "id": "PROD0044",
+      "name": "Van Heusen Slim Jeans 500",
+      "category": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Van Heusen",
+      "price": 3150.0,
+      "discount": 8.1,
+      "stock": 101,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0045",
+      "name": "Zara Floral Dress Max",
+      "category": "Clothing",
+      "subcategory": "Women's Dresses",
+      "brand": "Zara",
+      "price": 2230.0,
+      "discount": 13.6,
+      "stock": 72,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0046",
+      "name": "Van Heusen Kurta Set 500 (2)",
+      "category": "Clothing",
+      "subcategory": "Ethnic Wear",
+      "brand": "Van Heusen",
+      "price": 1420.0,
+      "discount": 0.0,
+      "stock": 57,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0047",
+      "name": "Peter England Graphic Tee Lite",
+      "category": "Clothing",
+      "subcategory": "T-Shirts",
+      "brand": "Peter England",
+      "price": 980.0,
+      "discount": 11.8,
+      "stock": 84,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0048",
+      "name": "Levi's Formal Shirt 400",
+      "category": "Clothing",
+      "subcategory": "Men's Shirts",
+      "brand": "Levi's",
+      "price": 1620.0,
+      "discount": 9.5,
+      "stock": 63,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0049",
+      "name": "Van Heusen Formal Shirt S2",
+      "category": "Clothing",
+      "subcategory": "Men's Shirts",
+      "brand": "Van Heusen",
+      "price": 1660.0,
+      "discount": 11.2,
+      "stock": 58,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0050",
+      "name": "Van Heusen Saree 300",
+      "category": "Clothing",
+      "subcategory": "Ethnic Wear",
+      "brand": "Van Heusen",
+      "price": 4680.0,
+      "discount": 11.7,
+      "stock": 101,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0051",
+      "name": "Nike Graphic Tee 500",
+      "category": "Clothing",
+      "subcategory": "T-Shirts",
+      "brand": "Nike",
+      "price": 1350.0,
+      "discount": 11.7,
+      "stock": 86,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0052",
+      "name": "Levi's Graphic Tee X1",
+      "category": "Clothing",
+      "subcategory": "T-Shirts",
+      "brand": "Levi's",
+      "price": 1470.0,
+      "discount": 1.6,
+      "stock": 57,
+      "rating": 4.2
+    },
+    {
+      "id": "PROD0053",
+      "name": "Zara A-Line Dress 200",
+      "category": "Clothing",
+      "subcategory": "Women's Dresses",
+      "brand": "Zara",
+      "price": 3220.0,
+      "discount": 11.7,
+      "stock": 40,
+      "rating": 3.9
+    },
+    {
+      "id": "PROD0054",
+      "name": "Levi's Formal Shirt 200",
+      "category": "Clothing",
+      "subcategory": "Men's Shirts",
+      "brand": "Levi's",
+      "price": 2830.0,
+      "discount": 5.0,
+      "stock": 85,
+      "rating": 5.0
+    },
+    {
+      "id": "PROD0055",
+      "name": "H&M Slim Jeans X1",
+      "category": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "H&M",
+      "price": 2310.0,
+      "discount": 12.4,
+      "stock": 100,
+      "rating": 2.7
+    },
+    {
+      "id": "PROD0056",
+      "name": "Peter England Straight Fit Jeans S2",
+      "category": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Peter England",
+      "price": 2070.0,
+      "discount": 7.8,
+      "stock": 99,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0057",
+      "name": "Allen Solly Cotton T-Shirt 100",
+      "category": "Clothing",
+      "subcategory": "T-Shirts",
+      "brand": "Allen Solly",
+      "price": 870.0,
+      "discount": 11.0,
+      "stock": 80,
+      "rating": 3.6
+    },
+    {
+      "id": "PROD0058",
+      "name": "Nike Floral Dress 500",
+      "category": "Clothing",
+      "subcategory": "Women's Dresses",
+      "brand": "Nike",
+      "price": 2870.0,
+      "discount": 12.1,
+      "stock": 101,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0059",
+      "name": "Cello Table Lamp Plus",
+      "category": "Home & Kitchen",
+      "subcategory": "Home Decor",
+      "brand": "Cello",
+      "price": 2590.0,
+      "discount": 0.0,
+      "stock": 44,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0060",
+      "name": "Pigeon Wall Clock 100",
+      "category": "Home & Kitchen",
+      "subcategory": "Home Decor",
+      "brand": "Pigeon",
+      "price": 820.0,
+      "discount": 11.6,
+      "stock": 63,
+      "rating": 2.8
+    },
+    {
+      "id": "PROD0061",
+      "name": "Borosil Electric Kettle 500",
+      "category": "Home & Kitchen",
+      "subcategory": "Small Appliances",
+      "brand": "Borosil",
+      "price": 5210.0,
+      "discount": 12.7,
+      "stock": 14,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0062",
+      "name": "Philips Wall Clock Max",
+      "category": "Home & Kitchen",
+      "subcategory": "Home Decor",
+      "brand": "Philips",
+      "price": 3060.0,
+      "discount": 7.1,
+      "stock": 110,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0063",
+      "name": "Philips Storage Container Set 300",
+      "category": "Home & Kitchen",
+      "subcategory": "Storage & Containers",
+      "brand": "Philips",
+      "price": 490.0,
+      "discount": 1.1,
+      "stock": 48,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0064",
+      "name": "Milton Pressure Cooker MaxL",
+      "category": "Home & Kitchen",
+      "subcategory": "Cookware",
+      "brand": "Milton",
+      "price": 3370.0,
+      "discount": 16.2,
+      "stock": 20,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0065",
+      "name": "Borosil Electric Kettle X1",
+      "category": "Home & Kitchen",
+      "subcategory": "Small Appliances",
+      "brand": "Borosil",
+      "price": 5430.0,
+      "discount": 6.0,
+      "stock": 48,
+      "rating": 2.3
+    },
+    {
+      "id": "PROD0066",
+      "name": "Cello Table Lamp 300",
+      "category": "Home & Kitchen",
+      "subcategory": "Home Decor",
+      "brand": "Cello",
+      "price": 2910.0,
+      "discount": 2.9,
+      "stock": 52,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0067",
+      "name": "Bajaj Wall Clock 300",
+      "category": "Home & Kitchen",
+      "subcategory": "Home Decor",
+      "brand": "Bajaj",
+      "price": 3200.0,
+      "discount": 1.2,
+      "stock": 34,
+      "rating": 4.8
+    },
+    {
+      "id": "PROD0068",
+      "name": "Cello Storage Container Set Lite",
+      "category": "Home & Kitchen",
+      "subcategory": "Storage & Containers",
+      "brand": "Cello",
+      "price": 330.0,
+      "discount": 0.0,
+      "stock": 39,
+      "rating": 2.4
+    },
+    {
+      "id": "PROD0069",
+      "name": "Borosil Pressure Cooker 100L",
+      "category": "Home & Kitchen",
+      "subcategory": "Cookware",
+      "brand": "Borosil",
+      "price": 410.0,
+      "discount": 15.3,
+      "stock": 101,
+      "rating": 2.6
+    },
+    {
+      "id": "PROD0070",
+      "name": "Pigeon Storage Container Set 400",
+      "category": "Home & Kitchen",
+      "subcategory": "Storage & Containers",
+      "brand": "Pigeon",
+      "price": 1330.0,
+      "discount": 15.5,
+      "stock": 82,
+      "rating": 3.0
+    },
+    {
+      "id": "PROD0071",
+      "name": "Cello Non-Stick Pan 300",
+      "category": "Home & Kitchen",
+      "subcategory": "Cookware",
+      "brand": "Cello",
+      "price": 4550.0,
+      "discount": 0.0,
+      "stock": 80,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0072",
+      "name": "Milton Lunch Box Pro",
+      "category": "Home & Kitchen",
+      "subcategory": "Storage & Containers",
+      "brand": "Milton",
+      "price": 1660.0,
+      "discount": 12.2,
+      "stock": 52,
+      "rating": 4.3
+    },
+    {
+      "id": "PROD0073",
+      "name": "Bajaj Mixer Grinder Max",
+      "category": "Home & Kitchen",
+      "subcategory": "Small Appliances",
+      "brand": "Bajaj",
+      "price": 6500.0,
+      "discount": 13.0,
+      "stock": 95,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0074",
+      "name": "Philips Table Lamp X1",
+      "category": "Home & Kitchen",
+      "subcategory": "Home Decor",
+      "brand": "Philips",
+      "price": 1620.0,
+      "discount": 34.4,
+      "stock": 91,
+      "rating": 2.6
+    },
+    {
+      "id": "PROD0075",
+      "name": "Cello Storage Container Set 200",
+      "category": "Home & Kitchen",
+      "subcategory": "Storage & Containers",
+      "brand": "Cello",
+      "price": 1010.0,
+      "discount": 6.7,
+      "stock": 54,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0076",
+      "name": "Borosil Lunch Box Lite",
+      "category": "Home & Kitchen",
+      "subcategory": "Storage & Containers",
+      "brand": "Borosil",
+      "price": 900.0,
+      "discount": 4.4,
+      "stock": 105,
+      "rating": 4.5
+    },
+    {
+      "id": "PROD0077",
+      "name": "Bajaj Table Lamp 500",
+      "category": "Home & Kitchen",
+      "subcategory": "Home Decor",
+      "brand": "Bajaj",
+      "price": 2180.0,
+      "discount": 22.2,
+      "stock": 86,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0078",
+      "name": "Cello Wall Clock Lite",
+      "category": "Home & Kitchen",
+      "subcategory": "Home Decor",
+      "brand": "Cello",
+      "price": 2760.0,
+      "discount": 4.2,
+      "stock": 112,
+      "rating": 5.0
+    },
+    {
+      "id": "PROD0079",
+      "name": "Cello Mixer Grinder S2",
+      "category": "Home & Kitchen",
+      "subcategory": "Small Appliances",
+      "brand": "Cello",
+      "price": 7860.0,
+      "discount": 18.8,
+      "stock": 154,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0080",
+      "name": "Borosil Mixer Grinder S2",
+      "category": "Home & Kitchen",
+      "subcategory": "Small Appliances",
+      "brand": "Borosil",
+      "price": 4250.0,
+      "discount": 3.0,
+      "stock": 89,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0081",
+      "name": "Pigeon Non-Stick Pan S2",
+      "category": "Home & Kitchen",
+      "subcategory": "Cookware",
+      "brand": "Pigeon",
+      "price": 2430.0,
+      "discount": 7.9,
+      "stock": 50,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0082",
+      "name": "Borosil Pressure Cooker 400L",
+      "category": "Home & Kitchen",
+      "subcategory": "Cookware",
+      "brand": "Borosil",
+      "price": 2130.0,
+      "discount": 17.1,
+      "stock": 64,
+      "rating": 3.3
+    },
+    {
+      "id": "PROD0083",
+      "name": "The Body Shop Eau de Parfum 400ml",
+      "category": "Beauty",
+      "subcategory": "Fragrances",
+      "brand": "The Body Shop",
+      "price": 4320.0,
+      "discount": 0.1,
+      "stock": 30,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0084",
+      "name": "Maybelline Matte Lipstick 100",
+      "category": "Beauty",
+      "subcategory": "Makeup",
+      "brand": "Maybelline",
+      "price": 1570.0,
+      "discount": 13.6,
+      "stock": 59,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0085",
+      "name": "Nivea Shampoo X1ml",
+      "category": "Beauty",
+      "subcategory": "Haircare",
+      "brand": "Nivea",
+      "price": 1430.0,
+      "discount": 8.6,
+      "stock": 74,
+      "rating": 3.9
+    },
+    {
+      "id": "PROD0086",
+      "name": "Nivea Face Wash 400ml",
+      "category": "Beauty",
+      "subcategory": "Skincare",
+      "brand": "Nivea",
+      "price": 1520.0,
+      "discount": 16.0,
+      "stock": 32,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0087",
+      "name": "Nivea Matte Lipstick 200",
+      "category": "Beauty",
+      "subcategory": "Makeup",
+      "brand": "Nivea",
+      "price": 2630.0,
+      "discount": 7.8,
+      "stock": 101,
+      "rating": 4.7
+    },
+    {
+      "id": "PROD0088",
+      "name": "Lakme Body Mist S2ml",
+      "category": "Beauty",
+      "subcategory": "Fragrances",
+      "brand": "Lakme",
+      "price": 4340.0,
+      "discount": 13.2,
+      "stock": 109,
+      "rating": 3.3
+    },
+    {
+      "id": "PROD0089",
+      "name": "Himalaya Face Wash 100ml",
+      "category": "Beauty",
+      "subcategory": "Skincare",
+      "brand": "Himalaya",
+      "price": 860.0,
+      "discount": 35.3,
+      "stock": 2,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0090",
+      "name": "The Body Shop Shampoo 200ml",
+      "category": "Beauty",
+      "subcategory": "Haircare",
+      "brand": "The Body Shop",
+      "price": 1070.0,
+      "discount": 15.6,
+      "stock": 157,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0091",
+      "name": "Himalaya Matte Lipstick 500",
+      "category": "Beauty",
+      "subcategory": "Makeup",
+      "brand": "Himalaya",
+      "price": 1900.0,
+      "discount": 20.7,
+      "stock": 44,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0092",
+      "name": "Lakme Matte Lipstick S2",
+      "category": "Beauty",
+      "subcategory": "Makeup",
+      "brand": "Lakme",
+      "price": 2170.0,
+      "discount": 0.0,
+      "stock": 42,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0093",
+      "name": "The Body Shop Eau de Parfum 400ml (2)",
+      "category": "Beauty",
+      "subcategory": "Fragrances",
+      "brand": "The Body Shop",
+      "price": 4680.0,
+      "discount": 0.0,
+      "stock": 33,
+      "rating": 4.4
+    },
+    {
+      "id": "PROD0094",
+      "name": "Lakme Shampoo S2ml",
+      "category": "Beauty",
+      "subcategory": "Haircare",
+      "brand": "Lakme",
+      "price": 840.0,
+      "discount": 14.1,
+      "stock": 65,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0095",
+      "name": "Lakme Foundation Max",
+      "category": "Beauty",
+      "subcategory": "Makeup",
+      "brand": "Lakme",
+      "price": 1420.0,
+      "discount": 13.0,
+      "stock": 106,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0096",
+      "name": "L'Oreal Hair Oil Proml",
+      "category": "Beauty",
+      "subcategory": "Haircare",
+      "brand": "L'Oreal",
+      "price": 840.0,
+      "discount": 17.0,
+      "stock": 51,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0097",
+      "name": "The Body Shop Body Mist Plusml",
+      "category": "Beauty",
+      "subcategory": "Fragrances",
+      "brand": "The Body Shop",
+      "price": 1600.0,
+      "discount": 19.8,
+      "stock": 61,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0098",
+      "name": "The Body Shop Hair Oil Liteml",
+      "category": "Beauty",
+      "subcategory": "Haircare",
+      "brand": "The Body Shop",
+      "price": 1230.0,
+      "discount": 2.4,
+      "stock": 70,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0099",
+      "name": "Lakme Face Wash 100ml",
+      "category": "Beauty",
+      "subcategory": "Skincare",
+      "brand": "Lakme",
+      "price": 1300.0,
+      "discount": 3.8,
+      "stock": 149,
+      "rating": 2.5
+    },
+    {
+      "id": "PROD0100",
+      "name": "Nivea Face Wash Proml",
+      "category": "Beauty",
+      "subcategory": "Skincare",
+      "brand": "Nivea",
+      "price": 1340.0,
+      "discount": 1.0,
+      "stock": 113,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0101",
+      "name": "Lakme Eau de Parfum S2ml",
+      "category": "Beauty",
+      "subcategory": "Fragrances",
+      "brand": "Lakme",
+      "price": 1510.0,
+      "discount": 0.0,
+      "stock": 65,
+      "rating": 2.6
+    },
+    {
+      "id": "PROD0102",
+      "name": "Lakme Eau de Parfum Maxml",
+      "category": "Beauty",
+      "subcategory": "Fragrances",
+      "brand": "Lakme",
+      "price": 4250.0,
+      "discount": 10.5,
+      "stock": 36,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0103",
+      "name": "Mamaearth Matte Lipstick 200",
+      "category": "Beauty",
+      "subcategory": "Makeup",
+      "brand": "Mamaearth",
+      "price": 2400.0,
+      "discount": 18.8,
+      "stock": 147,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0104",
+      "name": "Maybelline Moisturizer 300ml",
+      "category": "Beauty",
+      "subcategory": "Skincare",
+      "brand": "Maybelline",
+      "price": 1970.0,
+      "discount": 13.7,
+      "stock": 82,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0105",
+      "name": "Tata Atta X1kg",
+      "category": "Grocery",
+      "subcategory": "Staples",
+      "brand": "Tata",
+      "price": 500.0,
+      "discount": 13.8,
+      "stock": 330,
+      "rating": 4.2
+    },
+    {
+      "id": "PROD0106",
+      "name": "Nestle Atta X1kg",
+      "category": "Grocery",
+      "subcategory": "Staples",
+      "brand": "Nestle",
+      "price": 480.0,
+      "discount": 27.9,
+      "stock": 248,
+      "rating": 2.5
+    },
+    {
+      "id": "PROD0107",
+      "name": "Tata Biscuits Liteg",
+      "category": "Grocery",
+      "subcategory": "Snacks",
+      "brand": "Tata",
+      "price": 150.0,
+      "discount": 18.7,
+      "stock": 285,
+      "rating": 3.6
+    },
+    {
+      "id": "PROD0108",
+      "name": "Amul Ghee 200ml",
+      "category": "Grocery",
+      "subcategory": "Dairy",
+      "brand": "Amul",
+      "price": 87.0,
+      "discount": 12.4,
+      "stock": 85,
+      "rating": 3.0
+    },
+    {
+      "id": "PROD0109",
+      "name": "Tata Namkeen 300g",
+      "category": "Grocery",
+      "subcategory": "Snacks",
+      "brand": "Tata",
+      "price": 290.0,
+      "discount": 5.0,
+      "stock": 212,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0110",
+      "name": "Tata Coffee Plusg",
+      "category": "Grocery",
+      "subcategory": "Beverages",
+      "brand": "Tata",
+      "price": 140.0,
+      "discount": 6.8,
+      "stock": 65,
+      "rating": 3.0
+    },
+    {
+      "id": "PROD0111",
+      "name": "Aashirvaad Milk ProL",
+      "category": "Grocery",
+      "subcategory": "Dairy",
+      "brand": "Aashirvaad",
+      "price": 210.0,
+      "discount": 28.6,
+      "stock": 167,
+      "rating": 3.0
+    },
+    {
+      "id": "PROD0112",
+      "name": "Britannia Milk 100L",
+      "category": "Grocery",
+      "subcategory": "Dairy",
+      "brand": "Britannia",
+      "price": 77.0,
+      "discount": 5.9,
+      "stock": 347,
+      "rating": 2.1
+    },
+    {
+      "id": "PROD0113",
+      "name": "Nestle Juice Proml",
+      "category": "Grocery",
+      "subcategory": "Beverages",
+      "brand": "Nestle",
+      "price": 350.0,
+      "discount": 25.5,
+      "stock": 298,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0114",
+      "name": "Tata Tea 200g",
+      "category": "Grocery",
+      "subcategory": "Beverages",
+      "brand": "Tata",
+      "price": 150.0,
+      "discount": 11.1,
+      "stock": 131,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0115",
+      "name": "Haldiram's Rice Prokg",
+      "category": "Grocery",
+      "subcategory": "Staples",
+      "brand": "Haldiram's",
+      "price": 560.0,
+      "discount": 24.6,
+      "stock": 194,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0116",
+      "name": "Tata Biscuits 300g",
+      "category": "Grocery",
+      "subcategory": "Snacks",
+      "brand": "Tata",
+      "price": 280.0,
+      "discount": 0.2,
+      "stock": 186,
+      "rating": 4.2
+    },
+    {
+      "id": "PROD0117",
+      "name": "Britannia Namkeen 100g",
+      "category": "Grocery",
+      "subcategory": "Snacks",
+      "brand": "Britannia",
+      "price": 230.0,
+      "discount": 27.8,
+      "stock": 395,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0118",
+      "name": "Nestle Paneer 300g",
+      "category": "Grocery",
+      "subcategory": "Dairy",
+      "brand": "Nestle",
+      "price": 160.0,
+      "discount": 32.6,
+      "stock": 1,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0119",
+      "name": "Amul Tea Plusg",
+      "category": "Grocery",
+      "subcategory": "Beverages",
+      "brand": "Amul",
+      "price": 380.0,
+      "discount": 9.4,
+      "stock": 161,
+      "rating": 4.6
+    },
+    {
+      "id": "PROD0120",
+      "name": "Tata Coffee S2g",
+      "category": "Grocery",
+      "subcategory": "Beverages",
+      "brand": "Tata",
+      "price": 390.0,
+      "discount": 40.0,
+      "stock": 466,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0121",
+      "name": "Aashirvaad Juice 400ml",
+      "category": "Grocery",
+      "subcategory": "Beverages",
+      "brand": "Aashirvaad",
+      "price": 56.0,
+      "discount": 29.4,
+      "stock": 325,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0122",
+      "name": "Amul Tea 200g",
+      "category": "Grocery",
+      "subcategory": "Beverages",
+      "brand": "Amul",
+      "price": 370.0,
+      "discount": 20.4,
+      "stock": 149,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0123",
+      "name": "Nestle Milk 100L",
+      "category": "Grocery",
+      "subcategory": "Dairy",
+      "brand": "Nestle",
+      "price": 340.0,
+      "discount": 21.5,
+      "stock": 315,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0124",
+      "name": "Aashirvaad Tea Maxg",
+      "category": "Grocery",
+      "subcategory": "Beverages",
+      "brand": "Aashirvaad",
+      "price": 250.0,
+      "discount": 27.8,
+      "stock": 163,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0125",
+      "name": "Britannia Tea Maxg",
+      "category": "Grocery",
+      "subcategory": "Beverages",
+      "brand": "Britannia",
+      "price": 390.0,
+      "discount": 10.2,
+      "stock": 142,
+      "rating": 3.9
+    },
+    {
+      "id": "PROD0126",
+      "name": "Nestle Namkeen 300g",
+      "category": "Grocery",
+      "subcategory": "Snacks",
+      "brand": "Nestle",
+      "price": 19.0,
+      "discount": 26.6,
+      "stock": 314,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0127",
+      "name": "Amul Milk S2L",
+      "category": "Grocery",
+      "subcategory": "Dairy",
+      "brand": "Amul",
+      "price": 170.0,
+      "discount": 27.2,
+      "stock": 529,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0128",
+      "name": "Tata Rice Maxkg",
+      "category": "Grocery",
+      "subcategory": "Staples",
+      "brand": "Tata",
+      "price": 450.0,
+      "discount": 21.3,
+      "stock": 276,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0129",
+      "name": "Amul Biscuits 500g",
+      "category": "Grocery",
+      "subcategory": "Snacks",
+      "brand": "Amul",
+      "price": 200.0,
+      "discount": 15.8,
+      "stock": 76,
+      "rating": 3.3
+    },
+    {
+      "id": "PROD0130",
+      "name": "Fortune Biscuits 500g",
+      "category": "Grocery",
+      "subcategory": "Snacks",
+      "brand": "Fortune",
+      "price": 280.0,
+      "discount": 0.0,
+      "stock": 117,
+      "rating": 4.8
+    },
+    {
+      "id": "PROD0131",
+      "name": "Adidas Dumbbell Set 200kg",
+      "category": "Sports",
+      "subcategory": "Fitness Equipment",
+      "brand": "Adidas",
+      "price": 770.0,
+      "discount": 5.1,
+      "stock": 96,
+      "rating": 2.7
+    },
+    {
+      "id": "PROD0132",
+      "name": "Adidas Running Shoes Plus",
+      "category": "Sports",
+      "subcategory": "Sportswear",
+      "brand": "Adidas",
+      "price": 3150.0,
+      "discount": 11.1,
+      "stock": 117,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0133",
+      "name": "Cosco Cricket Bat Max",
+      "category": "Sports",
+      "subcategory": "Outdoor Sports",
+      "brand": "Cosco",
+      "price": 3400.0,
+      "discount": 3.9,
+      "stock": 28,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0134",
+      "name": "Yonex Football Max",
+      "category": "Sports",
+      "subcategory": "Outdoor Sports",
+      "brand": "Yonex",
+      "price": 1020.0,
+      "discount": 12.2,
+      "stock": 49,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0135",
+      "name": "Decathlon Track Suit Plus",
+      "category": "Sports",
+      "subcategory": "Sportswear",
+      "brand": "Decathlon",
+      "price": 1030.0,
+      "discount": 9.9,
+      "stock": 36,
+      "rating": 2.8
+    },
+    {
+      "id": "PROD0136",
+      "name": "Nivia Track Suit X1",
+      "category": "Sports",
+      "subcategory": "Sportswear",
+      "brand": "Nivia",
+      "price": 1760.0,
+      "discount": 9.8,
+      "stock": 38,
+      "rating": 2.9
+    },
+    {
+      "id": "PROD0137",
+      "name": "Yonex Track Suit 200",
+      "category": "Sports",
+      "subcategory": "Sportswear",
+      "brand": "Yonex",
+      "price": 3640.0,
+      "discount": 24.2,
+      "stock": 62,
+      "rating": 4.3
+    },
+    {
+      "id": "PROD0138",
+      "name": "Nike Cricket Bat 300",
+      "category": "Sports",
+      "subcategory": "Outdoor Sports",
+      "brand": "Nike",
+      "price": 5440.0,
+      "discount": 7.0,
+      "stock": 85,
+      "rating": 4.9
+    },
+    {
+      "id": "PROD0139",
+      "name": "Yonex Dumbbell Set Maxkg",
+      "category": "Sports",
+      "subcategory": "Fitness Equipment",
+      "brand": "Yonex",
+      "price": 5950.0,
+      "discount": 11.7,
+      "stock": 95,
+      "rating": 4.3
+    },
+    {
+      "id": "PROD0140",
+      "name": "Yonex Dumbbell Set 500kg",
+      "category": "Sports",
+      "subcategory": "Fitness Equipment",
+      "brand": "Yonex",
+      "price": 6330.0,
+      "discount": 5.6,
+      "stock": 56,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0141",
+      "name": "Cosco Dumbbell Set X1kg",
+      "category": "Sports",
+      "subcategory": "Fitness Equipment",
+      "brand": "Cosco",
+      "price": 2430.0,
+      "discount": 14.8,
+      "stock": 69,
+      "rating": 2.4
+    },
+    {
+      "id": "PROD0142",
+      "name": "Nivia Tennis Racquet 100",
+      "category": "Sports",
+      "subcategory": "Racquet Sports",
+      "brand": "Nivia",
+      "price": 6940.0,
+      "discount": 13.3,
+      "stock": 34,
+      "rating": 2.9
+    },
+    {
+      "id": "PROD0143",
+      "name": "Cosco Cricket Bat X1",
+      "category": "Sports",
+      "subcategory": "Outdoor Sports",
+      "brand": "Cosco",
+      "price": 3570.0,
+      "discount": 15.7,
+      "stock": 112,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0144",
+      "name": "Nivia Track Suit 400",
+      "category": "Sports",
+      "subcategory": "Sportswear",
+      "brand": "Nivia",
+      "price": 3080.0,
+      "discount": 10.9,
+      "stock": 85,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0145",
+      "name": "Nike Tennis Racquet 200",
+      "category": "Sports",
+      "subcategory": "Racquet Sports",
+      "brand": "Nike",
+      "price": 6500.0,
+      "discount": 5.8,
+      "stock": 38,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0146",
+      "name": "Cosco Badminton Racquet Lite",
+      "category": "Sports",
+      "subcategory": "Racquet Sports",
+      "brand": "Cosco",
+      "price": 4830.0,
+      "discount": 6.5,
+      "stock": 75,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0147",
+      "name": "Cosco Cricket Bat Pro",
+      "category": "Sports",
+      "subcategory": "Outdoor Sports",
+      "brand": "Cosco",
+      "price": 4700.0,
+      "discount": 4.2,
+      "stock": 13,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0148",
+      "name": "Cosco Cricket Bat 200",
+      "category": "Sports",
+      "subcategory": "Outdoor Sports",
+      "brand": "Cosco",
+      "price": 4640.0,
+      "discount": 17.9,
+      "stock": 165,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0149",
+      "name": "Yonex Running Shoes 100",
+      "category": "Sports",
+      "subcategory": "Sportswear",
+      "brand": "Yonex",
+      "price": 3680.0,
+      "discount": 14.7,
+      "stock": 116,
+      "rating": 3.6
+    },
+    {
+      "id": "PROD0150",
+      "name": "Nike Dumbbell Set 200kg",
+      "category": "Sports",
+      "subcategory": "Fitness Equipment",
+      "brand": "Nike",
+      "price": 5720.0,
+      "discount": 32.1,
+      "stock": 1,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0151",
+      "name": "Nivia Yoga Mat S2",
+      "category": "Sports",
+      "subcategory": "Fitness Equipment",
+      "brand": "Nivia",
+      "price": 6530.0,
+      "discount": 0.0,
+      "stock": 19,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0152",
+      "name": "Decathlon Track Suit 400",
+      "category": "Sports",
+      "subcategory": "Sportswear",
+      "brand": "Decathlon",
+      "price": 3700.0,
+      "discount": 27.9,
+      "stock": 81,
+      "rating": 4.3
+    },
+    {
+      "id": "PROD0153",
+      "name": "Rupa Reference Guide S2",
+      "category": "Books",
+      "subcategory": "Academic",
+      "brand": "Rupa",
+      "price": 280.0,
+      "discount": 22.3,
+      "stock": 85,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0154",
+      "name": "Bloomsbury Textbook 500",
+      "category": "Books",
+      "subcategory": "Academic",
+      "brand": "Bloomsbury",
+      "price": 1490.0,
+      "discount": 11.7,
+      "stock": 214,
+      "rating": 4.6
+    },
+    {
+      "id": "PROD0155",
+      "name": "Penguin Bestseller Fiction 400",
+      "category": "Books",
+      "subcategory": "Fiction",
+      "brand": "Penguin",
+      "price": 290.0,
+      "discount": 11.9,
+      "stock": 126,
+      "rating": 3.3
+    },
+    {
+      "id": "PROD0156",
+      "name": "Westland Storybook 200",
+      "category": "Books",
+      "subcategory": "Children's Books",
+      "brand": "Westland",
+      "price": 470.0,
+      "discount": 17.6,
+      "stock": 130,
+      "rating": 4.4
+    },
+    {
+      "id": "PROD0157",
+      "name": "Bloomsbury Reference Guide 500",
+      "category": "Books",
+      "subcategory": "Academic",
+      "brand": "Bloomsbury",
+      "price": 560.0,
+      "discount": 11.7,
+      "stock": 85,
+      "rating": 3.0
+    },
+    {
+      "id": "PROD0158",
+      "name": "Rupa Reference Guide S2 (2)",
+      "category": "Books",
+      "subcategory": "Academic",
+      "brand": "Rupa",
+      "price": 1190.0,
+      "discount": 31.3,
+      "stock": 284,
+      "rating": 4.3
+    },
+    {
+      "id": "PROD0159",
+      "name": "HarperCollins Bestseller Fiction Pro",
+      "category": "Books",
+      "subcategory": "Fiction",
+      "brand": "HarperCollins",
+      "price": 280.0,
+      "discount": 17.1,
+      "stock": 210,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0160",
+      "name": "Rupa Picture Book 100",
+      "category": "Books",
+      "subcategory": "Children's Books",
+      "brand": "Rupa",
+      "price": 400.0,
+      "discount": 30.6,
+      "stock": 85,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0161",
+      "name": "Rupa Novel Vol 500",
+      "category": "Books",
+      "subcategory": "Fiction",
+      "brand": "Rupa",
+      "price": 590.0,
+      "discount": 38.9,
+      "stock": 0,
+      "rating": 3.1
+    },
+    {
+      "id": "PROD0162",
+      "name": "Rupa Bestseller Fiction S2",
+      "category": "Books",
+      "subcategory": "Fiction",
+      "brand": "Rupa",
+      "price": 390.0,
+      "discount": 11.4,
+      "stock": 143,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0163",
+      "name": "Scholastic Storybook 200",
+      "category": "Books",
+      "subcategory": "Children's Books",
+      "brand": "Scholastic",
+      "price": 350.0,
+      "discount": 31.1,
+      "stock": 427,
+      "rating": 2.7
+    },
+    {
+      "id": "PROD0164",
+      "name": "Penguin Biography Max",
+      "category": "Books",
+      "subcategory": "Non-Fiction",
+      "brand": "Penguin",
+      "price": 520.0,
+      "discount": 36.3,
+      "stock": 1,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0165",
+      "name": "Bloomsbury Self-Help Guide 500",
+      "category": "Books",
+      "subcategory": "Non-Fiction",
+      "brand": "Bloomsbury",
+      "price": 610.0,
+      "discount": 21.3,
+      "stock": 207,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0166",
+      "name": "HarperCollins Bestseller Fiction Lite",
+      "category": "Books",
+      "subcategory": "Fiction",
+      "brand": "HarperCollins",
+      "price": 400.0,
+      "discount": 23.2,
+      "stock": 355,
+      "rating": 2.6
+    },
+    {
+      "id": "PROD0167",
+      "name": "Penguin Storybook Pro",
+      "category": "Books",
+      "subcategory": "Children's Books",
+      "brand": "Penguin",
+      "price": 470.0,
+      "discount": 28.1,
+      "stock": 224,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0168",
+      "name": "Westland Biography Max",
+      "category": "Books",
+      "subcategory": "Non-Fiction",
+      "brand": "Westland",
+      "price": 980.0,
+      "discount": 26.6,
+      "stock": 149,
+      "rating": 3.6
+    },
+    {
+      "id": "PROD0169",
+      "name": "Penguin Textbook 300",
+      "category": "Books",
+      "subcategory": "Academic",
+      "brand": "Penguin",
+      "price": 1280.0,
+      "discount": 14.9,
+      "stock": 106,
+      "rating": 4.3
+    },
+    {
+      "id": "PROD0170",
+      "name": "Westland Novel Vol Max",
+      "category": "Books",
+      "subcategory": "Fiction",
+      "brand": "Westland",
+      "price": 440.0,
+      "discount": 9.7,
+      "stock": 239,
+      "rating": 4.2
+    },
+    {
+      "id": "PROD0171",
+      "name": "Scholastic Picture Book S2",
+      "category": "Books",
+      "subcategory": "Children's Books",
+      "brand": "Scholastic",
+      "price": 330.0,
+      "discount": 29.4,
+      "stock": 321,
+      "rating": 2.4
+    },
+    {
+      "id": "PROD0172",
+      "name": "Scholastic Textbook Lite",
+      "category": "Books",
+      "subcategory": "Academic",
+      "brand": "Scholastic",
+      "price": 700.0,
+      "discount": 11.7,
+      "stock": 374,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0173",
+      "name": "Hasbro Superhero Toy 200",
+      "category": "Toys",
+      "subcategory": "Action Figures",
+      "brand": "Hasbro",
+      "price": 1550.0,
+      "discount": 13.5,
+      "stock": 265,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0174",
+      "name": "Fisher-Price Construction Kit S2",
+      "category": "Toys",
+      "subcategory": "Building Blocks",
+      "brand": "Fisher-Price",
+      "price": 3230.0,
+      "discount": 25.0,
+      "stock": 421,
+      "rating": 3.9
+    },
+    {
+      "id": "PROD0175",
+      "name": "Mattel Construction Kit Max",
+      "category": "Toys",
+      "subcategory": "Building Blocks",
+      "brand": "Mattel",
+      "price": 5460.0,
+      "discount": 20.7,
+      "stock": 130,
+      "rating": 3.3
+    },
+    {
+      "id": "PROD0176",
+      "name": "LEGO RC Helicopter 100",
+      "category": "Toys",
+      "subcategory": "Remote Control Toys",
+      "brand": "LEGO",
+      "price": 3930.0,
+      "discount": 22.1,
+      "stock": 319,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0177",
+      "name": "Hot Wheels Block Set 100",
+      "category": "Toys",
+      "subcategory": "Building Blocks",
+      "brand": "Hot Wheels",
+      "price": 4120.0,
+      "discount": 12.1,
+      "stock": 262,
+      "rating": 4.4
+    },
+    {
+      "id": "PROD0178",
+      "name": "Mattel RC Car X1",
+      "category": "Toys",
+      "subcategory": "Remote Control Toys",
+      "brand": "Mattel",
+      "price": 880.0,
+      "discount": 5.7,
+      "stock": 65,
+      "rating": 3.3
+    },
+    {
+      "id": "PROD0179",
+      "name": "Hasbro Board Game 500",
+      "category": "Toys",
+      "subcategory": "Board Games",
+      "brand": "Hasbro",
+      "price": 2060.0,
+      "discount": 20.1,
+      "stock": 251,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0180",
+      "name": "Hot Wheels Board Game 200",
+      "category": "Toys",
+      "subcategory": "Board Games",
+      "brand": "Hot Wheels",
+      "price": 1030.0,
+      "discount": 12.2,
+      "stock": 243,
+      "rating": 2.7
+    },
+    {
+      "id": "PROD0181",
+      "name": "LEGO Construction Kit Lite",
+      "category": "Toys",
+      "subcategory": "Building Blocks",
+      "brand": "LEGO",
+      "price": 4510.0,
+      "discount": 29.7,
+      "stock": 157,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0182",
+      "name": "LEGO RC Helicopter Plus",
+      "category": "Toys",
+      "subcategory": "Remote Control Toys",
+      "brand": "LEGO",
+      "price": 2770.0,
+      "discount": 18.8,
+      "stock": 126,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0183",
+      "name": "Hot Wheels Block Set S2",
+      "category": "Toys",
+      "subcategory": "Building Blocks",
+      "brand": "Hot Wheels",
+      "price": 5660.0,
+      "discount": 2.2,
+      "stock": 108,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0184",
+      "name": "Mattel Block Set Pro",
+      "category": "Toys",
+      "subcategory": "Building Blocks",
+      "brand": "Mattel",
+      "price": 2770.0,
+      "discount": 6.1,
+      "stock": 146,
+      "rating": 2.9
+    },
+    {
+      "id": "PROD0185",
+      "name": "Hot Wheels Puzzle Set 400",
+      "category": "Toys",
+      "subcategory": "Board Games",
+      "brand": "Hot Wheels",
+      "price": 2020.0,
+      "discount": 21.6,
+      "stock": 245,
+      "rating": 3.0
+    },
+    {
+      "id": "PROD0186",
+      "name": "LEGO Superhero Toy 400",
+      "category": "Toys",
+      "subcategory": "Action Figures",
+      "brand": "LEGO",
+      "price": 1000.0,
+      "discount": 12.8,
+      "stock": 114,
+      "rating": 1.8
+    },
+    {
+      "id": "PROD0187",
+      "name": "Mattel Puzzle Set S2",
+      "category": "Toys",
+      "subcategory": "Board Games",
+      "brand": "Mattel",
+      "price": 2450.0,
+      "discount": 30.5,
+      "stock": 525,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0188",
+      "name": "LEGO Board Game 400",
+      "category": "Toys",
+      "subcategory": "Board Games",
+      "brand": "LEGO",
+      "price": 400.0,
+      "discount": 12.2,
+      "stock": 149,
+      "rating": 4.0
+    },
+    {
+      "id": "PROD0189",
+      "name": "Wildcraft Leather Wallet S2",
+      "category": "Accessories",
+      "subcategory": "Wallets & Belts",
+      "brand": "Wildcraft",
+      "price": 1460.0,
+      "discount": 15.9,
+      "stock": 100,
+      "rating": 2.9
+    },
+    {
+      "id": "PROD0190",
+      "name": "Ray-Ban Wayfarer Sunglasses Max",
+      "category": "Accessories",
+      "subcategory": "Sunglasses",
+      "brand": "Ray-Ban",
+      "price": 3730.0,
+      "discount": 11.0,
+      "stock": 85,
+      "rating": 3.7
+    },
+    {
+      "id": "PROD0191",
+      "name": "American Tourister Chronograph Watch 400",
+      "category": "Accessories",
+      "subcategory": "Watches",
+      "brand": "American Tourister",
+      "price": 4890.0,
+      "discount": 10.8,
+      "stock": 15,
+      "rating": 2.8
+    },
+    {
+      "id": "PROD0192",
+      "name": "Titan Analog Watch S2",
+      "category": "Accessories",
+      "subcategory": "Watches",
+      "brand": "Titan",
+      "price": 11160.0,
+      "discount": 19.9,
+      "stock": 78,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0193",
+      "name": "Titan Aviator Sunglasses Pro",
+      "category": "Accessories",
+      "subcategory": "Sunglasses",
+      "brand": "Titan",
+      "price": 1370.0,
+      "discount": 11.7,
+      "stock": 121,
+      "rating": 2.9
+    },
+    {
+      "id": "PROD0194",
+      "name": "Titan Aviator Sunglasses 200",
+      "category": "Accessories",
+      "subcategory": "Sunglasses",
+      "brand": "Titan",
+      "price": 5240.0,
+      "discount": 16.7,
+      "stock": 86,
+      "rating": 3.9
+    },
+    {
+      "id": "PROD0195",
+      "name": "American Tourister Analog Watch 200",
+      "category": "Accessories",
+      "subcategory": "Watches",
+      "brand": "American Tourister",
+      "price": 6730.0,
+      "discount": 8.7,
+      "stock": 127,
+      "rating": 3.2
+    },
+    {
+      "id": "PROD0196",
+      "name": "Wildcraft Aviator Sunglasses 400",
+      "category": "Accessories",
+      "subcategory": "Sunglasses",
+      "brand": "Wildcraft",
+      "price": 2120.0,
+      "discount": 4.4,
+      "stock": 80,
+      "rating": 4.5
+    },
+    {
+      "id": "PROD0197",
+      "name": "Wildcraft Laptop Backpack Lite",
+      "category": "Accessories",
+      "subcategory": "Bags & Backpacks",
+      "brand": "Wildcraft",
+      "price": 6770.0,
+      "discount": 4.6,
+      "stock": 60,
+      "rating": 4.8
+    },
+    {
+      "id": "PROD0198",
+      "name": "Fastrack Laptop Backpack 100",
+      "category": "Accessories",
+      "subcategory": "Bags & Backpacks",
+      "brand": "Fastrack",
+      "price": 5580.0,
+      "discount": 3.7,
+      "stock": 17,
+      "rating": 5.0
+    },
+    {
+      "id": "PROD0199",
+      "name": "Fastrack Laptop Backpack 400",
+      "category": "Accessories",
+      "subcategory": "Bags & Backpacks",
+      "brand": "Fastrack",
+      "price": 3100.0,
+      "discount": 11.0,
+      "stock": 137,
+      "rating": 4.1
+    },
+    {
+      "id": "PROD0200",
+      "name": "Casio Wayfarer Sunglasses Max",
+      "category": "Accessories",
+      "subcategory": "Sunglasses",
+      "brand": "Casio",
+      "price": 3590.0,
+      "discount": 1.4,
+      "stock": 41,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0201",
+      "name": "Fastrack Leather Wallet Max",
+      "category": "Accessories",
+      "subcategory": "Wallets & Belts",
+      "brand": "Fastrack",
+      "price": 5115.53,
+      "discount": 31.3,
+      "stock": 2,
+      "rating": 3.9
+    },
+    {
+      "id": "PROD0202",
+      "name": "Casio Wayfarer Sunglasses S2",
+      "category": "Accessories",
+      "subcategory": "Sunglasses",
+      "brand": "Casio",
+      "price": 4940.0,
+      "discount": 15.2,
+      "stock": 192,
+      "rating": 3.9
+    },
+    {
+      "id": "PROD0203",
+      "name": "American Tourister Travel Duffel Plus",
+      "category": "Accessories",
+      "subcategory": "Bags & Backpacks",
+      "brand": "American Tourister",
+      "price": 2550.0,
+      "discount": 11.5,
+      "stock": 195,
+      "rating": 3.6
+    },
+    {
+      "id": "PROD0204",
+      "name": "Wildcraft Formal Belt 400",
+      "category": "Accessories",
+      "subcategory": "Wallets & Belts",
+      "brand": "Wildcraft",
+      "price": 1980.0,
+      "discount": 33.5,
+      "stock": 76,
+      "rating": 3.8
+    },
+    {
+      "id": "PROD0205",
+      "name": "Ray-Ban Wayfarer Sunglasses Plus",
+      "category": "Accessories",
+      "subcategory": "Sunglasses",
+      "brand": "Ray-Ban",
+      "price": 3230.0,
+      "discount": 2.5,
+      "stock": 13,
+      "rating": 3.5
+    },
+    {
+      "id": "PROD0206",
+      "name": "Casio Laptop Backpack 300",
+      "category": "Accessories",
+      "subcategory": "Bags & Backpacks",
+      "brand": "Casio",
+      "price": 5200.0,
+      "discount": 7.6,
+      "stock": 44,
+      "rating": 3.3
+    },
+    {
+      "id": "PROD0207",
+      "name": "Ray-Ban Leather Wallet 300",
+      "category": "Accessories",
+      "subcategory": "Wallets & Belts",
+      "brand": "Ray-Ban",
+      "price": 1800.0,
+      "discount": 2.3,
+      "stock": 74,
+      "rating": 3.4
+    },
+    {
+      "id": "PROD0208",
+      "name": "Fastrack Formal Belt X1",
+      "category": "Accessories",
+      "subcategory": "Wallets & Belts",
+      "brand": "Fastrack",
+      "price": 1170.0,
+      "discount": 7.5,
+      "stock": 104,
+      "rating": 3.9
+    }
+  ],
+  "popular_products": [
+    {
+      "name": "Hasbro Superhero Toy 200",
+      "sales_count": 1797
+    },
+    {
+      "name": "LEGO Superhero Toy 400",
+      "sales_count": 1759
+    },
+    {
+      "name": "boAt Galaxy 200",
+      "sales_count": 1485
+    },
+    {
+      "name": "Dell Note 100",
+      "sales_count": 1371
+    },
+    {
+      "name": "American Tourister Chronograph Watch 400",
+      "sales_count": 1336
+    },
+    {
+      "name": "Titan Analog Watch S2",
+      "sales_count": 1282
+    },
+    {
+      "name": "American Tourister Analog Watch 200",
+      "sales_count": 1255
+    },
+    {
+      "name": "Decathlon Track Suit 400",
+      "sales_count": 1212
+    },
+    {
+      "name": "Yonex Track Suit 200",
+      "sales_count": 1209
+    },
+    {
+      "name": "Adidas Running Shoes Plus",
+      "sales_count": 1208
+    },
+    {
+      "name": "Nivia Track Suit X1",
+      "sales_count": 1207
+    },
+    {
+      "name": "Decathlon Track Suit Plus",
+      "sales_count": 1206
+    },
+    {
+      "name": "Westland Biography Max",
+      "sales_count": 1204
+    },
+    {
+      "name": "Penguin Biography Max",
+      "sales_count": 1203
+    },
+    {
+      "name": "Yonex Running Shoes 100",
+      "sales_count": 1197
+    },
+    {
+      "name": "Bloomsbury Self-Help Guide 500",
+      "sales_count": 1189
+    },
+    {
+      "name": "Nivia Track Suit 400",
+      "sales_count": 1151
+    },
+    {
+      "name": "Hot Wheels Block Set 100",
+      "sales_count": 1078
+    },
+    {
+      "name": "Hot Wheels Block Set S2",
+      "sales_count": 1074
+    },
+    {
+      "name": "Himalaya Face Wash 100ml",
+      "sales_count": 1061
+    }
+  ],
+  "association_rules": [
+    {
+      "antecedents": [
+        "Scholastic Picture Book S2"
+      ],
+      "consequents": [
+        "Westland Storybook 200"
+      ],
+      "support": 0.0078,
+      "confidence": 0.613,
+      "lift": 29.99,
+      "type": "Cross-Book Complementary"
+    },
+    {
+      "antecedents": [
+        "boAt Galaxy 200"
+      ],
+      "consequents": [
+        "Dell Note 100"
+      ],
+      "support": 0.0079,
+      "confidence": 0.319,
+      "lift": 13.59,
+      "type": "Electronics Bundle"
+    },
+    {
+      "antecedents": [
+        "Hasbro Superhero Toy 200"
+      ],
+      "consequents": [
+        "LEGO Superhero Toy 400"
+      ],
+      "support": 0.0084,
+      "confidence": 0.425,
+      "lift": 14.12,
+      "type": "Toy Co-Purchase"
+    },
+    {
+      "antecedents": [
+        "LEGO Superhero Toy 400"
+      ],
+      "consequents": [
+        "Hasbro Superhero Toy 200"
+      ],
+      "support": 0.0084,
+      "confidence": 0.448,
+      "lift": 14.12,
+      "type": "Toy Co-Purchase"
+    },
+    {
+      "antecedents": [
+        "Adidas Running Shoes Plus"
+      ],
+      "consequents": [
+        "Decathlon Track Suit 400"
+      ],
+      "support": 0.0065,
+      "confidence": 0.482,
+      "lift": 22.54,
+      "type": "Activewear Pairing"
+    },
+    {
+      "antecedents": [
+        "Yonex Track Suit 200"
+      ],
+      "consequents": [
+        "Yonex Running Shoes 100"
+      ],
+      "support": 0.0062,
+      "confidence": 0.41,
+      "lift": 19.85,
+      "type": "Brand Affinity"
+    },
+    {
+      "antecedents": [
+        "Titan Analog Watch S2"
+      ],
+      "consequents": [
+        "American Tourister Chronograph Watch 400"
+      ],
+      "support": 0.0058,
+      "confidence": 0.392,
+      "lift": 18.21,
+      "type": "Watches & Accessories"
+    },
+    {
+      "antecedents": [
+        "American Tourister Analog Watch 200"
+      ],
+      "consequents": [
+        "American Tourister Chronograph Watch 400"
+      ],
+      "support": 0.0069,
+      "confidence": 0.435,
+      "lift": 20.11,
+      "type": "Accessories Cross-Sell"
+    },
+    {
+      "antecedents": [
+        "Noise Pavilion S2"
+      ],
+      "consequents": [
+        "Mi Over-Ear Headphone Max"
+      ],
+      "support": 0.0052,
+      "confidence": 0.355,
+      "lift": 16.42,
+      "type": "Electronics Audio Add-on"
+    },
+    {
+      "antecedents": [
+        "Bloomsbury Self-Help Guide 500"
+      ],
+      "consequents": [
+        "Penguin Biography Max"
+      ],
+      "support": 0.0061,
+      "confidence": 0.38,
+      "lift": 17.65,
+      "type": "Non-Fiction Reader Bundle"
+    },
+    {
+      "antecedents": [
+        "Nivia Track Suit X1"
+      ],
+      "consequents": [
+        "Decathlon Track Suit Plus"
+      ],
+      "support": 0.0055,
+      "confidence": 0.342,
+      "lift": 15.89,
+      "type": "Sports Essentials"
+    },
+    {
+      "antecedents": [
+        "Noise Fit Watch 400"
+      ],
+      "consequents": [
+        "Noise Pulse Smartwatch Max"
+      ],
+      "support": 0.0049,
+      "confidence": 0.32,
+      "lift": 14.8,
+      "type": "Smart Gadgets"
+    },
+    {
+      "antecedents": [
+        "LG Smart LED TV Pro"
+      ],
+      "consequents": [
+        "Sony 4K UHD TV 100"
+      ],
+      "support": 0.0045,
+      "confidence": 0.28,
+      "lift": 12.45,
+      "type": "Home Entertainment"
+    },
+    {
+      "antecedents": [
+        "Amul Biscuits 500g"
+      ],
+      "consequents": [
+        "Westland Storybook 200"
+      ],
+      "support": 0.0041,
+      "confidence": 0.265,
+      "lift": 11.2,
+      "type": "Household Snack & Family"
+    }
+  ],
+  "rfm_segments": [
+    {
+      "id": "cluster_0",
+      "name": "Champions / High Value",
+      "badge": "High Value",
+      "color": "#10B981",
+      "percentage": 25.4,
+      "count": 1118,
+      "avg_recency_days": 18,
+      "avg_frequency_orders": 8.4,
+      "avg_monetary_spend": 28450,
+      "description": "High spenders with frequent, recent purchases. High brand affinity and low churn risk.",
+      "strategy": "VIP rewards, early access to new product drops, personalized white-glove support."
+    },
+    {
+      "id": "cluster_1",
+      "name": "Loyal Customers",
+      "badge": "Loyalists",
+      "color": "#3B82F6",
+      "percentage": 33.6,
+      "count": 1478,
+      "avg_recency_days": 42,
+      "avg_frequency_orders": 5.2,
+      "avg_monetary_spend": 14200,
+      "description": "Steady regular buyers with above-average order totals and strong loyalty tier representation.",
+      "strategy": "Upsell category expansion, loyalty points acceleration, cross-sell bundles."
+    },
+    {
+      "id": "cluster_2",
+      "name": "Potential Loyalists",
+      "badge": "Growth",
+      "color": "#F59E0B",
+      "percentage": 22.3,
+      "count": 981,
+      "avg_recency_days": 65,
+      "avg_frequency_orders": 2.8,
+      "avg_monetary_spend": 6800,
+      "description": "Recent shoppers with moderate frequency and spending. Promising lifetime value potential.",
+      "strategy": "Time-sensitive discount incentives, welcome series recommendations, targeted free shipping."
+    },
+    {
+      "id": "cluster_3",
+      "name": "At-Risk / Churned",
+      "badge": "At Risk",
+      "color": "#EF4444",
+      "percentage": 18.7,
+      "count": 823,
+      "avg_recency_days": 164,
+      "avg_frequency_orders": 1.6,
+      "avg_monetary_spend": 3150,
+      "description": "Infrequent buyers who have not purchased in over 4-6 months. Require re-activation.",
+      "strategy": "Win-back email campaigns, survey feedback requests, deep clearance vouchers."
+    }
+  ],
+  "sample_customers": [
+    {
+      "customer_id": "CUST001444",
+      "name": "Daksh Bakshi",
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "loyalty_tier": "Platinum",
+      "segment": "Champions / High Value",
+      "total_spend": 34120.5,
+      "total_orders": 9,
+      "purchased_products": [
+        "boAt Galaxy 200",
+        "HarperCollins Bestseller Fiction Pro",
+        "Hot Wheels Block Set 100",
+        "HP Over-Ear Headphone Lite",
+        "JBL Pulse Smartwatch X1",
+        "Noise Pavilion S2",
+        "Penguin Biography Max",
+        "Scholastic Picture Book S2",
+        "Westland Storybook 200"
+      ]
+    },
+    {
+      "customer_id": "CUST003248",
+      "name": "Ananya Sharma",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "loyalty_tier": "Gold",
+      "segment": "Loyal Customers",
+      "total_spend": 18950.0,
+      "total_orders": 6,
+      "purchased_products": [
+        "Van Heusen Slim Jeans 500",
+        "Nivia Tennis Racquet 100",
+        "Decathlon Track Suit 400",
+        "Adidas Running Shoes Plus"
+      ]
+    },
+    {
+      "customer_id": "CUST000269",
+      "name": "Rahul Verma",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "loyalty_tier": "Gold",
+      "segment": "Loyal Customers",
+      "total_spend": 22310.0,
+      "total_orders": 5,
+      "purchased_products": [
+        "Noise Pavilion S2",
+        "LG Smart LED TV Pro",
+        "American Tourister Travel Duffel Plus",
+        "Noise Fit Watch 400"
+      ]
+    },
+    {
+      "customer_id": "CUST000948",
+      "name": "Pooja Patel",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "loyalty_tier": "Silver",
+      "segment": "Potential Loyalists",
+      "total_spend": 8450.0,
+      "total_orders": 3,
+      "purchased_products": [
+        "Amul Biscuits 500g",
+        "LEGO Superhero Toy 400"
+      ]
+    },
+    {
+      "customer_id": "CUST002105",
+      "name": "Siddharth Rao",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "loyalty_tier": "Bronze",
+      "segment": "At-Risk / Churned",
+      "total_spend": 2890.0,
+      "total_orders": 1,
+      "purchased_products": [
+        "Titan Analog Watch S2"
+      ]
+    }
+  ],
+  "dashboard_metrics": {
+    "total_revenue": 14285490,
+    "total_orders": 30033,
+    "total_customers": 5000,
+    "avg_order_value": 1842,
+    "repeat_rate": 68.4,
+    "recommender_hit_rate": 36.3,
+    "channel_breakdown": [
+      {
+        "channel": "Online",
+        "percentage": 45.3,
+        "orders": 13592,
+        "revenue": 6470000
+      },
+      {
+        "channel": "Store",
+        "percentage": 29.6,
+        "orders": 8903,
+        "revenue": 4230000
+      },
+      {
+        "channel": "Mobile App",
+        "percentage": 25.1,
+        "orders": 7538,
+        "revenue": 3585490
+      }
+    ],
+    "loyalty_breakdown": [
+      {
+        "tier": "Platinum",
+        "count": 351,
+        "share": 7.0,
+        "avg_spend": 24800
+      },
+      {
+        "tier": "Gold",
+        "count": 1544,
+        "share": 30.9,
+        "avg_spend": 16200
+      },
+      {
+        "tier": "Silver",
+        "count": 1964,
+        "share": 39.3,
+        "avg_spend": 8900
+      },
+      {
+        "tier": "Bronze",
+        "count": 1141,
+        "share": 22.8,
+        "avg_spend": 4100
+      }
+    ],
+    "category_performance": [
+      {
+        "category": "Electronics",
+        "revenue": 4820000,
+        "orders": 6450,
+        "growth": "+14.2%"
+      },
+      {
+        "category": "Sports",
+        "revenue": 2180000,
+        "orders": 5120,
+        "growth": "+18.5%"
+      },
+      {
+        "category": "Accessories",
+        "revenue": 1950000,
+        "orders": 4890,
+        "growth": "+8.9%"
+      },
+      {
+        "category": "Clothing",
+        "revenue": 1740000,
+        "orders": 4410,
+        "growth": "+11.4%"
+      },
+      {
+        "category": "Toys",
+        "revenue": 1390000,
+        "orders": 3820,
+        "growth": "+21.0%"
+      },
+      {
+        "category": "Books",
+        "revenue": 1050000,
+        "orders": 3140,
+        "growth": "+6.3%"
+      },
+      {
+        "category": "Home & Kitchen",
+        "revenue": 980000,
+        "orders": 2890,
+        "growth": "+9.1%"
+      },
+      {
+        "category": "Beauty",
+        "revenue": 720000,
+        "orders": 2420,
+        "growth": "+15.7%"
+      },
+      {
+        "category": "Grocery",
+        "revenue": 455490,
+        "orders": 1893,
+        "growth": "+12.1%"
+      }
+    ],
+    "monthly_sales": [
+      {
+        "month": "Jan",
+        "revenue": 1040000,
+        "orders": 2200
+      },
+      {
+        "month": "Feb",
+        "revenue": 980000,
+        "orders": 2050
+      },
+      {
+        "month": "Mar",
+        "revenue": 1120000,
+        "orders": 2380
+      },
+      {
+        "month": "Apr",
+        "revenue": 1190000,
+        "orders": 2510
+      },
+      {
+        "month": "May",
+        "revenue": 1250000,
+        "orders": 2640
+      },
+      {
+        "month": "Jun",
+        "revenue": 1180000,
+        "orders": 2490
+      },
+      {
+        "month": "Jul",
+        "revenue": 1310000,
+        "orders": 2780
+      },
+      {
+        "month": "Aug",
+        "revenue": 1420000,
+        "orders": 2980
+      },
+      {
+        "month": "Sep",
+        "revenue": 1390000,
+        "orders": 2920
+      },
+      {
+        "month": "Oct",
+        "revenue": 1520000,
+        "orders": 3210
+      },
+      {
+        "month": "Nov",
+        "revenue": 1680000,
+        "orders": 3540
+      },
+      {
+        "month": "Dec",
+        "revenue": 1820000,
+        "orders": 3840
+      }
+    ]
+  }
+}

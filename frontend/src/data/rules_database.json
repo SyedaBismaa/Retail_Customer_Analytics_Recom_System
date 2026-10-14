@@ -1,0 +1,3536 @@
+{
+  "rules": [
+    {
+      "antecedent": "Nestle Atta X1kg",
+      "consequent": "Nestle Paneer 300g",
+      "confidence": 0.1648,
+      "lift": 13.854,
+      "support": 0.00182
+    },
+    {
+      "antecedent": "Nestle Paneer 300g",
+      "consequent": "Nestle Atta X1kg",
+      "confidence": 0.153,
+      "lift": 13.854,
+      "support": 0.00182
+    },
+    {
+      "antecedent": "Tata Rice Maxkg",
+      "consequent": "Nestle Paneer 300g",
+      "confidence": 0.1635,
+      "lift": 13.748,
+      "support": 0.00182
+    },
+    {
+      "antecedent": "Nestle Paneer 300g",
+      "consequent": "Tata Rice Maxkg",
+      "confidence": 0.153,
+      "lift": 13.748,
+      "support": 0.00182
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.3362,
+      "lift": 13.421,
+      "support": 0.00817
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Dell Note 100",
+      "confidence": 0.326,
+      "lift": 13.421,
+      "support": 0.00817
+    },
+    {
+      "antecedent": "Haldiram's Rice Prokg",
+      "consequent": "Nestle Paneer 300g",
+      "confidence": 0.1553,
+      "lift": 13.059,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Nestle Paneer 300g",
+      "consequent": "Haldiram's Rice Prokg",
+      "confidence": 0.1459,
+      "lift": 13.059,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Nestle Milk 100L",
+      "consequent": "Nestle Atta X1kg",
+      "confidence": 0.1418,
+      "lift": 12.834,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Nestle Atta X1kg",
+      "consequent": "Nestle Milk 100L",
+      "confidence": 0.1418,
+      "lift": 12.834,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Rupa Novel Vol 500",
+      "consequent": "Penguin Biography Max",
+      "confidence": 0.2556,
+      "lift": 12.686,
+      "support": 0.00292
+    },
+    {
+      "antecedent": "Penguin Biography Max",
+      "consequent": "Rupa Novel Vol 500",
+      "confidence": 0.145,
+      "lift": 12.686,
+      "support": 0.00292
+    },
+    {
+      "antecedent": "Penguin Biography Max",
+      "consequent": "HarperCollins Bestseller Fiction Pro",
+      "confidence": 0.1597,
+      "lift": 12.492,
+      "support": 0.00322
+    },
+    {
+      "antecedent": "HarperCollins Bestseller Fiction Pro",
+      "consequent": "Penguin Biography Max",
+      "confidence": 0.2517,
+      "lift": 12.492,
+      "support": 0.00322
+    },
+    {
+      "antecedent": "Amul Ghee 200ml",
+      "consequent": "Tata Atta X1kg",
+      "confidence": 0.1439,
+      "lift": 12.452,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Tata Atta X1kg",
+      "consequent": "Amul Ghee 200ml",
+      "confidence": 0.1502,
+      "lift": 12.452,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Bloomsbury Self-Help Guide 500",
+      "consequent": "Westland Novel Vol Max",
+      "confidence": 0.1581,
+      "lift": 12.289,
+      "support": 0.00326
+    },
+    {
+      "antecedent": "Westland Novel Vol Max",
+      "consequent": "Bloomsbury Self-Help Guide 500",
+      "confidence": 0.2533,
+      "lift": 12.289,
+      "support": 0.00326
+    },
+    {
+      "antecedent": "Bloomsbury Self-Help Guide 500",
+      "consequent": "Penguin Biography Max",
+      "confidence": 0.2464,
+      "lift": 12.232,
+      "support": 0.00508
+    },
+    {
+      "antecedent": "Penguin Biography Max",
+      "consequent": "Bloomsbury Self-Help Guide 500",
+      "confidence": 0.2521,
+      "lift": 12.232,
+      "support": 0.00508
+    },
+    {
+      "antecedent": "Tata Rice Maxkg",
+      "consequent": "Nestle Atta X1kg",
+      "confidence": 0.1331,
+      "lift": 12.048,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Nestle Atta X1kg",
+      "consequent": "Tata Rice Maxkg",
+      "confidence": 0.1341,
+      "lift": 12.048,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "LEGO Superhero Toy 400",
+      "consequent": "Hasbro Superhero Toy 200",
+      "confidence": 0.35,
+      "lift": 11.951,
+      "support": 0.01066
+    },
+    {
+      "antecedent": "Hasbro Superhero Toy 200",
+      "consequent": "LEGO Superhero Toy 400",
+      "confidence": 0.3642,
+      "lift": 11.951,
+      "support": 0.01066
+    },
+    {
+      "antecedent": "Tata Atta X1kg",
+      "consequent": "Nestle Milk 100L",
+      "confidence": 0.1319,
+      "lift": 11.938,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Nestle Milk 100L",
+      "consequent": "Tata Atta X1kg",
+      "confidence": 0.1379,
+      "lift": 11.938,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Nestle Atta X1kg",
+      "consequent": "Amul Milk S2L",
+      "confidence": 0.1379,
+      "lift": 11.766,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Amul Milk S2L",
+      "consequent": "Nestle Atta X1kg",
+      "confidence": 0.13,
+      "lift": 11.766,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "L'Oreal Hair Oil Proml",
+      "consequent": "Maybelline Moisturizer 300ml",
+      "confidence": 0.1898,
+      "lift": 11.59,
+      "support": 0.00237
+    },
+    {
+      "antecedent": "Maybelline Moisturizer 300ml",
+      "consequent": "L'Oreal Hair Oil Proml",
+      "confidence": 0.1447,
+      "lift": 11.59,
+      "support": 0.00237
+    },
+    {
+      "antecedent": "Tata Atta X1kg",
+      "consequent": "Amul Milk S2L",
+      "confidence": 0.1355,
+      "lift": 11.561,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Amul Milk S2L",
+      "consequent": "Tata Atta X1kg",
+      "confidence": 0.1336,
+      "lift": 11.561,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Nivea Face Wash Proml",
+      "consequent": "The Body Shop Shampoo 200ml",
+      "confidence": 0.1406,
+      "lift": 11.458,
+      "support": 0.00229
+    },
+    {
+      "antecedent": "The Body Shop Shampoo 200ml",
+      "consequent": "Nivea Face Wash Proml",
+      "confidence": 0.1862,
+      "lift": 11.458,
+      "support": 0.00229
+    },
+    {
+      "antecedent": "Amul Ghee 200ml",
+      "consequent": "Nestle Atta X1kg",
+      "confidence": 0.1263,
+      "lift": 11.436,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Nestle Atta X1kg",
+      "consequent": "Amul Ghee 200ml",
+      "confidence": 0.1379,
+      "lift": 11.436,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Aashirvaad Milk ProL",
+      "consequent": "Nestle Atta X1kg",
+      "confidence": 0.1258,
+      "lift": 11.388,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Nestle Atta X1kg",
+      "consequent": "Aashirvaad Milk ProL",
+      "confidence": 0.1533,
+      "lift": 11.388,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Westland Biography Max",
+      "consequent": "Bloomsbury Self-Help Guide 500",
+      "confidence": 0.234,
+      "lift": 11.351,
+      "support": 0.00478
+    },
+    {
+      "antecedent": "Bloomsbury Self-Help Guide 500",
+      "consequent": "Westland Biography Max",
+      "confidence": 0.232,
+      "lift": 11.351,
+      "support": 0.00478
+    },
+    {
+      "antecedent": "Maybelline Moisturizer 300ml",
+      "consequent": "The Body Shop Hair Oil Liteml",
+      "confidence": 0.1395,
+      "lift": 11.291,
+      "support": 0.00229
+    },
+    {
+      "antecedent": "The Body Shop Hair Oil Liteml",
+      "consequent": "Maybelline Moisturizer 300ml",
+      "confidence": 0.1849,
+      "lift": 11.291,
+      "support": 0.00229
+    },
+    {
+      "antecedent": "Westland Novel Vol Max",
+      "consequent": "Penguin Biography Max",
+      "confidence": 0.227,
+      "lift": 11.267,
+      "support": 0.00292
+    },
+    {
+      "antecedent": "Penguin Biography Max",
+      "consequent": "Westland Novel Vol Max",
+      "confidence": 0.145,
+      "lift": 11.267,
+      "support": 0.00292
+    },
+    {
+      "antecedent": "Rupa Novel Vol 500",
+      "consequent": "Westland Biography Max",
+      "confidence": 0.2259,
+      "lift": 11.053,
+      "support": 0.00258
+    },
+    {
+      "antecedent": "Westland Biography Max",
+      "consequent": "Rupa Novel Vol 500",
+      "confidence": 0.1263,
+      "lift": 11.053,
+      "support": 0.00258
+    },
+    {
+      "antecedent": "Haldiram's Rice Prokg",
+      "consequent": "Aashirvaad Milk ProL",
+      "confidence": 0.1477,
+      "lift": 10.977,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Aashirvaad Milk ProL",
+      "consequent": "Haldiram's Rice Prokg",
+      "confidence": 0.1226,
+      "lift": 10.977,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Nivea Face Wash Proml",
+      "consequent": "Nivea Shampoo X1ml",
+      "confidence": 0.1328,
+      "lift": 10.973,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "Nivea Shampoo X1ml",
+      "consequent": "Nivea Face Wash Proml",
+      "confidence": 0.1783,
+      "lift": 10.973,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "Nestle Atta X1kg",
+      "consequent": "Tata Atta X1kg",
+      "confidence": 0.1264,
+      "lift": 10.943,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Tata Atta X1kg",
+      "consequent": "Nestle Atta X1kg",
+      "confidence": 0.1209,
+      "lift": 10.943,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Penguin Biography Max",
+      "consequent": "Rupa Bestseller Fiction S2",
+      "confidence": 0.1324,
+      "lift": 10.935,
+      "support": 0.00267
+    },
+    {
+      "antecedent": "Rupa Bestseller Fiction S2",
+      "consequent": "Penguin Biography Max",
+      "confidence": 0.2203,
+      "lift": 10.935,
+      "support": 0.00267
+    },
+    {
+      "antecedent": "HarperCollins Bestseller Fiction Pro",
+      "consequent": "Bloomsbury Self-Help Guide 500",
+      "confidence": 0.2252,
+      "lift": 10.925,
+      "support": 0.00288
+    },
+    {
+      "antecedent": "Bloomsbury Self-Help Guide 500",
+      "consequent": "HarperCollins Bestseller Fiction Pro",
+      "confidence": 0.1396,
+      "lift": 10.925,
+      "support": 0.00288
+    },
+    {
+      "antecedent": "Aashirvaad Milk ProL",
+      "consequent": "Tata Atta X1kg",
+      "confidence": 0.1258,
+      "lift": 10.887,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Tata Atta X1kg",
+      "consequent": "Aashirvaad Milk ProL",
+      "confidence": 0.1465,
+      "lift": 10.887,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Penguin Biography Max",
+      "consequent": "Penguin Bestseller Fiction 400",
+      "confidence": 0.145,
+      "lift": 10.874,
+      "support": 0.00292
+    },
+    {
+      "antecedent": "Penguin Bestseller Fiction 400",
+      "consequent": "Penguin Biography Max",
+      "confidence": 0.219,
+      "lift": 10.874,
+      "support": 0.00292
+    },
+    {
+      "antecedent": "Tata Atta X1kg",
+      "consequent": "Nestle Paneer 300g",
+      "confidence": 0.1282,
+      "lift": 10.781,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Nestle Paneer 300g",
+      "consequent": "Tata Atta X1kg",
+      "confidence": 0.1246,
+      "lift": 10.781,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Rupa Bestseller Fiction S2",
+      "consequent": "Bloomsbury Self-Help Guide 500",
+      "confidence": 0.2203,
+      "lift": 10.688,
+      "support": 0.00267
+    },
+    {
+      "antecedent": "Bloomsbury Self-Help Guide 500",
+      "consequent": "Rupa Bestseller Fiction S2",
+      "confidence": 0.1294,
+      "lift": 10.688,
+      "support": 0.00267
+    },
+    {
+      "antecedent": "Nivea Face Wash 400ml",
+      "consequent": "The Body Shop Hair Oil Liteml",
+      "confidence": 0.1319,
+      "lift": 10.676,
+      "support": 0.00212
+    },
+    {
+      "antecedent": "The Body Shop Hair Oil Liteml",
+      "consequent": "Nivea Face Wash 400ml",
+      "confidence": 0.1712,
+      "lift": 10.676,
+      "support": 0.00212
+    },
+    {
+      "antecedent": "Hasbro Superhero Toy 200",
+      "consequent": "Mattel RC Car X1",
+      "confidence": 0.1358,
+      "lift": 10.664,
+      "support": 0.00398
+    },
+    {
+      "antecedent": "Mattel RC Car X1",
+      "consequent": "Hasbro Superhero Toy 200",
+      "confidence": 0.3123,
+      "lift": 10.664,
+      "support": 0.00398
+    },
+    {
+      "antecedent": "Nestle Juice Proml",
+      "consequent": "Nestle Namkeen 300g",
+      "confidence": 0.1659,
+      "lift": 10.596,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Nestle Namkeen 300g",
+      "consequent": "Nestle Juice Proml",
+      "confidence": 0.1,
+      "lift": 10.596,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Tata Coffee S2g",
+      "consequent": "Britannia Namkeen 100g",
+      "confidence": 0.1477,
+      "lift": 10.542,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Britannia Namkeen 100g",
+      "consequent": "Tata Coffee S2g",
+      "confidence": 0.1057,
+      "lift": 10.542,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "The Body Shop Body Mist Plusml",
+      "consequent": "Maybelline Matte Lipstick 100",
+      "confidence": 0.1549,
+      "lift": 10.52,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "Maybelline Matte Lipstick 100",
+      "consequent": "The Body Shop Body Mist Plusml",
+      "confidence": 0.1264,
+      "lift": 10.52,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "Mi Wireless Earbuds Plus",
+      "consequent": "Noise Pavilion S2",
+      "confidence": 0.0633,
+      "lift": 10.468,
+      "support": 0.00059
+    },
+    {
+      "antecedent": "Noise Pavilion S2",
+      "consequent": "Mi Wireless Earbuds Plus",
+      "confidence": 0.0979,
+      "lift": 10.468,
+      "support": 0.00059
+    },
+    {
+      "antecedent": "Penguin Biography Max",
+      "consequent": "Westland Biography Max",
+      "confidence": 0.2122,
+      "lift": 10.38,
+      "support": 0.00427
+    },
+    {
+      "antecedent": "Westland Biography Max",
+      "consequent": "Penguin Biography Max",
+      "confidence": 0.2091,
+      "lift": 10.38,
+      "support": 0.00427
+    },
+    {
+      "antecedent": "Britannia Tea Maxg",
+      "consequent": "Britannia Namkeen 100g",
+      "confidence": 0.1453,
+      "lift": 10.372,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Britannia Namkeen 100g",
+      "consequent": "Britannia Tea Maxg",
+      "confidence": 0.1027,
+      "lift": 10.372,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Nivea Face Wash 400ml",
+      "consequent": "The Body Shop Shampoo 200ml",
+      "confidence": 0.1266,
+      "lift": 10.319,
+      "support": 0.00203
+    },
+    {
+      "antecedent": "The Body Shop Shampoo 200ml",
+      "consequent": "Nivea Face Wash 400ml",
+      "confidence": 0.1655,
+      "lift": 10.319,
+      "support": 0.00203
+    },
+    {
+      "antecedent": "Rupa Bestseller Fiction S2",
+      "consequent": "Westland Biography Max",
+      "confidence": 0.2098,
+      "lift": 10.263,
+      "support": 0.00254
+    },
+    {
+      "antecedent": "Westland Biography Max",
+      "consequent": "Rupa Bestseller Fiction S2",
+      "confidence": 0.1242,
+      "lift": 10.263,
+      "support": 0.00254
+    },
+    {
+      "antecedent": "HP Pulse Smartwatch Max",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2488,
+      "lift": 10.241,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "HP Pulse Smartwatch Max",
+      "confidence": 0.0889,
+      "lift": 10.241,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "Lakme Eau de Parfum S2ml",
+      "consequent": "Maybelline Matte Lipstick 100",
+      "confidence": 0.1483,
+      "lift": 10.069,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Maybelline Matte Lipstick 100",
+      "consequent": "Lakme Eau de Parfum S2ml",
+      "confidence": 0.1121,
+      "lift": 10.069,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Nivea Shampoo X1ml",
+      "consequent": "Lakme Face Wash 100ml",
+      "confidence": 0.1608,
+      "lift": 10.054,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "Lakme Face Wash 100ml",
+      "consequent": "Nivea Shampoo X1ml",
+      "confidence": 0.1217,
+      "lift": 10.054,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "Haldiram's Rice Prokg",
+      "consequent": "Amul Milk S2L",
+      "confidence": 0.1174,
+      "lift": 10.017,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Amul Milk S2L",
+      "consequent": "Haldiram's Rice Prokg",
+      "confidence": 0.1119,
+      "lift": 10.017,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Tata Rice Maxkg",
+      "consequent": "Britannia Milk 100L",
+      "confidence": 0.1179,
+      "lift": 9.947,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Britannia Milk 100L",
+      "consequent": "Tata Rice Maxkg",
+      "confidence": 0.1107,
+      "lift": 9.947,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Hasbro Superhero Toy 200",
+      "consequent": "LEGO RC Helicopter Plus",
+      "confidence": 0.1358,
+      "lift": 9.907,
+      "support": 0.00398
+    },
+    {
+      "antecedent": "LEGO RC Helicopter Plus",
+      "consequent": "Hasbro Superhero Toy 200",
+      "confidence": 0.2901,
+      "lift": 9.907,
+      "support": 0.00398
+    },
+    {
+      "antecedent": "Aashirvaad Milk ProL",
+      "consequent": "Tata Rice Maxkg",
+      "confidence": 0.1101,
+      "lift": 9.889,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Tata Rice Maxkg",
+      "consequent": "Aashirvaad Milk ProL",
+      "confidence": 0.1331,
+      "lift": 9.889,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Tata Atta X1kg",
+      "consequent": "Tata Rice Maxkg",
+      "confidence": 0.1099,
+      "lift": 9.873,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Tata Rice Maxkg",
+      "consequent": "Tata Atta X1kg",
+      "confidence": 0.1141,
+      "lift": 9.873,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Maybelline Moisturizer 300ml",
+      "consequent": "Nivea Face Wash Proml",
+      "confidence": 0.1602,
+      "lift": 9.858,
+      "support": 0.00262
+    },
+    {
+      "antecedent": "Nivea Face Wash Proml",
+      "consequent": "Maybelline Moisturizer 300ml",
+      "confidence": 0.1615,
+      "lift": 9.858,
+      "support": 0.00262
+    },
+    {
+      "antecedent": "The Body Shop Hair Oil Liteml",
+      "consequent": "Lakme Face Wash 100ml",
+      "confidence": 0.1575,
+      "lift": 9.848,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "Lakme Face Wash 100ml",
+      "consequent": "The Body Shop Hair Oil Liteml",
+      "confidence": 0.1217,
+      "lift": 9.848,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "Titan Analog Watch S2",
+      "consequent": "American Tourister Analog Watch 200",
+      "confidence": 0.2138,
+      "lift": 9.793,
+      "support": 0.00444
+    },
+    {
+      "antecedent": "American Tourister Analog Watch 200",
+      "consequent": "Titan Analog Watch S2",
+      "confidence": 0.2035,
+      "lift": 9.793,
+      "support": 0.00444
+    },
+    {
+      "antecedent": "LEGO Superhero Toy 400",
+      "consequent": "LEGO RC Helicopter Plus",
+      "confidence": 0.1333,
+      "lift": 9.724,
+      "support": 0.00406
+    },
+    {
+      "antecedent": "LEGO RC Helicopter Plus",
+      "consequent": "LEGO Superhero Toy 400",
+      "confidence": 0.2963,
+      "lift": 9.724,
+      "support": 0.00406
+    },
+    {
+      "antecedent": "HarperCollins Bestseller Fiction Pro",
+      "consequent": "Westland Biography Max",
+      "confidence": 0.1987,
+      "lift": 9.719,
+      "support": 0.00254
+    },
+    {
+      "antecedent": "Westland Biography Max",
+      "consequent": "HarperCollins Bestseller Fiction Pro",
+      "confidence": 0.1242,
+      "lift": 9.719,
+      "support": 0.00254
+    },
+    {
+      "antecedent": "Himalaya Face Wash 100ml",
+      "consequent": "L'Oreal Hair Oil Proml",
+      "confidence": 0.1202,
+      "lift": 9.626,
+      "support": 0.00224
+    },
+    {
+      "antecedent": "L'Oreal Hair Oil Proml",
+      "consequent": "Himalaya Face Wash 100ml",
+      "confidence": 0.1797,
+      "lift": 9.626,
+      "support": 0.00224
+    },
+    {
+      "antecedent": "Lakme Shampoo S2ml",
+      "consequent": "Lakme Face Wash 100ml",
+      "confidence": 0.1536,
+      "lift": 9.601,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "Lakme Face Wash 100ml",
+      "consequent": "Lakme Shampoo S2ml",
+      "confidence": 0.119,
+      "lift": 9.601,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "LEGO RC Helicopter 100",
+      "consequent": "Hasbro Superhero Toy 200",
+      "confidence": 0.2809,
+      "lift": 9.593,
+      "support": 0.00355
+    },
+    {
+      "antecedent": "Hasbro Superhero Toy 200",
+      "consequent": "LEGO RC Helicopter 100",
+      "confidence": 0.1214,
+      "lift": 9.593,
+      "support": 0.00355
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "HP Pulse Smartwatch S2",
+      "confidence": 0.0714,
+      "lift": 9.536,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "HP Pulse Smartwatch S2",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2316,
+      "lift": 9.536,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "American Tourister Chronograph Watch 400",
+      "consequent": "Titan Analog Watch S2",
+      "confidence": 0.1981,
+      "lift": 9.535,
+      "support": 0.00449
+    },
+    {
+      "antecedent": "Titan Analog Watch S2",
+      "consequent": "American Tourister Chronograph Watch 400",
+      "confidence": 0.2159,
+      "lift": 9.535,
+      "support": 0.00449
+    },
+    {
+      "antecedent": "Tata Biscuits 300g",
+      "consequent": "Tata Tea 200g",
+      "confidence": 0.0948,
+      "lift": 9.529,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Tata Tea 200g",
+      "consequent": "Tata Biscuits 300g",
+      "confidence": 0.1234,
+      "lift": 9.529,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Bloomsbury Self-Help Guide 500",
+      "consequent": "Rupa Novel Vol 500",
+      "confidence": 0.1088,
+      "lift": 9.524,
+      "support": 0.00224
+    },
+    {
+      "antecedent": "Rupa Novel Vol 500",
+      "consequent": "Bloomsbury Self-Help Guide 500",
+      "confidence": 0.1963,
+      "lift": 9.524,
+      "support": 0.00224
+    },
+    {
+      "antecedent": "Cello Storage Container Set Lite",
+      "consequent": "Borosil Pressure Cooker 400L",
+      "confidence": 0.1343,
+      "lift": 9.499,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 400L",
+      "consequent": "Cello Storage Container Set Lite",
+      "confidence": 0.1138,
+      "lift": 9.499,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Penguin Bestseller Fiction 400",
+      "consequent": "Westland Biography Max",
+      "confidence": 0.1937,
+      "lift": 9.474,
+      "support": 0.00258
+    },
+    {
+      "antecedent": "Westland Biography Max",
+      "consequent": "Penguin Bestseller Fiction 400",
+      "confidence": 0.1263,
+      "lift": 9.474,
+      "support": 0.00258
+    },
+    {
+      "antecedent": "The Body Shop Eau de Parfum 400ml",
+      "consequent": "Nivea Matte Lipstick 200",
+      "confidence": 0.1593,
+      "lift": 9.431,
+      "support": 0.00182
+    },
+    {
+      "antecedent": "Nivea Matte Lipstick 200",
+      "consequent": "The Body Shop Eau de Parfum 400ml",
+      "confidence": 0.1078,
+      "lift": 9.431,
+      "support": 0.00182
+    },
+    {
+      "antecedent": "The Body Shop Body Mist Plusml",
+      "consequent": "Himalaya Matte Lipstick 500",
+      "confidence": 0.1479,
+      "lift": 9.419,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Himalaya Matte Lipstick 500",
+      "consequent": "The Body Shop Body Mist Plusml",
+      "confidence": 0.1132,
+      "lift": 9.419,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Mi Over-Ear Headphone Max",
+      "consequent": "Dell Inspiron X1",
+      "confidence": 0.0607,
+      "lift": 9.382,
+      "support": 0.00055
+    },
+    {
+      "antecedent": "Dell Inspiron X1",
+      "consequent": "Mi Over-Ear Headphone Max",
+      "confidence": 0.085,
+      "lift": 9.382,
+      "support": 0.00055
+    },
+    {
+      "antecedent": "LEGO Superhero Toy 400",
+      "consequent": "Mattel RC Car X1",
+      "confidence": 0.1194,
+      "lift": 9.377,
+      "support": 0.00364
+    },
+    {
+      "antecedent": "Mattel RC Car X1",
+      "consequent": "LEGO Superhero Toy 400",
+      "confidence": 0.2857,
+      "lift": 9.377,
+      "support": 0.00364
+    },
+    {
+      "antecedent": "Lakme Face Wash 100ml",
+      "consequent": "Maybelline Moisturizer 300ml",
+      "confidence": 0.1534,
+      "lift": 9.369,
+      "support": 0.00245
+    },
+    {
+      "antecedent": "Maybelline Moisturizer 300ml",
+      "consequent": "Lakme Face Wash 100ml",
+      "confidence": 0.1499,
+      "lift": 9.369,
+      "support": 0.00245
+    },
+    {
+      "antecedent": "L'Oreal Hair Oil Proml",
+      "consequent": "Lakme Face Wash 100ml",
+      "confidence": 0.1492,
+      "lift": 9.324,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "Lakme Face Wash 100ml",
+      "consequent": "L'Oreal Hair Oil Proml",
+      "confidence": 0.1164,
+      "lift": 9.324,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "Himalaya Matte Lipstick 500",
+      "consequent": "The Body Shop Eau de Parfum 400ml (2)",
+      "confidence": 0.0997,
+      "lift": 9.314,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "The Body Shop Eau de Parfum 400ml (2)",
+      "consequent": "Himalaya Matte Lipstick 500",
+      "confidence": 0.1462,
+      "lift": 9.314,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Lakme Foundation Max",
+      "consequent": "The Body Shop Eau de Parfum 400ml (2)",
+      "confidence": 0.0995,
+      "lift": 9.291,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "The Body Shop Eau de Parfum 400ml (2)",
+      "consequent": "Lakme Foundation Max",
+      "confidence": 0.1502,
+      "lift": 9.291,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Amul Biscuits 500g",
+      "consequent": "Amul Tea Plusg",
+      "confidence": 0.0906,
+      "lift": 9.272,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Amul Tea Plusg",
+      "consequent": "Amul Biscuits 500g",
+      "confidence": 0.1342,
+      "lift": 9.272,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Bajaj Mixer Grinder Max",
+      "consequent": "Borosil Pressure Cooker 400L",
+      "confidence": 0.131,
+      "lift": 9.27,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 400L",
+      "consequent": "Bajaj Mixer Grinder Max",
+      "confidence": 0.1138,
+      "lift": 9.27,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "American Tourister Chronograph Watch 400",
+      "consequent": "American Tourister Analog Watch 200",
+      "confidence": 0.2019,
+      "lift": 9.244,
+      "support": 0.00457
+    },
+    {
+      "antecedent": "American Tourister Analog Watch 200",
+      "consequent": "American Tourister Chronograph Watch 400",
+      "confidence": 0.2093,
+      "lift": 9.244,
+      "support": 0.00457
+    },
+    {
+      "antecedent": "Penguin Bestseller Fiction 400",
+      "consequent": "Bloomsbury Self-Help Guide 500",
+      "confidence": 0.1905,
+      "lift": 9.242,
+      "support": 0.00254
+    },
+    {
+      "antecedent": "Bloomsbury Self-Help Guide 500",
+      "consequent": "Penguin Bestseller Fiction 400",
+      "confidence": 0.1232,
+      "lift": 9.242,
+      "support": 0.00254
+    },
+    {
+      "antecedent": "Pigeon Non-Stick Pan S2",
+      "consequent": "Philips Storage Container Set 300",
+      "confidence": 0.1131,
+      "lift": 9.219,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Philips Storage Container Set 300",
+      "consequent": "Pigeon Non-Stick Pan S2",
+      "confidence": 0.1276,
+      "lift": 9.219,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Haldiram's Rice Prokg",
+      "consequent": "Tata Rice Maxkg",
+      "confidence": 0.1023,
+      "lift": 9.189,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Tata Rice Maxkg",
+      "consequent": "Haldiram's Rice Prokg",
+      "confidence": 0.1027,
+      "lift": 9.189,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Mamaearth Matte Lipstick 200",
+      "consequent": "The Body Shop Eau de Parfum 400ml",
+      "confidence": 0.105,
+      "lift": 9.185,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "The Body Shop Eau de Parfum 400ml",
+      "consequent": "Mamaearth Matte Lipstick 200",
+      "confidence": 0.1333,
+      "lift": 9.185,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Himalaya Face Wash 100ml",
+      "consequent": "Nivea Shampoo X1ml",
+      "confidence": 0.1111,
+      "lift": 9.18,
+      "support": 0.00207
+    },
+    {
+      "antecedent": "Nivea Shampoo X1ml",
+      "consequent": "Himalaya Face Wash 100ml",
+      "confidence": 0.1713,
+      "lift": 9.18,
+      "support": 0.00207
+    },
+    {
+      "antecedent": "Amul Biscuits 500g",
+      "consequent": "Aashirvaad Juice 400ml",
+      "confidence": 0.0877,
+      "lift": 9.171,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Aashirvaad Juice 400ml",
+      "consequent": "Amul Biscuits 500g",
+      "confidence": 0.1327,
+      "lift": 9.171,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Lakme Shampoo S2ml",
+      "consequent": "Himalaya Face Wash 100ml",
+      "confidence": 0.1706,
+      "lift": 9.143,
+      "support": 0.00212
+    },
+    {
+      "antecedent": "Himalaya Face Wash 100ml",
+      "consequent": "Lakme Shampoo S2ml",
+      "confidence": 0.1134,
+      "lift": 9.143,
+      "support": 0.00212
+    },
+    {
+      "antecedent": "Nestle Namkeen 300g",
+      "consequent": "Amul Tea Plusg",
+      "confidence": 0.0892,
+      "lift": 9.123,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Amul Tea Plusg",
+      "consequent": "Nestle Namkeen 300g",
+      "confidence": 0.1429,
+      "lift": 9.123,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Amul Milk S2L",
+      "consequent": "Tata Rice Maxkg",
+      "confidence": 0.1011,
+      "lift": 9.082,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "Tata Rice Maxkg",
+      "consequent": "Amul Milk S2L",
+      "confidence": 0.1065,
+      "lift": 9.082,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "Nestle Namkeen 300g",
+      "consequent": "Aashirvaad Juice 400ml",
+      "confidence": 0.0865,
+      "lift": 9.042,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Aashirvaad Juice 400ml",
+      "consequent": "Nestle Namkeen 300g",
+      "confidence": 0.1416,
+      "lift": 9.042,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "JBL Pulse Smartwatch 300",
+      "confidence": 0.0784,
+      "lift": 9.036,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "JBL Pulse Smartwatch 300",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2195,
+      "lift": 9.036,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "Westland Biography Max",
+      "consequent": "Westland Novel Vol Max",
+      "confidence": 0.1159,
+      "lift": 9.012,
+      "support": 0.00237
+    },
+    {
+      "antecedent": "Westland Novel Vol Max",
+      "consequent": "Westland Biography Max",
+      "confidence": 0.1842,
+      "lift": 9.012,
+      "support": 0.00237
+    },
+    {
+      "antecedent": "Maybelline Moisturizer 300ml",
+      "consequent": "Himalaya Face Wash 100ml",
+      "confidence": 0.168,
+      "lift": 8.999,
+      "support": 0.00275
+    },
+    {
+      "antecedent": "Himalaya Face Wash 100ml",
+      "consequent": "Maybelline Moisturizer 300ml",
+      "confidence": 0.1474,
+      "lift": 8.999,
+      "support": 0.00275
+    },
+    {
+      "antecedent": "Amul Tea 200g",
+      "consequent": "Fortune Biscuits 500g",
+      "confidence": 0.1372,
+      "lift": 8.978,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Fortune Biscuits 500g",
+      "consequent": "Amul Tea 200g",
+      "confidence": 0.0859,
+      "lift": 8.978,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "L'Oreal Hair Oil Proml",
+      "consequent": "Nivea Face Wash Proml",
+      "confidence": 0.1458,
+      "lift": 8.969,
+      "support": 0.00182
+    },
+    {
+      "antecedent": "Nivea Face Wash Proml",
+      "consequent": "L'Oreal Hair Oil Proml",
+      "confidence": 0.112,
+      "lift": 8.969,
+      "support": 0.00182
+    },
+    {
+      "antecedent": "Britannia Milk 100L",
+      "consequent": "Tata Atta X1kg",
+      "confidence": 0.1036,
+      "lift": 8.964,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Tata Atta X1kg",
+      "consequent": "Britannia Milk 100L",
+      "confidence": 0.1062,
+      "lift": 8.964,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Britannia Milk 100L",
+      "consequent": "Haldiram's Rice Prokg",
+      "confidence": 0.1,
+      "lift": 8.95,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "Haldiram's Rice Prokg",
+      "consequent": "Britannia Milk 100L",
+      "confidence": 0.1061,
+      "lift": 8.95,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "Nestle Juice Proml",
+      "consequent": "Tata Namkeen 300g",
+      "confidence": 0.1256,
+      "lift": 8.936,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "Tata Namkeen 300g",
+      "consequent": "Nestle Juice Proml",
+      "confidence": 0.0843,
+      "lift": 8.936,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "JBL Pulse Smartwatch X1",
+      "confidence": 0.0777,
+      "lift": 8.913,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "JBL Pulse Smartwatch X1",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.2233,
+      "lift": 8.913,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "Mi Pulse Smartwatch 400",
+      "confidence": 0.0784,
+      "lift": 8.906,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "Mi Pulse Smartwatch 400",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2163,
+      "lift": 8.906,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "Borosil Lunch Box Lite",
+      "consequent": "Pigeon Non-Stick Pan S2",
+      "confidence": 0.123,
+      "lift": 8.889,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Pigeon Non-Stick Pan S2",
+      "consequent": "Borosil Lunch Box Lite",
+      "confidence": 0.0948,
+      "lift": 8.889,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "L'Oreal Hair Oil Proml",
+      "consequent": "Nivea Face Wash 400ml",
+      "confidence": 0.1424,
+      "lift": 8.876,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Nivea Face Wash 400ml",
+      "consequent": "L'Oreal Hair Oil Proml",
+      "confidence": 0.1108,
+      "lift": 8.876,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Lakme Eau de Parfum S2ml",
+      "consequent": "Lakme Matte Lipstick S2",
+      "confidence": 0.1407,
+      "lift": 8.865,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Lakme Matte Lipstick S2",
+      "consequent": "Lakme Eau de Parfum S2ml",
+      "confidence": 0.0987,
+      "lift": 8.865,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Britannia Tea Maxg",
+      "consequent": "Amul Biscuits 500g",
+      "confidence": 0.1282,
+      "lift": 8.858,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Amul Biscuits 500g",
+      "consequent": "Britannia Tea Maxg",
+      "confidence": 0.0877,
+      "lift": 8.858,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Tata Coffee Plusg",
+      "consequent": "Nestle Namkeen 300g",
+      "confidence": 0.1382,
+      "lift": 8.829,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Nestle Namkeen 300g",
+      "consequent": "Tata Coffee Plusg",
+      "confidence": 0.0811,
+      "lift": 8.829,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Lakme Eau de Parfum Maxml",
+      "consequent": "Maybelline Matte Lipstick 100",
+      "confidence": 0.1298,
+      "lift": 8.811,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Maybelline Matte Lipstick 100",
+      "consequent": "Lakme Eau de Parfum Maxml",
+      "confidence": 0.0977,
+      "lift": 8.811,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "The Body Shop Hair Oil Liteml",
+      "consequent": "Himalaya Face Wash 100ml",
+      "confidence": 0.1644,
+      "lift": 8.808,
+      "support": 0.00203
+    },
+    {
+      "antecedent": "Himalaya Face Wash 100ml",
+      "consequent": "The Body Shop Hair Oil Liteml",
+      "confidence": 0.1088,
+      "lift": 8.808,
+      "support": 0.00203
+    },
+    {
+      "antecedent": "Nivea Face Wash Proml",
+      "consequent": "Himalaya Face Wash 100ml",
+      "confidence": 0.1641,
+      "lift": 8.791,
+      "support": 0.00267
+    },
+    {
+      "antecedent": "Himalaya Face Wash 100ml",
+      "consequent": "Nivea Face Wash Proml",
+      "confidence": 0.1429,
+      "lift": 8.791,
+      "support": 0.00267
+    },
+    {
+      "antecedent": "LEGO RC Helicopter 100",
+      "consequent": "LEGO Superhero Toy 400",
+      "confidence": 0.2676,
+      "lift": 8.781,
+      "support": 0.00339
+    },
+    {
+      "antecedent": "LEGO Superhero Toy 400",
+      "consequent": "LEGO RC Helicopter 100",
+      "confidence": 0.1111,
+      "lift": 8.781,
+      "support": 0.00339
+    },
+    {
+      "antecedent": "Samsung Pulse Smartwatch Plus",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2131,
+      "lift": 8.773,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "Samsung Pulse Smartwatch Plus",
+      "confidence": 0.0679,
+      "lift": 8.773,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Milton Pressure Cooker MaxL",
+      "consequent": "Borosil Mixer Grinder S2",
+      "confidence": 0.1087,
+      "lift": 8.766,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Borosil Mixer Grinder S2",
+      "consequent": "Milton Pressure Cooker MaxL",
+      "confidence": 0.1195,
+      "lift": 8.766,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Nivea Shampoo X1ml",
+      "consequent": "Maybelline Moisturizer 300ml",
+      "confidence": 0.1434,
+      "lift": 8.753,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Maybelline Moisturizer 300ml",
+      "consequent": "Nivea Shampoo X1ml",
+      "confidence": 0.1059,
+      "lift": 8.753,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Samsung Pulse Smartwatch Plus",
+      "confidence": 0.0676,
+      "lift": 8.724,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Samsung Pulse Smartwatch Plus",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.2186,
+      "lift": 8.724,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Mi Fit Watch Plus",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2117,
+      "lift": 8.715,
+      "support": 0.00199
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "Mi Fit Watch Plus",
+      "confidence": 0.0819,
+      "lift": 8.715,
+      "support": 0.00199
+    },
+    {
+      "antecedent": "Lakme Foundation Max",
+      "consequent": "The Body Shop Body Mist Plusml",
+      "confidence": 0.1047,
+      "lift": 8.712,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "The Body Shop Body Mist Plusml",
+      "consequent": "Lakme Foundation Max",
+      "confidence": 0.1408,
+      "lift": 8.712,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 100L",
+      "consequent": "Milton Lunch Box Pro",
+      "confidence": 0.0994,
+      "lift": 8.7,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Milton Lunch Box Pro",
+      "consequent": "Borosil Pressure Cooker 100L",
+      "confidence": 0.1259,
+      "lift": 8.7,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Sony Over-Ear Headphone 200",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2105,
+      "lift": 8.666,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "Sony Over-Ear Headphone 200",
+      "confidence": 0.0767,
+      "lift": 8.666,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "Samsung Over-Ear Headphone 400",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2105,
+      "lift": 8.666,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "Samsung Over-Ear Headphone 400",
+      "confidence": 0.0697,
+      "lift": 8.666,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "The Body Shop Eau de Parfum 400ml (2)",
+      "consequent": "Nivea Matte Lipstick 200",
+      "confidence": 0.1462,
+      "lift": 8.661,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Nivea Matte Lipstick 200",
+      "consequent": "The Body Shop Eau de Parfum 400ml (2)",
+      "confidence": 0.0927,
+      "lift": 8.661,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Lakme Matte Lipstick S2",
+      "consequent": "The Body Shop Body Mist Plusml",
+      "confidence": 0.104,
+      "lift": 8.653,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "The Body Shop Body Mist Plusml",
+      "consequent": "Lakme Matte Lipstick S2",
+      "confidence": 0.1373,
+      "lift": 8.653,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Mi Pulse Smartwatch 400",
+      "confidence": 0.076,
+      "lift": 8.635,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "Mi Pulse Smartwatch 400",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.2163,
+      "lift": 8.635,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "Westland Biography Max",
+      "consequent": "HarperCollins Bestseller Fiction Lite",
+      "confidence": 0.1056,
+      "lift": 8.633,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "HarperCollins Bestseller Fiction Lite",
+      "consequent": "Westland Biography Max",
+      "confidence": 0.1765,
+      "lift": 8.633,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "Cello Mixer Grinder S2",
+      "consequent": "Borosil Pressure Cooker 400L",
+      "confidence": 0.1219,
+      "lift": 8.621,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 400L",
+      "consequent": "Cello Mixer Grinder S2",
+      "confidence": 0.1018,
+      "lift": 8.621,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Tata Rice Maxkg",
+      "consequent": "Nestle Milk 100L",
+      "confidence": 0.0951,
+      "lift": 8.606,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Nestle Milk 100L",
+      "consequent": "Tata Rice Maxkg",
+      "confidence": 0.0958,
+      "lift": 8.606,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Penguin Biography Max",
+      "consequent": "HarperCollins Bestseller Fiction Lite",
+      "confidence": 0.105,
+      "lift": 8.588,
+      "support": 0.00212
+    },
+    {
+      "antecedent": "HarperCollins Bestseller Fiction Lite",
+      "consequent": "Penguin Biography Max",
+      "confidence": 0.173,
+      "lift": 8.588,
+      "support": 0.00212
+    },
+    {
+      "antecedent": "Lakme Shampoo S2ml",
+      "consequent": "Maybelline Moisturizer 300ml",
+      "confidence": 0.1399,
+      "lift": 8.544,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Maybelline Moisturizer 300ml",
+      "consequent": "Lakme Shampoo S2ml",
+      "confidence": 0.1059,
+      "lift": 8.544,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Amul Tea 200g",
+      "consequent": "Britannia Namkeen 100g",
+      "confidence": 0.1195,
+      "lift": 8.529,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Britannia Namkeen 100g",
+      "consequent": "Amul Tea 200g",
+      "confidence": 0.0816,
+      "lift": 8.529,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Britannia Namkeen 100g",
+      "consequent": "Tata Tea 200g",
+      "confidence": 0.0846,
+      "lift": 8.506,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "Tata Tea 200g",
+      "consequent": "Britannia Namkeen 100g",
+      "confidence": 0.1191,
+      "lift": 8.506,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "The Body Shop Body Mist Plusml",
+      "consequent": "Mamaearth Matte Lipstick 200",
+      "confidence": 0.1232,
+      "lift": 8.49,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Mamaearth Matte Lipstick 200",
+      "consequent": "The Body Shop Body Mist Plusml",
+      "confidence": 0.102,
+      "lift": 8.49,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Amul Tea 200g",
+      "consequent": "Nestle Namkeen 300g",
+      "confidence": 0.1327,
+      "lift": 8.477,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Nestle Namkeen 300g",
+      "consequent": "Amul Tea 200g",
+      "confidence": 0.0811,
+      "lift": 8.477,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "The Body Shop Eau de Parfum 400ml (2)",
+      "consequent": "Lakme Matte Lipstick S2",
+      "confidence": 0.1344,
+      "lift": 8.468,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Lakme Matte Lipstick S2",
+      "consequent": "The Body Shop Eau de Parfum 400ml (2)",
+      "confidence": 0.0907,
+      "lift": 8.468,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "Noise Fit Watch 400",
+      "confidence": 0.0697,
+      "lift": 8.444,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Himalaya Matte Lipstick 500",
+      "consequent": "Lakme Body Mist S2ml",
+      "confidence": 0.0943,
+      "lift": 8.444,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Lakme Body Mist S2ml",
+      "consequent": "Himalaya Matte Lipstick 500",
+      "confidence": 0.1326,
+      "lift": 8.444,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Noise Fit Watch 400",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2051,
+      "lift": 8.444,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Cello Non-Stick Pan 300",
+      "consequent": "Pigeon Storage Container Set 400",
+      "confidence": 0.1006,
+      "lift": 8.43,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Pigeon Storage Container Set 400",
+      "consequent": "Cello Non-Stick Pan 300",
+      "confidence": 0.117,
+      "lift": 8.43,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Noise Fit Watch 400",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.2103,
+      "lift": 8.392,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Noise Fit Watch 400",
+      "confidence": 0.0693,
+      "lift": 8.392,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Mamaearth Matte Lipstick 200",
+      "consequent": "Lakme Eau de Parfum S2ml",
+      "confidence": 0.0933,
+      "lift": 8.382,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Lakme Eau de Parfum S2ml",
+      "consequent": "Mamaearth Matte Lipstick 200",
+      "confidence": 0.1217,
+      "lift": 8.382,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Philips Storage Container Set 300",
+      "consequent": "Milton Pressure Cooker MaxL",
+      "confidence": 0.1138,
+      "lift": 8.35,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Milton Pressure Cooker MaxL",
+      "consequent": "Philips Storage Container Set 300",
+      "confidence": 0.1025,
+      "lift": 8.35,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Noise Over-Ear Headphone 100",
+      "consequent": "Dell Note 100",
+      "confidence": 0.2025,
+      "lift": 8.337,
+      "support": 0.00203
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "Noise Over-Ear Headphone 100",
+      "confidence": 0.0836,
+      "lift": 8.337,
+      "support": 0.00203
+    },
+    {
+      "antecedent": "Nestle Juice Proml",
+      "consequent": "Britannia Namkeen 100g",
+      "confidence": 0.1166,
+      "lift": 8.323,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Britannia Namkeen 100g",
+      "consequent": "Nestle Juice Proml",
+      "confidence": 0.0785,
+      "lift": 8.323,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Amul Tea Plusg",
+      "consequent": "Tata Namkeen 300g",
+      "confidence": 0.1169,
+      "lift": 8.319,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Tata Namkeen 300g",
+      "consequent": "Amul Tea Plusg",
+      "confidence": 0.0813,
+      "lift": 8.319,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Himalaya Face Wash 100ml",
+      "consequent": "The Body Shop Shampoo 200ml",
+      "confidence": 0.102,
+      "lift": 8.314,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "The Body Shop Shampoo 200ml",
+      "consequent": "Himalaya Face Wash 100ml",
+      "confidence": 0.1552,
+      "lift": 8.314,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "Tata Coffee S2g",
+      "consequent": "Tata Biscuits Liteg",
+      "confidence": 0.1139,
+      "lift": 8.308,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Tata Biscuits Liteg",
+      "consequent": "Tata Coffee S2g",
+      "confidence": 0.0833,
+      "lift": 8.308,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Lakme Face Wash 100ml",
+      "consequent": "Nivea Face Wash Proml",
+      "confidence": 0.1349,
+      "lift": 8.302,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "Nivea Face Wash Proml",
+      "consequent": "Lakme Face Wash 100ml",
+      "confidence": 0.1328,
+      "lift": 8.302,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "Borosil Electric Kettle X1",
+      "consequent": "Milton Pressure Cooker MaxL",
+      "confidence": 0.1126,
+      "lift": 8.262,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Milton Pressure Cooker MaxL",
+      "consequent": "Borosil Electric Kettle X1",
+      "confidence": 0.1056,
+      "lift": 8.262,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Lakme Foundation Max",
+      "consequent": "Lakme Eau de Parfum S2ml",
+      "confidence": 0.0916,
+      "lift": 8.232,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Tata Tea 200g",
+      "consequent": "Amul Biscuits 500g",
+      "confidence": 0.1191,
+      "lift": 8.232,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "Lakme Eau de Parfum S2ml",
+      "consequent": "Lakme Foundation Max",
+      "confidence": 0.1331,
+      "lift": 8.232,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Amul Biscuits 500g",
+      "consequent": "Tata Tea 200g",
+      "confidence": 0.0819,
+      "lift": 8.232,
+      "support": 0.00118
+    },
+    {
+      "antecedent": "Nestle Atta X1kg",
+      "consequent": "Haldiram's Rice Prokg",
+      "confidence": 0.092,
+      "lift": 8.23,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "Haldiram's Rice Prokg",
+      "consequent": "Nestle Atta X1kg",
+      "confidence": 0.0909,
+      "lift": 8.23,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "HarperCollins Bestseller Fiction Lite",
+      "consequent": "Bloomsbury Self-Help Guide 500",
+      "confidence": 0.1696,
+      "lift": 8.226,
+      "support": 0.00207
+    },
+    {
+      "antecedent": "Bloomsbury Self-Help Guide 500",
+      "consequent": "HarperCollins Bestseller Fiction Lite",
+      "confidence": 0.1006,
+      "lift": 8.226,
+      "support": 0.00207
+    },
+    {
+      "antecedent": "Amul Biscuits 500g",
+      "consequent": "Nestle Namkeen 300g",
+      "confidence": 0.1287,
+      "lift": 8.216,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "Nestle Namkeen 300g",
+      "consequent": "Amul Biscuits 500g",
+      "confidence": 0.1189,
+      "lift": 8.216,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "Lakme Matte Lipstick S2",
+      "consequent": "Nivea Matte Lipstick 200",
+      "confidence": 0.1387,
+      "lift": 8.212,
+      "support": 0.0022
+    },
+    {
+      "antecedent": "Nivea Matte Lipstick 200",
+      "consequent": "Lakme Matte Lipstick S2",
+      "confidence": 0.1303,
+      "lift": 8.212,
+      "support": 0.0022
+    },
+    {
+      "antecedent": "The Body Shop Shampoo 200ml",
+      "consequent": "Maybelline Moisturizer 300ml",
+      "confidence": 0.1345,
+      "lift": 8.211,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Maybelline Moisturizer 300ml",
+      "consequent": "The Body Shop Shampoo 200ml",
+      "confidence": 0.1008,
+      "lift": 8.211,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Titan Aviator Sunglasses Pro",
+      "consequent": "American Tourister Chronograph Watch 400",
+      "confidence": 0.1857,
+      "lift": 8.202,
+      "support": 0.0022
+    },
+    {
+      "antecedent": "American Tourister Chronograph Watch 400",
+      "consequent": "Titan Aviator Sunglasses Pro",
+      "confidence": 0.0972,
+      "lift": 8.202,
+      "support": 0.0022
+    },
+    {
+      "antecedent": "Noise Pulse Smartwatch Max",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.2054,
+      "lift": 8.197,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Noise Pulse Smartwatch Max",
+      "confidence": 0.0777,
+      "lift": 8.197,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "Haldiram's Rice Prokg",
+      "consequent": "Tata Atta X1kg",
+      "confidence": 0.0947,
+      "lift": 8.196,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Tata Atta X1kg",
+      "consequent": "Haldiram's Rice Prokg",
+      "confidence": 0.0916,
+      "lift": 8.196,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Amul Tea 200g",
+      "consequent": "Tata Namkeen 300g",
+      "confidence": 0.115,
+      "lift": 8.188,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Tata Namkeen 300g",
+      "consequent": "Amul Tea 200g",
+      "confidence": 0.0783,
+      "lift": 8.188,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Samsung Fit Watch X1",
+      "consequent": "Mi Over-Ear Headphone Max",
+      "confidence": 0.0741,
+      "lift": 8.179,
+      "support": 0.00068
+    },
+    {
+      "antecedent": "Mi Over-Ear Headphone Max",
+      "consequent": "Samsung Fit Watch X1",
+      "confidence": 0.0748,
+      "lift": 8.179,
+      "support": 0.00068
+    },
+    {
+      "antecedent": "HP Pulse Smartwatch Max",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.2049,
+      "lift": 8.177,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "JBL Pulse Smartwatch 300",
+      "confidence": 0.0709,
+      "lift": 8.177,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "HP Pulse Smartwatch Max",
+      "confidence": 0.0709,
+      "lift": 8.177,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "JBL Pulse Smartwatch 300",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.2049,
+      "lift": 8.177,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Nestle Juice Proml",
+      "consequent": "Tata Biscuits Liteg",
+      "confidence": 0.1121,
+      "lift": 8.176,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Tata Biscuits Liteg",
+      "consequent": "Nestle Juice Proml",
+      "confidence": 0.0772,
+      "lift": 8.176,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Cello Storage Container Set 200",
+      "consequent": "Cello Non-Stick Pan 300",
+      "confidence": 0.1133,
+      "lift": 8.164,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Cello Non-Stick Pan 300",
+      "consequent": "Cello Storage Container Set 200",
+      "confidence": 0.1037,
+      "lift": 8.164,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Milton Lunch Box Pro",
+      "consequent": "Milton Pressure Cooker MaxL",
+      "confidence": 0.1111,
+      "lift": 8.154,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Milton Pressure Cooker MaxL",
+      "consequent": "Milton Lunch Box Pro",
+      "confidence": 0.0932,
+      "lift": 8.154,
+      "support": 0.00127
+    },
+    {
+      "antecedent": "Fortune Biscuits 500g",
+      "consequent": "Tata Coffee Plusg",
+      "confidence": 0.0748,
+      "lift": 8.144,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Tata Coffee Plusg",
+      "consequent": "Fortune Biscuits 500g",
+      "confidence": 0.1244,
+      "lift": 8.144,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Tata Namkeen 300g",
+      "consequent": "Tata Biscuits 300g",
+      "confidence": 0.1054,
+      "lift": 8.141,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Tata Biscuits 300g",
+      "consequent": "Tata Namkeen 300g",
+      "confidence": 0.1144,
+      "lift": 8.141,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Lakme Eau de Parfum Maxml",
+      "consequent": "Nivea Matte Lipstick 200",
+      "confidence": 0.1374,
+      "lift": 8.137,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Nivea Matte Lipstick 200",
+      "consequent": "Lakme Eau de Parfum Maxml",
+      "confidence": 0.0902,
+      "lift": 8.137,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Borosil Mixer Grinder S2",
+      "consequent": "Cello Non-Stick Pan 300",
+      "confidence": 0.1126,
+      "lift": 8.114,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Cello Non-Stick Pan 300",
+      "consequent": "Borosil Mixer Grinder S2",
+      "confidence": 0.1006,
+      "lift": 8.114,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Tata Coffee S2g",
+      "consequent": "Tata Namkeen 300g",
+      "confidence": 0.1139,
+      "lift": 8.108,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Tata Namkeen 300g",
+      "consequent": "Tata Coffee S2g",
+      "confidence": 0.0813,
+      "lift": 8.108,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Aashirvaad Tea Maxg",
+      "consequent": "Fortune Biscuits 500g",
+      "confidence": 0.1239,
+      "lift": 8.107,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Fortune Biscuits 500g",
+      "consequent": "Aashirvaad Tea Maxg",
+      "confidence": 0.0748,
+      "lift": 8.107,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Levi's Slim Jeans Plus",
+      "consequent": "Nike Graphic Tee 500",
+      "confidence": 0.0788,
+      "lift": 8.097,
+      "support": 0.00068
+    },
+    {
+      "antecedent": "Nike Graphic Tee 500",
+      "consequent": "Levi's Slim Jeans Plus",
+      "confidence": 0.0696,
+      "lift": 8.097,
+      "support": 0.00068
+    },
+    {
+      "antecedent": "JBL Pulse Smartwatch 300",
+      "consequent": "Mi Over-Ear Headphone Max",
+      "confidence": 0.0732,
+      "lift": 8.079,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Mi Over-Ear Headphone Max",
+      "consequent": "JBL Pulse Smartwatch 300",
+      "confidence": 0.0701,
+      "lift": 8.079,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Aashirvaad Juice 400ml",
+      "consequent": "Tata Biscuits Liteg",
+      "confidence": 0.1106,
+      "lift": 8.067,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Tata Biscuits Liteg",
+      "consequent": "Aashirvaad Juice 400ml",
+      "confidence": 0.0772,
+      "lift": 8.067,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Nivea Shampoo X1ml",
+      "consequent": "Nivea Face Wash 400ml",
+      "confidence": 0.1294,
+      "lift": 8.066,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Nivea Face Wash 400ml",
+      "consequent": "Nivea Shampoo X1ml",
+      "confidence": 0.0976,
+      "lift": 8.066,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Milton Pressure Cooker MaxL",
+      "consequent": "Cello Non-Stick Pan 300",
+      "confidence": 0.1118,
+      "lift": 8.054,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Cello Non-Stick Pan 300",
+      "consequent": "Milton Pressure Cooker MaxL",
+      "confidence": 0.1098,
+      "lift": 8.054,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 400L",
+      "consequent": "Philips Storage Container Set 300",
+      "confidence": 0.0988,
+      "lift": 8.05,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Philips Storage Container Set 300",
+      "consequent": "Borosil Pressure Cooker 400L",
+      "confidence": 0.1138,
+      "lift": 8.05,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Maybelline Matte Lipstick 100",
+      "consequent": "The Body Shop Eau de Parfum 400ml",
+      "confidence": 0.092,
+      "lift": 8.047,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "The Body Shop Eau de Parfum 400ml",
+      "consequent": "Maybelline Matte Lipstick 100",
+      "confidence": 0.1185,
+      "lift": 8.047,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Amul Tea Plusg",
+      "consequent": "Britannia Namkeen 100g",
+      "confidence": 0.1126,
+      "lift": 8.035,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Britannia Namkeen 100g",
+      "consequent": "Amul Tea Plusg",
+      "confidence": 0.0785,
+      "lift": 8.035,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "Dell Pulse Smartwatch 200",
+      "confidence": 0.0801,
+      "lift": 8.024,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "Dell Pulse Smartwatch 200",
+      "consequent": "Dell Note 100",
+      "confidence": 0.1949,
+      "lift": 8.024,
+      "support": 0.00195
+    },
+    {
+      "antecedent": "Titan Analog Watch S2",
+      "consequent": "Titan Aviator Sunglasses 200",
+      "confidence": 0.1141,
+      "lift": 8.021,
+      "support": 0.00237
+    },
+    {
+      "antecedent": "Titan Aviator Sunglasses 200",
+      "consequent": "Titan Analog Watch S2",
+      "confidence": 0.1667,
+      "lift": 8.021,
+      "support": 0.00237
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 100L",
+      "consequent": "Borosil Electric Kettle X1",
+      "confidence": 0.1023,
+      "lift": 8.007,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Borosil Electric Kettle X1",
+      "consequent": "Borosil Pressure Cooker 100L",
+      "confidence": 0.1159,
+      "lift": 8.007,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Levi's Formal Shirt 200",
+      "consequent": "Zara Floral Dress Max",
+      "confidence": 0.0657,
+      "lift": 8.006,
+      "support": 0.00059
+    },
+    {
+      "antecedent": "Zara Floral Dress Max",
+      "consequent": "Levi's Formal Shirt 200",
+      "confidence": 0.0722,
+      "lift": 8.006,
+      "support": 0.00059
+    },
+    {
+      "antecedent": "Mi Inspiron Plus",
+      "consequent": "Dell Wireless Earbuds 500",
+      "confidence": 0.0671,
+      "lift": 8.004,
+      "support": 0.00047
+    },
+    {
+      "antecedent": "Dell Wireless Earbuds 500",
+      "consequent": "Mi Inspiron Plus",
+      "confidence": 0.0556,
+      "lift": 8.004,
+      "support": 0.00047
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "JBL Pulse Smartwatch X1",
+      "confidence": 0.0697,
+      "lift": 7.993,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "JBL Pulse Smartwatch X1",
+      "consequent": "Dell Note 100",
+      "confidence": 0.1942,
+      "lift": 7.993,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Mattel Puzzle Set S2",
+      "consequent": "Penguin Storybook Pro",
+      "confidence": 0.1207,
+      "lift": 7.988,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Penguin Storybook Pro",
+      "consequent": "Mattel Puzzle Set S2",
+      "confidence": 0.1176,
+      "lift": 7.988,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Pigeon Non-Stick Pan S2",
+      "consequent": "Pigeon Storage Container Set 400",
+      "confidence": 0.0948,
+      "lift": 7.943,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Pigeon Storage Container Set 400",
+      "consequent": "Pigeon Non-Stick Pan S2",
+      "confidence": 0.1099,
+      "lift": 7.943,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Lakme Eau de Parfum Maxml",
+      "consequent": "Lakme Matte Lipstick S2",
+      "confidence": 0.126,
+      "lift": 7.936,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Lakme Matte Lipstick S2",
+      "consequent": "Lakme Eau de Parfum Maxml",
+      "confidence": 0.088,
+      "lift": 7.936,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Fastrack Laptop Backpack 400",
+      "consequent": "Ray-Ban Leather Wallet 300",
+      "confidence": 0.1047,
+      "lift": 7.928,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Ray-Ban Leather Wallet 300",
+      "consequent": "Fastrack Laptop Backpack 400",
+      "confidence": 0.1218,
+      "lift": 7.928,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Yonex Track Suit 200",
+      "consequent": "Nike Cricket Bat 300",
+      "confidence": 0.0858,
+      "lift": 7.917,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Nivea Face Wash 400ml",
+      "consequent": "Lakme Face Wash 100ml",
+      "confidence": 0.1266,
+      "lift": 7.917,
+      "support": 0.00203
+    },
+    {
+      "antecedent": "Nike Cricket Bat 300",
+      "consequent": "Yonex Track Suit 200",
+      "confidence": 0.1602,
+      "lift": 7.917,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Adidas Running Shoes Plus",
+      "consequent": "Cosco Cricket Bat Pro",
+      "confidence": 0.0858,
+      "lift": 7.917,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Cosco Cricket Bat Pro",
+      "consequent": "Adidas Running Shoes Plus",
+      "confidence": 0.1602,
+      "lift": 7.917,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Lakme Face Wash 100ml",
+      "consequent": "Nivea Face Wash 400ml",
+      "confidence": 0.127,
+      "lift": 7.917,
+      "support": 0.00203
+    },
+    {
+      "antecedent": "HP Over-Ear Headphone Lite",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.1982,
+      "lift": 7.911,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "HP Over-Ear Headphone Lite",
+      "confidence": 0.0743,
+      "lift": 7.911,
+      "support": 0.00186
+    },
+    {
+      "antecedent": "HP Pulse Smartwatch Max",
+      "consequent": "Samsung Over-Ear Headphone 400",
+      "confidence": 0.0634,
+      "lift": 7.886,
+      "support": 0.00055
+    },
+    {
+      "antecedent": "Samsung Over-Ear Headphone 400",
+      "consequent": "HP Pulse Smartwatch Max",
+      "confidence": 0.0684,
+      "lift": 7.886,
+      "support": 0.00055
+    },
+    {
+      "antecedent": "Tata Namkeen 300g",
+      "consequent": "Tata Tea 200g",
+      "confidence": 0.0783,
+      "lift": 7.874,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Tata Tea 200g",
+      "consequent": "Tata Namkeen 300g",
+      "confidence": 0.1106,
+      "lift": 7.874,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Aashirvaad Juice 400ml",
+      "consequent": "Tata Biscuits 300g",
+      "confidence": 0.1018,
+      "lift": 7.859,
+      "support": 0.00097
+    },
+    {
+      "antecedent": "Aashirvaad Tea Maxg",
+      "consequent": "Britannia Namkeen 100g",
+      "confidence": 0.1101,
+      "lift": 7.859,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "Britannia Namkeen 100g",
+      "consequent": "Aashirvaad Tea Maxg",
+      "confidence": 0.0725,
+      "lift": 7.859,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "Tata Biscuits 300g",
+      "consequent": "Aashirvaad Juice 400ml",
+      "confidence": 0.0752,
+      "lift": 7.859,
+      "support": 0.00097
+    },
+    {
+      "antecedent": "Nike Floral Dress 500",
+      "consequent": "Allen Solly Slim Fit Shirt Plus",
+      "confidence": 0.0755,
+      "lift": 7.856,
+      "support": 0.00068
+    },
+    {
+      "antecedent": "Allen Solly Slim Fit Shirt Plus",
+      "consequent": "Nike Floral Dress 500",
+      "confidence": 0.0705,
+      "lift": 7.856,
+      "support": 0.00068
+    },
+    {
+      "antecedent": "Haldiram's Rice Prokg",
+      "consequent": "Amul Ghee 200ml",
+      "confidence": 0.0947,
+      "lift": 7.851,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Amul Ghee 200ml",
+      "consequent": "Haldiram's Rice Prokg",
+      "confidence": 0.0877,
+      "lift": 7.851,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Levi's Formal Shirt 200",
+      "consequent": "Nike Floral Dress 500",
+      "confidence": 0.0704,
+      "lift": 7.849,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Nike Floral Dress 500",
+      "consequent": "Levi's Formal Shirt 200",
+      "confidence": 0.0708,
+      "lift": 7.849,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Titan Analog Watch S2",
+      "consequent": "Ray-Ban Wayfarer Sunglasses Plus",
+      "confidence": 0.1039,
+      "lift": 7.841,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "Ray-Ban Wayfarer Sunglasses Plus",
+      "consequent": "Titan Analog Watch S2",
+      "confidence": 0.1629,
+      "lift": 7.841,
+      "support": 0.00216
+    },
+    {
+      "antecedent": "Ray-Ban Wayfarer Sunglasses Max",
+      "consequent": "American Tourister Chronograph Watch 400",
+      "confidence": 0.1773,
+      "lift": 7.831,
+      "support": 0.00212
+    },
+    {
+      "antecedent": "American Tourister Chronograph Watch 400",
+      "consequent": "Ray-Ban Wayfarer Sunglasses Max",
+      "confidence": 0.0935,
+      "lift": 7.831,
+      "support": 0.00212
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 100L",
+      "consequent": "Cello Storage Container Set 200",
+      "confidence": 0.0994,
+      "lift": 7.83,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Cello Storage Container Set 200",
+      "consequent": "Borosil Pressure Cooker 100L",
+      "confidence": 0.1133,
+      "lift": 7.83,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Sony Over-Ear Headphone 200",
+      "confidence": 0.0693,
+      "lift": 7.83,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Sony Over-Ear Headphone 200",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.1962,
+      "lift": 7.83,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Cello Storage Container Set 200",
+      "consequent": "Milton Pressure Cooker MaxL",
+      "confidence": 0.1067,
+      "lift": 7.827,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Milton Pressure Cooker MaxL",
+      "consequent": "Cello Storage Container Set 200",
+      "confidence": 0.0994,
+      "lift": 7.827,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Tata Biscuits 300g",
+      "consequent": "Tata Coffee S2g",
+      "confidence": 0.0784,
+      "lift": 7.82,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "Tata Coffee S2g",
+      "consequent": "Tata Biscuits 300g",
+      "confidence": 0.1013,
+      "lift": 7.82,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "H&M Slim Fit Shirt S2",
+      "consequent": "Van Heusen Slim Jeans 500",
+      "confidence": 0.0704,
+      "lift": 7.812,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Van Heusen Slim Jeans 500",
+      "consequent": "H&M Slim Fit Shirt S2",
+      "confidence": 0.0704,
+      "lift": 7.812,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Casio Laptop Backpack 300",
+      "consequent": "Ray-Ban Wayfarer Sunglasses Plus",
+      "confidence": 0.1034,
+      "lift": 7.81,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Ray-Ban Wayfarer Sunglasses Plus",
+      "consequent": "Casio Laptop Backpack 300",
+      "confidence": 0.1246,
+      "lift": 7.81,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "The Body Shop Hair Oil Liteml",
+      "consequent": "Nivea Face Wash Proml",
+      "confidence": 0.1267,
+      "lift": 7.797,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Nivea Face Wash Proml",
+      "consequent": "The Body Shop Hair Oil Liteml",
+      "confidence": 0.0964,
+      "lift": 7.797,
+      "support": 0.00157
+    },
+    {
+      "antecedent": "Mi Inspiron Plus",
+      "consequent": "HP Over-Ear Headphone Lite",
+      "confidence": 0.0732,
+      "lift": 7.788,
+      "support": 0.00051
+    },
+    {
+      "antecedent": "HP Over-Ear Headphone Lite",
+      "consequent": "Mi Inspiron Plus",
+      "confidence": 0.0541,
+      "lift": 7.788,
+      "support": 0.00051
+    },
+    {
+      "antecedent": "American Tourister Chronograph Watch 400",
+      "consequent": "Casio Wayfarer Sunglasses Max",
+      "confidence": 0.1028,
+      "lift": 7.786,
+      "support": 0.00233
+    },
+    {
+      "antecedent": "Casio Wayfarer Sunglasses Max",
+      "consequent": "American Tourister Chronograph Watch 400",
+      "confidence": 0.1763,
+      "lift": 7.786,
+      "support": 0.00233
+    },
+    {
+      "antecedent": "Cello Storage Container Set 200",
+      "consequent": "Borosil Pressure Cooker 400L",
+      "confidence": 0.11,
+      "lift": 7.782,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 400L",
+      "consequent": "Cello Storage Container Set 200",
+      "confidence": 0.0988,
+      "lift": 7.782,
+      "support": 0.0014
+    },
+    {
+      "antecedent": "American Tourister Analog Watch 200",
+      "consequent": "Casio Wayfarer Sunglasses Max",
+      "confidence": 0.1027,
+      "lift": 7.779,
+      "support": 0.00224
+    },
+    {
+      "antecedent": "Casio Wayfarer Sunglasses Max",
+      "consequent": "American Tourister Analog Watch 200",
+      "confidence": 0.1699,
+      "lift": 7.779,
+      "support": 0.00224
+    },
+    {
+      "antecedent": "Nivea Face Wash 400ml",
+      "consequent": "Himalaya Face Wash 100ml",
+      "confidence": 0.1451,
+      "lift": 7.776,
+      "support": 0.00233
+    },
+    {
+      "antecedent": "Levi's Formal Shirt 200",
+      "consequent": "Levi's Cotton T-Shirt 500",
+      "confidence": 0.0704,
+      "lift": 7.776,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Himalaya Face Wash 100ml",
+      "consequent": "Nivea Face Wash 400ml",
+      "confidence": 0.1247,
+      "lift": 7.776,
+      "support": 0.00233
+    },
+    {
+      "antecedent": "Levi's Cotton T-Shirt 500",
+      "consequent": "Levi's Formal Shirt 200",
+      "confidence": 0.0701,
+      "lift": 7.776,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Britannia Milk 100L",
+      "consequent": "Nestle Atta X1kg",
+      "confidence": 0.0857,
+      "lift": 7.76,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "Nestle Atta X1kg",
+      "consequent": "Britannia Milk 100L",
+      "confidence": 0.092,
+      "lift": 7.76,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "Himalaya Matte Lipstick 500",
+      "consequent": "Lakme Eau de Parfum S2ml",
+      "confidence": 0.0863,
+      "lift": 7.749,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Lakme Eau de Parfum S2ml",
+      "consequent": "Himalaya Matte Lipstick 500",
+      "confidence": 0.1217,
+      "lift": 7.749,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Yonex Dumbbell Set 500kg",
+      "consequent": "Yonex Track Suit 200",
+      "confidence": 0.1567,
+      "lift": 7.747,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Yonex Track Suit 200",
+      "consequent": "Yonex Dumbbell Set 500kg",
+      "confidence": 0.0879,
+      "lift": 7.747,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Fisher-Price Construction Kit S2",
+      "consequent": "LEGO Superhero Toy 400",
+      "confidence": 0.2359,
+      "lift": 7.743,
+      "support": 0.00372
+    },
+    {
+      "antecedent": "LEGO Superhero Toy 400",
+      "consequent": "Fisher-Price Construction Kit S2",
+      "confidence": 0.1222,
+      "lift": 7.743,
+      "support": 0.00372
+    },
+    {
+      "antecedent": "Milton Lunch Box Pro",
+      "consequent": "Cello Non-Stick Pan 300",
+      "confidence": 0.1074,
+      "lift": 7.738,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Cello Non-Stick Pan 300",
+      "consequent": "Milton Lunch Box Pro",
+      "confidence": 0.0884,
+      "lift": 7.738,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Cello Non-Stick Pan 300",
+      "consequent": "Philips Storage Container Set 300",
+      "confidence": 0.0945,
+      "lift": 7.701,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Philips Storage Container Set 300",
+      "consequent": "Cello Non-Stick Pan 300",
+      "confidence": 0.1069,
+      "lift": 7.701,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Van Heusen Kurta Set 500",
+      "consequent": "Levi's Formal Shirt 400",
+      "confidence": 0.0655,
+      "lift": 7.7,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Levi's Formal Shirt 400",
+      "consequent": "Van Heusen Kurta Set 500",
+      "confidence": 0.0746,
+      "lift": 7.7,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Cello Mixer Grinder S2",
+      "consequent": "Borosil Pressure Cooker 100L",
+      "confidence": 0.1111,
+      "lift": 7.677,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 100L",
+      "consequent": "Cello Mixer Grinder S2",
+      "confidence": 0.0906,
+      "lift": 7.677,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "HP Pulse Smartwatch S2",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.1921,
+      "lift": 7.667,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "HP Pulse Smartwatch S2",
+      "confidence": 0.0574,
+      "lift": 7.667,
+      "support": 0.00144
+    },
+    {
+      "antecedent": "Fastrack Laptop Backpack 100",
+      "consequent": "Wildcraft Leather Wallet S2",
+      "confidence": 0.1019,
+      "lift": 7.666,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Wildcraft Leather Wallet S2",
+      "consequent": "Fastrack Laptop Backpack 100",
+      "confidence": 0.121,
+      "lift": 7.666,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Dell Wireless Earbuds 500",
+      "confidence": 0.0642,
+      "lift": 7.66,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Dell Wireless Earbuds 500",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.1919,
+      "lift": 7.66,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Fortune Biscuits 500g",
+      "consequent": "Amul Tea Plusg",
+      "confidence": 0.0748,
+      "lift": 7.651,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Amul Tea Plusg",
+      "consequent": "Fortune Biscuits 500g",
+      "confidence": 0.1169,
+      "lift": 7.651,
+      "support": 0.00114
+    },
+    {
+      "antecedent": "Mi Wireless Earbuds Plus",
+      "consequent": "Dell Note 100",
+      "confidence": 0.1855,
+      "lift": 7.637,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Dell Note 100",
+      "consequent": "Mi Wireless Earbuds Plus",
+      "confidence": 0.0714,
+      "lift": 7.637,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Van Heusen Graphic Tee Lite",
+      "consequent": "Peter England Straight Fit Jeans Plus",
+      "confidence": 0.0614,
+      "lift": 7.636,
+      "support": 0.00059
+    },
+    {
+      "antecedent": "Peter England Straight Fit Jeans Plus",
+      "consequent": "Van Heusen Graphic Tee Lite",
+      "confidence": 0.0737,
+      "lift": 7.636,
+      "support": 0.00059
+    },
+    {
+      "antecedent": "Borosil Electric Kettle X1",
+      "consequent": "Cello Non-Stick Pan 300",
+      "confidence": 0.106,
+      "lift": 7.633,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Cello Non-Stick Pan 300",
+      "consequent": "Borosil Electric Kettle X1",
+      "confidence": 0.0976,
+      "lift": 7.633,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Fortune Biscuits 500g",
+      "consequent": "Nestle Juice Proml",
+      "confidence": 0.072,
+      "lift": 7.631,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Nestle Juice Proml",
+      "consequent": "Fortune Biscuits 500g",
+      "confidence": 0.1166,
+      "lift": 7.631,
+      "support": 0.0011
+    },
+    {
+      "antecedent": "Bajaj Mixer Grinder Max",
+      "consequent": "Borosil Pressure Cooker 100L",
+      "confidence": 0.1103,
+      "lift": 7.624,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 100L",
+      "consequent": "Bajaj Mixer Grinder Max",
+      "confidence": 0.0936,
+      "lift": 7.624,
+      "support": 0.00135
+    },
+    {
+      "antecedent": "Ray-Ban Wayfarer Sunglasses Plus",
+      "consequent": "American Tourister Analog Watch 200",
+      "confidence": 0.1661,
+      "lift": 7.608,
+      "support": 0.0022
+    },
+    {
+      "antecedent": "American Tourister Analog Watch 200",
+      "consequent": "Ray-Ban Wayfarer Sunglasses Plus",
+      "confidence": 0.1008,
+      "lift": 7.608,
+      "support": 0.0022
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 400L",
+      "consequent": "Milton Lunch Box Pro",
+      "confidence": 0.0868,
+      "lift": 7.599,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Milton Lunch Box Pro",
+      "consequent": "Borosil Pressure Cooker 400L",
+      "confidence": 0.1074,
+      "lift": 7.599,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 100L",
+      "consequent": "Pigeon Storage Container Set 400",
+      "confidence": 0.0906,
+      "lift": 7.595,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Pigeon Storage Container Set 400",
+      "consequent": "Borosil Pressure Cooker 100L",
+      "confidence": 0.1099,
+      "lift": 7.595,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Mi Wireless Earbuds Plus",
+      "confidence": 0.0709,
+      "lift": 7.585,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Mi Wireless Earbuds Plus",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.19,
+      "lift": 7.585,
+      "support": 0.00178
+    },
+    {
+      "antecedent": "Sony Over-Ear Headphone 200",
+      "consequent": "Mi Inspiron Plus",
+      "confidence": 0.0526,
+      "lift": 7.583,
+      "support": 0.00047
+    },
+    {
+      "antecedent": "Mi Inspiron Plus",
+      "consequent": "Sony Over-Ear Headphone 200",
+      "confidence": 0.0671,
+      "lift": 7.583,
+      "support": 0.00047
+    },
+    {
+      "antecedent": "Cello Storage Container Set Lite",
+      "consequent": "Borosil Pressure Cooker 100L",
+      "confidence": 0.1095,
+      "lift": 7.568,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Borosil Pressure Cooker 100L",
+      "consequent": "Cello Storage Container Set Lite",
+      "confidence": 0.0906,
+      "lift": 7.568,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Lakme Body Mist S2ml",
+      "consequent": "Mamaearth Matte Lipstick 200",
+      "confidence": 0.1098,
+      "lift": 7.567,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Mamaearth Matte Lipstick 200",
+      "consequent": "Lakme Body Mist S2ml",
+      "confidence": 0.0845,
+      "lift": 7.567,
+      "support": 0.00123
+    },
+    {
+      "antecedent": "Tata Coffee Plusg",
+      "consequent": "Britannia Namkeen 100g",
+      "confidence": 0.106,
+      "lift": 7.566,
+      "support": 0.00097
+    },
+    {
+      "antecedent": "Britannia Namkeen 100g",
+      "consequent": "Tata Coffee Plusg",
+      "confidence": 0.0695,
+      "lift": 7.566,
+      "support": 0.00097
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Samsung Over-Ear Headphone 400",
+      "confidence": 0.0608,
+      "lift": 7.563,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Samsung Over-Ear Headphone 400",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.1895,
+      "lift": 7.563,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Nivea Face Wash Proml",
+      "consequent": "Lakme Shampoo S2ml",
+      "confidence": 0.0938,
+      "lift": 7.56,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Lakme Shampoo S2ml",
+      "consequent": "Nivea Face Wash Proml",
+      "confidence": 0.1229,
+      "lift": 7.56,
+      "support": 0.00152
+    },
+    {
+      "antecedent": "Himalaya Matte Lipstick 500",
+      "consequent": "Lakme Eau de Parfum Maxml",
+      "confidence": 0.0836,
+      "lift": 7.536,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Lakme Eau de Parfum Maxml",
+      "consequent": "Himalaya Matte Lipstick 500",
+      "confidence": 0.1183,
+      "lift": 7.536,
+      "support": 0.00131
+    },
+    {
+      "antecedent": "Tata Biscuits 300g",
+      "consequent": "Amul Tea 200g",
+      "confidence": 0.0719,
+      "lift": 7.517,
+      "support": 0.00093
+    },
+    {
+      "antecedent": "Amul Tea 200g",
+      "consequent": "Tata Biscuits 300g",
+      "confidence": 0.0973,
+      "lift": 7.517,
+      "support": 0.00093
+    },
+    {
+      "antecedent": "Fortune Biscuits 500g",
+      "consequent": "Britannia Namkeen 100g",
+      "confidence": 0.1053,
+      "lift": 7.514,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Britannia Namkeen 100g",
+      "consequent": "Fortune Biscuits 500g",
+      "confidence": 0.1148,
+      "lift": 7.514,
+      "support": 0.00161
+    },
+    {
+      "antecedent": "Rupa Picture Book 100",
+      "consequent": "LEGO Board Game 400",
+      "confidence": 0.1071,
+      "lift": 7.512,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "LEGO Board Game 400",
+      "consequent": "Rupa Picture Book 100",
+      "confidence": 0.1157,
+      "lift": 7.512,
+      "support": 0.00165
+    },
+    {
+      "antecedent": "Nike Floral Dress 500",
+      "consequent": "Puma Floral Dress S2",
+      "confidence": 0.0613,
+      "lift": 7.508,
+      "support": 0.00055
+    },
+    {
+      "antecedent": "Puma Floral Dress S2",
+      "consequent": "Nike Floral Dress 500",
+      "confidence": 0.0674,
+      "lift": 7.508,
+      "support": 0.00055
+    },
+    {
+      "antecedent": "Britannia Milk 100L",
+      "consequent": "Nestle Paneer 300g",
+      "confidence": 0.0893,
+      "lift": 7.508,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Nestle Paneer 300g",
+      "consequent": "Britannia Milk 100L",
+      "confidence": 0.089,
+      "lift": 7.508,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Puma Floral Dress S2",
+      "consequent": "Van Heusen Kurta Set 500",
+      "confidence": 0.0725,
+      "lift": 7.485,
+      "support": 0.00059
+    },
+    {
+      "antecedent": "Van Heusen Kurta Set 500",
+      "consequent": "Puma Floral Dress S2",
+      "confidence": 0.0611,
+      "lift": 7.485,
+      "support": 0.00059
+    },
+    {
+      "antecedent": "Tata Biscuits Liteg",
+      "consequent": "Tata Tea 200g",
+      "confidence": 0.0741,
+      "lift": 7.448,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "Tata Tea 200g",
+      "consequent": "Tata Biscuits Liteg",
+      "confidence": 0.1021,
+      "lift": 7.448,
+      "support": 0.00102
+    },
+    {
+      "antecedent": "Penguin Storybook Pro",
+      "consequent": "Hot Wheels Board Game 200",
+      "confidence": 0.098,
+      "lift": 7.425,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Hot Wheels Board Game 200",
+      "consequent": "Penguin Storybook Pro",
+      "confidence": 0.1122,
+      "lift": 7.425,
+      "support": 0.00148
+    },
+    {
+      "antecedent": "Lakme Matte Lipstick S2",
+      "consequent": "Maybelline Matte Lipstick 100",
+      "confidence": 0.1093,
+      "lift": 7.424,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Maybelline Matte Lipstick 100",
+      "consequent": "Lakme Matte Lipstick S2",
+      "confidence": 0.1178,
+      "lift": 7.424,
+      "support": 0.00174
+    },
+    {
+      "antecedent": "Bajaj Mixer Grinder Max",
+      "consequent": "Samsung 4K UHD TV S2\"",
+      "confidence": 0.0552,
+      "lift": 7.407,
+      "support": 0.00068
+    },
+    {
+      "antecedent": "Samsung 4K UHD TV S2\"",
+      "consequent": "Bajaj Mixer Grinder Max",
+      "confidence": 0.0909,
+      "lift": 7.407,
+      "support": 0.00068
+    },
+    {
+      "antecedent": "Puma Floral Dress S2",
+      "consequent": "Van Heusen Saree 300",
+      "confidence": 0.0777,
+      "lift": 7.405,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Van Heusen Saree 300",
+      "consequent": "Puma Floral Dress S2",
+      "confidence": 0.0605,
+      "lift": 7.405,
+      "support": 0.00063
+    },
+    {
+      "antecedent": "Samsung Fit Watch X1",
+      "consequent": "boAt Galaxy 200",
+      "confidence": 0.1852,
+      "lift": 7.391,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "boAt Galaxy 200",
+      "consequent": "Samsung Fit Watch X1",
+      "confidence": 0.0676,
+      "lift": 7.391,
+      "support": 0.00169
+    },
+    {
+      "antecedent": "Decathlon Track Suit 400",
+      "consequent": "Cosco Dumbbell Set X1kg",
+      "confidence": 0.0938,
+      "lift": 7.384,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "Cosco Dumbbell Set X1kg",
+      "consequent": "Decathlon Track Suit 400",
+      "confidence": 0.15,
+      "lift": 7.384,
+      "support": 0.0019
+    },
+    {
+      "antecedent": "Tata Biscuits 300g",
+      "consequent": "Amul Tea Plusg",
+      "confidence": 0.0719,
+      "lift": 7.354,
+      "support": 0.00093
+    },
+    {
+      "antecedent": "Amul Tea Plusg",
+      "consequent": "Tata Biscuits 300g",
+      "confidence": 0.0952,
+      "lift": 7.354,
+      "support": 0.00093
+    },
+    {
+      "antecedent": "Cello Storage Container Set Lite",
+      "consequent": "Borosil Electric Kettle 500",
+      "confidence": 0.0883,
+      "lift": 7.35,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Borosil Electric Kettle 500",
+      "consequent": "Cello Storage Container Set Lite",
+      "confidence": 0.088,
+      "lift": 7.35,
+      "support": 0.00106
+    },
+    {
+      "antecedent": "Noise Over-Ear Headphone 100",
+      "consequent": "Samsung Over-Ear Headphone 400",
+      "confidence": 0.0591,
+      "lift": 7.346,
+      "support": 0.00059
+    },
+    {
+      "antecedent": "Samsung Over-Ear Headphone 400",
+      "consequent": "Noise Over-Ear Headphone 100",
+      "confidence": 0.0737,
+      "lift": 7.346,
+      "support": 0.00059
+    }
+  ],
+  "popular": [
+    "LEGO Superhero Toy 400",
+    "Hasbro Superhero Toy 200",
+    "boAt Galaxy 200",
+    "Dell Note 100",
+    "American Tourister Chronograph Watch 400",
+    "American Tourister Analog Watch 200",
+    "Nivia Track Suit X1",
+    "Titan Analog Watch S2",
+    "Yonex Running Shoes 100",
+    "Bloomsbury Self-Help Guide 500",
+    "Westland Biography Max",
+    "Nivia Track Suit 400",
+    "Decathlon Track Suit 400",
+    "Yonex Track Suit 200",
+    "Adidas Running Shoes Plus",
+    "Penguin Biography Max",
+    "Decathlon Track Suit Plus",
+    "Himalaya Face Wash 100ml",
+    "Hot Wheels Block Set S2",
+    "Mattel Block Set Pro",
+    "American Tourister Travel Duffel Plus",
+    "Mattel Construction Kit Max",
+    "Hot Wheels Block Set 100",
+    "Wildcraft Laptop Backpack Lite",
+    "Nivea Matte Lipstick 200",
+    "Scholastic Picture Book S2",
+    "LEGO Construction Kit Lite",
+    "Maybelline Moisturizer 300ml",
+    "Nivea Face Wash Proml",
+    "Lakme Foundation Max"
+  ]
+}
