@@ -1,0 +1,3 @@
+"""
+RetailIQ FastAPI Backend Package.
+"""
